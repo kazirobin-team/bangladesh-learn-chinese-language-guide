@@ -1,177 +1,230 @@
-২৬. 六
-English Pronunciation: Liù
-বাংলা উচ্চারণ: লিও
-অর্থ: ছয়
-Sentence: 六个人学习中文。
-(ছয়জন মানুষ চাইনিজ শিখছে।)
+# HSK 1 Level - Vocabulary (Numbers 6-10, Common Nouns & Family Members)
 
-২৭. 七
-English Pronunciation: Qī
-বাংলা উচ্চারণ: ছি
-অর্থ: সাত
-Sentence: 今天七点起床。
-(আজ সাতটায় ঘুম থেকে উঠেছি।)
-
-২৮. 八
-English Pronunciation: Bā
-বাংলা উচ্চারণ: বা
-অর্থ: আট
-Sentence: 八个人来了。
-(আটজন মানুষ এসেছে।)
-
-২৯. 九
-English Pronunciation: Jiǔ
-বাংলা উচ্চারণ: জিও
-অর্থ: নয়
-Sentence: 我九岁了。
-(আমার বয়স নয় বছর।)
-
-৩০. 十
-English Pronunciation: Shí
-বাংলা উচ্চারণ: শ
-অর্থ: দশ
-Sentence: 十个苹果很好。
-(দশটি আপেল ভালো।)
-
-৩১. 零
-English Pronunciation: Líng
-বাংলা উচ্চারণ: লিং
-অর্থ: শূন্য
-Sentence: 现在是零度。
-(এখন তাপমাত্রা শূন্য ডিগ্রি।)
-
-৩২. 人
-English Pronunciation: Rén
-বাংলা উচ্চারণ: রেন
-অর্থ: মানুষ
-Sentence: 那个人是老师。
-(ওই মানুষটি শিক্ষক।)
-
-৩৩. 名字
-English Pronunciation: Míngzi
-বাংলা উচ্চারণ: মিং জা
-অর্থ: নাম
-Sentence: 你的名字是什么？
-(তোমার নাম কি?)
-
-৩৪. 老师
-English Pronunciation: Lǎoshī
-বাংলা উচ্চারণ: লাও শি
-অর্থ: শিক্ষক
-Sentence: 我的老师很好。
-(আমার শিক্ষক খুব ভালো।)
-
-৩৫. 学生
-English Pronunciation: Xuéshēng
-বাংলা উচ্চারণ: শুয়ে শাং
-অর্থ: ছাত্র
-Sentence: 他是学生。
-(সে ছাত্র।)
-
-৩৬. 学校
-English Pronunciation: Xuéxiào
-বাংলা উচ্চারণ: শুয়ে শিয়াও
-অর্থ: স্কুল
-Sentence: 我去学校。
-(আমি স্কুলে যাই।)
-
-৩৭. 中国
-English Pronunciation: Zhōngguó
-বাংলা উচ্চারণ: ঝং গো
-অর্থ: চীন
-Sentence: 我喜欢中国。
-(আমি চীনকে পছন্দ করি।)
-
-৩৮. 中国人
-English Pronunciation: Zhōngguó rén
-বাংলা উচ্চারণ: ঝং গো রেন
-অর্থ: চাইনিজ মানুষ
-Sentence: 他是中国人。
-(সে চাইনিজ।)
-
-৩৯. 朋友
-English Pronunciation: Péngyou
-বাংলা উচ্চারণ: পাং ইয়ো
-অর্থ: বন্ধু
-Sentence: 他是我的朋友。
-(সে আমার বন্ধু।)
-
-৪০. 家
-English Pronunciation: Jiā
-বাংলা উচ্চারণ: জিয়া
-অর্থ: বাড়ি
-Sentence: 我回家了。
-(আমি বাসায় ফিরেছি।)
-
+This document continues the HSK Level 1 vocabulary series, featuring numbers 6-10, common nouns, and family-related vocabulary. Each entry includes complete pinyin pronunciation for both individual words and example sentences, Bengali transliteration, English translation, and Bengali meanings.
 
 ---
 
-৪১. 爸爸
-English Pronunciation: Bàba
-বাংলা উচ্চারণ: বাবা
-অর্থ: বাবা
-Sentence: 我爸爸很好。
-(আমার বাবা খুব ভালো।)
+## Numbers (6-10)
 
-৪২. 妈妈
-English Pronunciation: Māma
-বাংলা উচ্চারণ: মামা
-অর্থ: মা
-Sentence: 我妈妈做饭。
-(আমার মা রান্না করেন।)
+### 26. 六 (Six)
+- **Pinyin:** Liù
+- **Bengali Pronunciation:** লিও
+- **English Translation:** Six
+- **Example Sentence:** 六个人学习中文。
+  - **Sentence Pinyin:** Liù ge rén xuéxí Zhōngwén.
+  - **Bengali Meaning:** ছয়জন মানুষ চাইনিজ শিখছে।
 
-৪৩. 儿子
-English Pronunciation: Érzi
-বাংলা উচ্চারণ: আর জা
-অর্থ: ছেলে
-Sentence: 他有一个儿子。
-(তার একটি ছেলে আছে।)
+### 27. 七 (Seven)
+- **Pinyin:** Qī
+- **Bengali Pronunciation:** ছি
+- **English Translation:** Seven
+- **Example Sentence:** 今天七点起床。
+  - **Sentence Pinyin:** Jīntiān qī diǎn qǐchuáng.
+  - **Bengali Meaning:** আজ সাতটায় ঘুম থেকে উঠেছি।
 
-৪৪. 女儿
-English Pronunciation: Nǚ’ér
-বাংলা উচ্চারণ: নিউ আর
-অর্থ: মেয়ে
-Sentence: 她有一个女儿。
-(তার একটি মেয়ে আছে।)
+### 28. 八 (Eight)
+- **Pinyin:** Bā
+- **Bengali Pronunciation:** বা
+- **English Translation:** Eight
+- **Example Sentence:** 八个人来了。
+  - **Sentence Pinyin:** Bā ge rén lái le.
+  - **Bengali Meaning:** আটজন মানুষ এসেছে।
 
-৪৫. 水
-English Pronunciation: Shuǐ
-বাংলা উচ্চারণ: শুই
-অর্থ: পানি
-Sentence: 我喝水。
-(আমি পানি পান করি।)
+### 29. 九 (Nine)
+- **Pinyin:** Jiǔ
+- **Bengali Pronunciation:** জিও
+- **English Translation:** Nine
+- **Example Sentence:** 我九岁了。
+  - **Sentence Pinyin:** Wǒ jiǔ suì le.
+  - **Bengali Meaning:** আমার বয়স নয় বছর।
 
-৪৬. 茶
-English Pronunciation: Chá
-বাংলা উচ্চারণ: ছা
-অর্থ: চা
-Sentence: 我喜欢喝茶。
-(আমি চা পান করতে পছন্দ করি।)
+### 30. 十 (Ten)
+- **Pinyin:** Shí
+- **Bengali Pronunciation:** শ
+- **English Translation:** Ten
+- **Example Sentence:** 十个苹果很好。
+  - **Sentence Pinyin:** Shí ge píngguǒ hěn hǎo.
+  - **Bengali Meaning:** দশটি আপেল ভালো।
 
-৪৭. 米饭
-English Pronunciation: Mǐfàn
-বাংলা উচ্চারণ: মি ফান
-অর্থ: ভাত
-Sentence: 我吃米饭。
-(আমি ভাত খাই।)
+### 31. 零 (Zero)
+- **Pinyin:** Líng
+- **Bengali Pronunciation:** লিং
+- **English Translation:** Zero / Nil
+- **Example Sentence:** 现在是零度。
+  - **Sentence Pinyin:** Xiànzài shì líng dù.
+  - **Bengali Meaning:** এখন তাপমাত্রা শূন্য ডিগ্রি।
 
-৪৮. 苹果
-English Pronunciation: Píngguǒ
-বাংলা উচ্চারণ: পিং গোয়া
-অর্থ: আপেল
-Sentence: 我喜欢苹果。
-(আমি আপেল পছন্দ করি।)
+---
 
-৪৯. 猫
-English Pronunciation: Māo
-বাংলা উচ্চারণ: মাও
-অর্থ: বিড়াল
-Sentence: 我有一只猫。
-(আমার একটি বিড়াল আছে।)
+## Common Nouns & People
 
-৫০. 狗
-English Pronunciation: Gǒu
-বাংলা উচ্চারণ: গোউ
-অর্থ: কুকুর
-Sentence: 那只狗很大。
-(ওই কুকুরটি অনেক বড়।)
+### 32. 人 (Person)
+- **Pinyin:** Rén
+- **Bengali Pronunciation:** রেন
+- **English Translation:** Person / People
+- **Example Sentence:** 那个人是老师。
+  - **Sentence Pinyin:** Nàge rén shì lǎoshī.
+  - **Bengali Meaning:** ওই মানুষটি শিক্ষক।
+
+### 33. 名字 (Name)
+- **Pinyin:** Míngzi
+- **Bengali Pronunciation:** মিং জা
+- **English Translation:** Name
+- **Example Sentence:** 你的名字是什么？
+  - **Sentence Pinyin:** Nǐ de míngzi shì shénme?
+  - **Bengali Meaning:** তোমার নাম কি?
+
+### 34. 老师 (Teacher)
+- **Pinyin:** Lǎoshī
+- **Bengali Pronunciation:** লাও শি
+- **English Translation:** Teacher
+- **Example Sentence:** 我的老师很好。
+  - **Sentence Pinyin:** Wǒ de lǎoshī hěn hǎo.
+  - **Bengali Meaning:** আমার শিক্ষক খুব ভালো।
+
+### 35. 学生 (Student)
+- **Pinyin:** Xuéshēng
+- **Bengali Pronunciation:** শুয়ে শাং
+- **English Translation:** Student
+- **Example Sentence:** 他是学生。
+  - **Sentence Pinyin:** Tā shì xuéshēng.
+  - **Bengali Meaning:** সে ছাত্র।
+
+### 36. 学校 (School)
+- **Pinyin:** Xuéxiào
+- **Bengali Pronunciation:** শুয়ে শিয়াও
+- **English Translation:** School
+- **Example Sentence:** 我去学校。
+  - **Sentence Pinyin:** Wǒ qù xuéxiào.
+  - **Bengali Meaning:** আমি স্কুলে যাই।
+
+### 37. 中国 (China)
+- **Pinyin:** Zhōngguó
+- **Bengali Pronunciation:** ঝং গো
+- **English Translation:** China
+- **Example Sentence:** 我喜欢中国。
+  - **Sentence Pinyin:** Wǒ xǐhuān Zhōngguó.
+  - **Bengali Meaning:** আমি চীনকে পছন্দ করি।
+
+### 38. 中国人 (Chinese Person)
+- **Pinyin:** Zhōngguó rén
+- **Bengali Pronunciation:** ঝং গো রেন
+- **English Translation:** Chinese person
+- **Example Sentence:** 他是中国人。
+  - **Sentence Pinyin:** Tā shì Zhōngguó rén.
+  - **Bengali Meaning:** সে চাইনিজ।
+
+### 39. 朋友 (Friend)
+- **Pinyin:** Péngyou
+- **Bengali Pronunciation:** পাং ইয়ো
+- **English Translation:** Friend
+- **Example Sentence:** 他是我的朋友。
+  - **Sentence Pinyin:** Tā shì wǒ de péngyou.
+  - **Bengali Meaning:** সে আমার বন্ধু।
+
+### 40. 家 (Home / Family)
+- **Pinyin:** Jiā
+- **Bengali Pronunciation:** জিয়া
+- **English Translation:** Home / Family / House
+- **Example Sentence:** 我回家了。
+  - **Sentence Pinyin:** Wǒ huí jiā le.
+  - **Bengali Meaning:** আমি বাসায় ফিরেছি।
+
+---
+
+## Family Members & Food
+
+### 41. 爸爸 (Father)
+- **Pinyin:** Bàba
+- **Bengali Pronunciation:** বাবা
+- **English Translation:** Father / Dad
+- **Example Sentence:** 我爸爸很好。
+  - **Sentence Pinyin:** Wǒ bàba hěn hǎo.
+  - **Bengali Meaning:** আমার বাবা খুব ভালো।
+
+### 42. 妈妈 (Mother)
+- **Pinyin:** Māma
+- **Bengali Pronunciation:** মামা
+- **English Translation:** Mother / Mom
+- **Example Sentence:** 我妈妈做饭。
+  - **Sentence Pinyin:** Wǒ māma zuò fàn.
+  - **Bengali Meaning:** আমার মা রান্না করেন।
+
+### 43. 儿子 (Son)
+- **Pinyin:** Érzi
+- **Bengali Pronunciation:** আর জা
+- **English Translation:** Son
+- **Example Sentence:** 他有一个儿子。
+  - **Sentence Pinyin:** Tā yǒu yī ge érzi.
+  - **Bengali Meaning:** তার একটি ছেলে আছে।
+
+### 44. 女儿 (Daughter)
+- **Pinyin:** Nǚ'ér
+- **Bengali Pronunciation:** নিউ আর
+- **English Translation:** Daughter
+- **Example Sentence:** 她有一个女儿。
+  - **Sentence Pinyin:** Tā yǒu yī ge nǚ'ér.
+  - **Bengali Meaning:** তার একটি মেয়ে আছে।
+
+### 45. 水 (Water)
+- **Pinyin:** Shuǐ
+- **Bengali Pronunciation:** শুই
+- **English Translation:** Water
+- **Example Sentence:** 我喝水。
+  - **Sentence Pinyin:** Wǒ hē shuǐ.
+  - **Bengali Meaning:** আমি পানি পান করি।
+
+### 46. 茶 (Tea)
+- **Pinyin:** Chá
+- **Bengali Pronunciation:** ছা
+- **English Translation:** Tea
+- **Example Sentence:** 我喜欢喝茶。
+  - **Sentence Pinyin:** Wǒ xǐhuān hē chá.
+  - **Bengali Meaning:** আমি চা পান করতে পছন্দ করি।
+
+### 47. 米饭 (Rice)
+- **Pinyin:** Mǐfàn
+- **Bengali Pronunciation:** মি ফান
+- **English Translation:** Rice / Cooked rice
+- **Example Sentence:** 我吃米饭。
+  - **Sentence Pinyin:** Wǒ chī mǐfàn.
+  - **Bengali Meaning:** আমি ভাত খাই।
+
+### 48. 苹果 (Apple)
+- **Pinyin:** Píngguǒ
+- **Bengali Pronunciation:** পিং গোয়া
+- **English Translation:** Apple
+- **Example Sentence:** 我喜欢苹果。
+  - **Sentence Pinyin:** Wǒ xǐhuān píngguǒ.
+  - **Bengali Meaning:** আমি আপেল পছন্দ করি।
+
+### 49. 猫 (Cat)
+- **Pinyin:** Māo
+- **Bengali Pronunciation:** মাও
+- **English Translation:** Cat
+- **Example Sentence:** 我有一只猫。
+  - **Sentence Pinyin:** Wǒ yǒu yī zhī māo.
+  - **Bengali Meaning:** আমার একটি বিড়াল আছে।
+
+### 50. 狗 (Dog)
+- **Pinyin:** Gǒu
+- **Bengali Pronunciation:** গোউ
+- **English Translation:** Dog
+- **Example Sentence:** 那只狗很大。
+  - **Sentence Pinyin:** Nà zhī gǒu hěn dà.
+  - **Bengali Meaning:** ওই কুকুরটি অনেক বড়।
+
+---
+
+## Study Tips
+
+- **Vocabulary Organization:** This section covers essential vocabulary for numbers 6-10, common nouns for people and places, family members, and basic food items.
+- **Contextual Learning:** Each word is presented with a practical example sentence to help you understand usage in real conversation.
+- **Pronunciation Practice:** Use both the pinyin and Bengali pronunciations to practice aloud, paying attention to tones.
+- **Vocabulary Expansion:** Build on these foundational words by combining them with the grammar particles and pronouns from the previous vocabulary section.
+
+---
+
+## Next Steps
+
+Continue to the next HSK 1 vocabulary section to expand your knowledge of essential Chinese vocabulary and expressions. Combine these words with basic sentence patterns to form simple, meaningful sentences for everyday communication.
