@@ -1,253 +1,231 @@
-# HSK 2 Level - বাংলা শিক্ষার্থীদের জন্য মৌলিক ভোকাবুলারি গাইড
+**# HSK 2 Level - দৈনন্দিন জীবনের মৌলিক শব্দভাণ্ডার**
 
-এই ডকুমেন্ট HSK Level 2 এর প্রথম ২৫টি মৌলিক শব্দ উপস্থাপন করে। প্রতিটি এন্ট্রিতে সম্পূর্ণ pinyin উচ্চারণ, বাংলা অনুবাদ, এবং বাস্তব উদাহরণ অন্তর্ভুক্ত রয়েছে যা দৈনন্দিন কথোপকথনে ব্যবহৃত হয়।
-
----
-
-## দ্বিতীয় ব্যক্তি এবং সর্বনাম (Pronouns & Personal References)
-
-### 1. 你 (You)
-- **Pinyin:** nǐ
-- **Bengali Pronunciation:** নি
-- **English Translation:** You (singular, informal)
-- **Example Sentence:** 你好吗？
-  - **Sentence Pinyin:** Nǐ hǎo ma?
-  - **Bengali Meaning:** তুমি ভালো আছো?
-
-### 2. 我 (I/Me)
-- **Pinyin:** wǒ
-- **Bengali Pronunciation:** ওয়ো
-- **English Translation:** I/Me
-- **Example Sentence:** 我叫王明。
-  - **Sentence Pinyin:** Wǒ jiào Wáng Míng.
-  - **Bengali Meaning:** আমার নাম ওয়াং মিং।
-
-### 3. 他 (He/Him)
-- **Pinyin:** tā
-- **Bengali Pronunciation:** তা
-- **English Translation:** He/Him
-- **Example Sentence:** 他是医生。
-  - **Sentence Pinyin:** Tā shì yīshēng.
-  - **Bengali Meaning:** তিনি ডাক্তার।
-
-### 4. 她 (She/Her)
-- **Pinyin:** tā
-- **Bengali Pronunciation:** তা
-- **English Translation:** She/Her
-- **Example Sentence:** 她在学校。
-  - **Sentence Pinyin:** Tā zài xuéxiào.
-  - **Bengali Meaning:** তিনি স্কুলে আছেন।
-
-### 5. 它 (It)
-- **Pinyin:** tā
-- **Bengali Pronunciation:** তা
-- **English Translation:** It (for animals/objects)
-- **Example Sentence:** 它是一只猫。
-  - **Sentence Pinyin:** Tā shì yī zhī māo.
-  - **Bengali Meaning:** এটি একটি বিড়াল।
+এই ডকুমেন্ট HSK Level 2 এর দৈনন্দিন কথোপকথন, ক্রিয়া, বিশেষণ এবং সাধারণ বিষয়ের উপর ভিত্তি করে ২৫টি গুরুত্বপূর্ণ নতুন শব্দ উপস্থাপন করে। প্রতিটি এন্ট্রিতে সম্পূর্ণ Pinyin উচ্চারণ, বাংলা উচ্চারণ, অর্থ এবং বাস্তব উদাহরণ বাক্য অন্তর্ভুক্ত রয়েছে।
 
 ---
 
-## দৈনন্দিন ক্রিয়া এবং কাজ (Verbs - Daily Actions)
+## ক্রিয়া (Verbs)
 
-### 6. 去 (Go)
-- **Pinyin:** qù
-- **Bengali Pronunciation:** চু
-- **English Translation:** To go
-- **Example Sentence:** 我去公园。
-  - **Sentence Pinyin:** Wǒ qù gōngyuán.
-  - **Bengali Meaning:** আমি পার্কে যাই।
+### ১. 跑 (Run)
+- **Pinyin:** pǎo
+- **Bengali Pronunciation:** পাও
+- **English Translation:** দৌড়ানো, ছুটে যাওয়া
+- **Example Sentence:** 他跑得很快。
+  - **Sentence Pinyin:** Tā pǎo de hěn kuài.
+  - **Bengali Meaning:** সে খুব দ্রুত দৌড়ায়।
 
-### 7. 来 (Come)
-- **Pinyin:** lái
-- **Bengali Pronunciation:** লাই
-- **English Translation:** To come
-- **Example Sentence:** 他来了。
-  - **Sentence Pinyin:** Tā lái le.
-  **Bengali Meaning:** তিনি এসেছেন।
+### ২. 唱歌 (Sing)
+- **Pinyin:** chàng gē
+- **Bengali Pronunciation:** চাং গ্য
+- **English Translation:** গান গাওয়া
+- **Example Sentence:** 我喜欢唱歌。
+  - **Sentence Pinyin:** Wǒ xǐhuan chànggē.
+  - **Bengali Meaning:** আমি গান গাইতে পছন্দ করি।
 
-### 8. 吃 (Eat)
-- **Pinyin:** chī
-- **Bengali Pronunciation:** চি
-- **English Translation:** To eat
-- **Example Sentence:** 我吃米饭。
-  - **Sentence Pinyin:** Wǒ chī mǐfàn.
-  - **Bengali Meaning:** আমি ভাত খাই।
+### ৩. 游泳 (Swim)
+- **Pinyin:** yóu yǒng
+- **Bengali Pronunciation:** ইউ ইয়ং
+- **English Translation:** সাঁতার কাটা
+- **Example Sentence:** 夏天我们去游泳。
+  - **Sentence Pinyin:** Xiàtiān wǒmen qù yóuyǒng.
+  - **Bengali Meaning:** গ্রীষ্মে আমরা সাঁতার কাটতে যাই।
 
-### 9. 喝 (Drink)
-- **Pinyin:** hē
-- **Bengali Pronunciation:** হো
-- **English Translation:** To drink
-- **Example Sentence:** 你喝茶吗？
-  - **Sentence Pinyin:** Nǐ hē chá ma?
-  - **Bengali Meaning:** তুমি চা পান করো?
+### ৪. 帮助 (Help)
+- **Pinyin:** bāng zhù
+- **Bengali Pronunciation:** বাং জু
+- **English Translation:** সাহায্য করা
+- **Example Sentence:** 请帮助我。
+  - **Sentence Pinyin:** Qǐng bāngzhù wǒ.
+  - **Bengali Meaning:** অনুগ্রহ করে আমাকে সাহায্য করুন।
 
-### 10. 睡 (Sleep)
-- **Pinyin:** shuì
-- **Bengali Pronunciation:** শুয়ে
-- **English Translation:** To sleep
-- **Example Sentence:** 我要睡觉。
-  - **Sentence Pinyin:** Wǒ yào shuìjiào.
-  - **Bengali Meaning:** আমাকে ঘুমাতে হবে।
-
----
-
-## কর্মসংক্রান্ত ক্রিয়া (Verbs - Work & Study)
-
-### 11. 工作 (Work)
-- **Pinyin:** gōngzuò
-- **Bengali Pronunciation:** গোং-জুয়ো
-- **English Translation:** To work/Work
-- **Example Sentence:** 他在公司工作。
-  - **Sentence Pinyin:** Tā zài gōngsī gōngzuò.
-  - **Bengali Meaning:** তিনি কোম্পানিতে কাজ করেন।
-
-### 12. 学 (Study/Learn)
-- **Pinyin:** xué
-- **Bengali Pronunciation:** শুয়ে
-- **English Translation:** To study/learn
-- **Example Sentence:** 我学中文。
-  - **Sentence Pinyin:** Wǒ xué Zhōngwén.
-  - **Bengali Meaning:** আমি চীনা শিখি।
-
-### 13. 看 (Look/Watch/Read)
-- **Pinyin:** kàn
-- **Bengali Pronunciation:** কান
-- **English Translation:** To look, watch, read
-- **Example Sentence:** 我看电视。
-  - **Sentence Pinyin:** Wǒ kàn diànshì.
-  - **Bengali Meaning:** আমি টেলিভিশন দেখি।
-
-### 14. 听 (Listen/Hear)
-- **Pinyin:** tīng
-- **Bengali Pronunciation:** তিং
-- **English Translation:** To listen/hear
-- **Example Sentence:** 我听音乐。
-  - **Sentence Pinyin:** Wǒ tīng yīnyuè.
-  - **Bengali Meaning:** আমি সঙ্গীত শুনি।
-
-### 15. 说 (Speak/Say)
-- **Pinyin:** shuō
-- **Bengali Pronunciation:** শুও
-- **English Translation:** To speak/say
-- **Example Sentence:** 他说英文。
-  - **Sentence Pinyin:** Tā shuō Yīngwén.
-  - **Bengali Meaning:** তিনি ইংরেজি বলেন।
+### ৫. 准备 (Prepare)
+- **Pinyin:** zhǔn bèi
+- **Bengali Pronunciation:** জুন বেই
+- **English Translation:** প্রস্তুত করা, প্রস্তুতি নেওয়া
+- **Example Sentence:** 我在准备考试。
+  - **Sentence Pinyin:** Wǒ zài zhǔnbèi kǎoshì.
+  - **Bengali Meaning:** আমি পরীক্ষার প্রস্তুতি নিচ্ছি।
 
 ---
 
-## সময় এবং অনুভূতি (Time & Feelings)
+## বিশেষণ (Adjectives)
 
-### 16. 今天 (Today)
-- **Pinyin:** jīntiān
-- **Bengali Pronunciation:** জিন-তিয়ান
-- **English Translation:** Today
-- **Example Sentence:** 今天天气很好。
-  - **Sentence Pinyin:** Jīntiān tiānqì hěn hǎo.
-  - **Bengali Meaning:** আজ আবহাওয়া খুব ভালো।
+### ৬. 白 (White)
+- **Pinyin:** bái
+- **Bengali Pronunciation:** বাই
+- **English Translation:** সাদা
+- **Example Sentence:** 我的衣服是白色的。
+  - **Sentence Pinyin:** Wǒ de yīfu shì báisè de.
+  - **Bengali Meaning:** আমার জামা সাদা রঙের।
 
-### 17. 明天 (Tomorrow)
-- **Pinyin:** míngtiān
-- **Bengali Pronunciation:** মিং-তিয়ান
-- **English Translation:** Tomorrow
-- **Example Sentence:** 明天我去学校。
-  - **Sentence Pinyin:** Míngtiān wǒ qù xuéxiào.
-  - **Bengali Meaning:** আগামীকাল আমি স্কুলে যাব।
+### ৭. 长 (Long)
+- **Pinyin:** cháng
+- **Bengali Pronunciation:** চাং
+- **English Translation:** লম্বা (দৈর্ঘ্যে)
+- **Example Sentence:** 她的头发很长。
+  - **Sentence Pinyin:** Tā de tóufa hěn cháng.
+  - **Bengali Meaning:** তার চুল খুব লম্বা।
 
-### 18. 昨天 (Yesterday)
-- **Pinyin:** zuótiān
-- **Bengali Pronunciation:** জুও-তিয়ান
-- **English Translation:** Yesterday
-- **Example Sentence:** 昨天我很忙。
-  - **Sentence Pinyin:** Zuótiān wǒ hěn máng.
-  - **Bengali Meaning:** গতকাল আমি খুব ব্যস্ত ছিলাম।
+### ৮. 便宜 (Cheap)
+- **Pinyin:** pián yi
+- **Bengali Pronunciation:** পিয়েন ই
+- **English Translation:** সস্তা, কম দামের
+- **Example Sentence:** 这个东西很便宜。
+  - **Sentence Pinyin:** Zhège dōngxi hěn piányi.
+  - **Bengali Meaning:** এই জিনিসটা খুব সস্তা।
 
-### 19. 高兴 (Happy/Glad)
-- **Pinyin:** gāoxìng
-- **Bengali Pronunciation:** গাও-শিং
-- **English Translation:** Happy/Glad
-- **Example Sentence:** 我很高兴。
-  - **Sentence Pinyin:** Wǒ hěn gāoxìng.
-  - **Bengali Meaning:** আমি খুব খুশি।
+### ৯. 快乐 (Happy)
+- **Pinyin:** kuài lè
+- **Bengali Pronunciation:** কুয়াই ল্য
+- **English Translation:** খুশি, আনন্দিত
+- **Example Sentence:** 今天我很快乐。
+  - **Sentence Pinyin:** Jīntiān wǒ hěn kuàilè.
+  - **Bengali Meaning:** আজ আমি খুব খুশি।
 
-### 20. 累 (Tired)
-- **Pinyin:** lèi
-- **Bengali Pronunciation:** লে
-- **English Translation:** Tired
-- **Example Sentence:** 我今天很累。
-  - **Sentence Pinyin:** Wǒ jīntiān hěn lèi.
-  - **Bengali Meaning:** আমি আজ খুব ক্লান্ত।
+### ১০. 远 (Far)
+- **Pinyin:** yuǎn
+- **Bengali Pronunciation:** ইউয়ান
+- **English Translation:** দূরে
+- **Example Sentence:** 学校离我家不远。
+  - **Sentence Pinyin:** Xuéxiào lí wǒ jiā bù yuǎn.
+  - **Bengali Meaning:** স্কুল আমার বাড়ি থেকে দূরে নয়।
 
 ---
 
-## পরিবার এবং সম্পর্ক (Family & Relationships)
+## বিশেষ্য ও অন্যান্য (Nouns & Others)
 
-### 21. 家 (Home/Family)
-- **Pinyin:** jiā
-- **Bengali Pronunciation:** জিয়া
-- **English Translation:** Home/Family
-- **Example Sentence:** 我在家。
-  - **Sentence Pinyin:** Wǒ zài jiā.
-  - **Bengali Meaning:** আমি বাড়িতে আছি।
+### ১১. 报纸 (Newspaper)
+- **Pinyin:** bào zhǐ
+- **Bengali Pronunciation:** বাও জি
+- **English Translation:** খবরের কাগজ
+- **Example Sentence:** 我每天看报纸。
+  - **Sentence Pinyin:** Wǒ měitiān kàn bàozhǐ.
+  - **Bengali Meaning:** আমি প্রতিদিন খবরের কাগজ পড়ি।
 
-### 22. 妈妈 (Mother)
-- **Pinyin:** māma
-- **Bengali Pronunciation:** মা-মা
-- **English Translation:** Mother
-- **Example Sentence:** 我的妈妈很好。
-  - **Sentence Pinyin:** Wǒ de māma hěn hǎo.
-  - **Bengali Meaning:** আমার মা খুব ভালো।
+### ১২. 宾馆 (Hotel)
+- **Pinyin:** bīn guǎn
+- **Bengali Pronunciation:** বিন গুয়ান
+- **English Translation:** হোটেল
+- **Example Sentence:** 我们住在宾馆。
+  - **Sentence Pinyin:** Wǒmen zhù zài bīnguǎn.
+  - **Bengali Meaning:** আমরা হোটেলে থাকি।
 
-### 23. 爸爸 (Father)
-- **Pinyin:** bàba
-- **Bengali Pronunciation:** বা-বা
-- **English Translation:** Father
-- **Example Sentence:** 爸爸在工作。
-  - **Sentence Pinyin:** Bàba zài gōngzuò.
-  - **Bengali Meaning:** বাবা কাজ করছেন।
+### ১৩. 天气 (Weather)
+- **Pinyin:** tiān qì
+- **Bengali Pronunciation:** তিয়েন চি
+- **English Translation:** আবহাওয়া
+- **Example Sentence:** 今天的天气很好。
+  - **Sentence Pinyin:** Jīntiān de tiānqì hěn hǎo.
+  - **Bengali Meaning:** আজকের আবহাওয়া খুব ভালো।
 
-### 24. 朋友 (Friend)
-- **Pinyin:** péngyou
-- **Bengali Pronunciation:** পেং-ইউ
-- **English Translation:** Friend
-- **Example Sentence:** 他是我的朋友。
-  - **Sentence Pinyin:** Tā shì wǒ de péngyou.
-  - **Bengali Meaning:** তিনি আমার বন্ধু।
+### ১৪. 左边 (Left side)
+- **Pinyin:** zuǒ bian
+- **Bengali Pronunciation:** জুও বিয়েন
+- **English Translation:** বাম দিক
+- **Example Sentence:** 书在左边。
+  - **Sentence Pinyin:** Shū zài zuǒbian.
+  - **Bengali Meaning:** বইটা বাম দিকে আছে।
 
-### 25. 名字 (Name)
-- **Pinyin:** míngzi
-- **Bengali Pronunciation:** মিং-জি
-- **English Translation:** Name
-- **Example Sentence:** 你的名字是什么？
-  - **Sentence Pinyin:** Nǐ de míngzi shì shénme?
-  - **Bengali Meaning:** তোমার নাম কি?
+### ১৫. 右边 (Right side)
+- **Pinyin:** yòu bian
+- **Bengali Pronunciation:** ইউ বিয়েন
+- **English Translation:** ডান দিক
+- **Example Sentence:** 他在我右边。
+  - **Sentence Pinyin:** Tā zài wǒ yòubian.
+  - **Bengali Meaning:** সে আমার ডান দিকে আছে।
+
+---
+
+## সময়, দিকনির্দেশনা ও অন্যান্য
+
+### ১৬. 已经 (Already)
+- **Pinyin:** yǐ jīng
+- **Bengali Pronunciation:** ই জিং
+- **English Translation:** ইতিমধ্যে
+- **Example Sentence:** 我已经吃了饭。
+  - **Sentence Pinyin:** Wǒ yǐjīng chī le fàn.
+  - **Bengali Meaning:** আমি ইতিমধ্যে খেয়ে নিয়েছি।
+
+### ১৭. 为什么 (Why)
+- **Pinyin:** wèi shén me
+- **Bengali Pronunciation:** ওয়েই শেন ম্য
+- **English Translation:** কেন
+- **Example Sentence:** 你为什么迟到？
+  - **Sentence Pinyin:** Nǐ wèishénme chídào?
+  - **Bengali Meaning:** তুমি কেন দেরি করলে?
+
+### ১৮. 大家 (Everyone)
+- **Pinyin:** dà jiā
+- **Bengali Pronunciation:** দা জিয়া
+- **English Translation:** সবাই, সকলে
+- **Example Sentence:** 大家好！
+  - **Sentence Pinyin:** Dàjiā hǎo!
+  - **Bengali Meaning:** সবাইকে শুভেচ্ছা!
+
+### ১৯. 次 (Time/occasion)
+- **Pinyin:** cì
+- **Bengali Pronunciation:** সি
+- **English Translation:** বার (গণনায়)
+- **Example Sentence:** 我去过两次中国。
+  - **Sentence Pinyin:** Wǒ qù guo liǎng cì Zhōngguó.
+  - **Bengali Meaning:** আমি দু'বার চীনে গিয়েছি।
+
+### ২০. 错 (Wrong)
+- **Pinyin:** cuò
+- **Bengali Pronunciation:** সুও
+- **English Translation:** ভুল
+- **Example Sentence:** 这个答案错了。
+  - **Sentence Pinyin:** Zhège dá'àn cuò le.
+  - **Bengali Meaning:** এই উত্তরটা ভুল।
+
+### ২১. 穿 (Wear)
+- **Pinyin:** chuān
+- **Bengali Pronunciation:** চুয়ান
+- **English Translation:** পরা (কাপড়)
+- **Example Sentence:** 她穿红衣服。
+  - **Sentence Pinyin:** Tā chuān hóng yīfu.
+  - **Bengali Meaning:** সে লাল জামা পরেছে।
+
+### ২২. 从 (From)
+- **Pinyin:** cóng
+- **Bengali Pronunciation:** সং
+- **English Translation:** থেকে (স্থান/সময়)
+- **Example Sentence:** 我从北京来。
+  - **Sentence Pinyin:** Wǒ cóng Běijīng lái.
+  - **Bengali Meaning:** আমি বেইজিং থেকে আসছি।
+
+### ২৩. 踢足球 (Play football)
+- **Pinyin:** tī zú qiú
+- **Bengali Pronunciation:** তি জু ছিউ
+- **English Translation:** ফুটবল খেলা
+- **Example Sentence:** 男孩们喜欢踢足球。
+  - **Sentence Pinyin:** Nánháimen xǐhuan tī zúqiú.
+  - **Bengali Meaning:** ছেলেরা ফুটবল খেলতে পছন্দ করে।
+
+### ২৪. 旅游 (Travel)
+- **Pinyin:** lǚ yóu
+- **Bengali Pronunciation:** লু ইউ
+- **English Translation:** ভ্রমণ করা
+- **Example Sentence:** 我想去旅游。
+  - **Sentence Pinyin:** Wǒ xiǎng qù lǚyóu.
+  - **Bengali Meaning:** আমি ভ্রমণ করতে চাই।
+
+### ২৫. 旁边 (Beside/Next to)
+- **Pinyin:** páng biān
+- **Bengali Pronunciation:** পাং বিয়েন
+- **English Translation:** পাশে, পার্শ্বে
+- **Example Sentence:** 超市在学校旁边。
+  - **Sentence Pinyin:** Chāoshì zài xuéxiào pángbiān.
+  - **Bengali Meaning:** সুপারমার্কেটটা স্কুলের পাশে।
 
 ---
 
 ## Study Tips
-
-- **দৈনিক অনুশীলন:** প্রতিদিন কমপক্ষে ৫টি শব্দ নিয়ে কাজ করুন। প্রতিটি শব্দের উচ্চারণ ১০ বার করুন।
-
-- **উদাহরণ বাক্য স্মরণ করুন:** শব্দ মুখস্থ করার চেয়ে বাক্যের প্রসঙ্গে শিখুন। এটি দীর্ঘমেয়াদী স্মৃতিতে রাখতে সাহায্য করে।
-
-- **শিশুর মতো শিখুন:** প্রথমে শব্দ শুনুন এবং পুনরাবৃত্তি করুন। তারপর লেখা এবং অর্থ শিখুন।
-
-- **মনিমোনিক ডিভাইস:** বাংলা উচ্চারণ ব্যবহার করে নিজের গল্প বলুন যা আপনাকে মনে রাখতে সাহায্য করবে।
-
-- **নিয়মিত পর্যালোচনা:** প্রতি সপ্তাহে পূর্ববর্তী শব্দগুলি পর্যালোচনা করুন যাতে ভুলে না যান।
+- **প্রতিদিনের অনুশীলন:** প্রতিদিন ৫-৭টি শব্দ শিখুন এবং তাদের সাথে নিজের বাক্য তৈরি করুন। ফ্ল্যাশকার্ড ব্যবহার করুন।
+- **ব্যবহারিক প্রয়োগ:** চীনা গান শুনুন, সহজ ভিডিও দেখুন অথবা ভাষা অংশীদারের সাথে এই শব্দগুলো ব্যবহার করুন।
+- **স্মরণীয় কৌশল:** শব্দগুলোকে গ্রুপ করে শিখুন (যেমন: রং, দিক, ক্রিয়া)। ছবি এবং অ্যাপ (Anki, Pleco) ব্যবহার করুন। টোন মার্কের উপর বিশেষ নজর দিন।
 
 ---
 
 ## Next Steps
-
-🎯 **HSK 2 Level 2-এ এগিয়ে যান:** এই ২৫টি শব্দে আপনার দক্ষতা অর্জন করার পর, আরও জটিল বাক্য এবং সাংস্কৃতিক প্রসঙ্গ নিয়ে এগিয়ে যান।
-
-📚 **শব্দ সংমিশ্রণ শিখুন:** এখন আপনি বেসিক শব্দ জানেন, কীভাবে সেগুলি একসাথে ব্যবহার করতে হয় তা শিখুন।
-
-🗣️ **কথোপকথনে অনুশীলন করুন:** একজন অংশীদারের সাথে সহজ কথোপকথন অনুশীলন করুন। আপনার পরিবার এবং দৈনন্দিন কার্যকলাপ সম্পর্কে কথা বলুন।
-
-💡 **বাস্তব পরিস্থিতি অনুকরণ করুন:** রেস্তোরাঁয় খাবার অর্ডার করা, দোকানে কেনাকাটা করা, বা নতুন বন্ধুদের সাথে দেখা করার মতো পরিস্থিতি তৈরি করুন।
-
----
-
-**সফলতার পথে আপনার যাত্রা চমৎকার! নিয়মিত অনুশীলন চালিয়ে যান এবং আপনার চীনা দক্ষতা ক্রমাগত উন্নত করুন। 加油! (Jiāyóu! - Keep fighting/Good luck!)**
+অভিনন্দন! আপনি HSK 2 এর গুরুত্বপূর্ণ অংশ সম্পন্ন করেছেন। এখন এই শব্দগুলো দিয়ে সহজ সংলাপ অনুশীলন করুন এবং HSK 3 এর জন্য প্রস্তুতি নিন। নিয়মিত অনুশীলন চালিয়ে যান — আপনি অবশ্যই সফল হবেন! যদি আরও অনুশীলন বা পরীক্ষা চান, জানান। শুভ শিক্ষা! 🇨🇳
