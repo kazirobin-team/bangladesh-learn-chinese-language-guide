@@ -1,180 +1,248 @@
-৭৬. 睡觉
-English Pronunciation: Shuìjiào
-বাংলা উচ্চারণ: শুয়েই জিয়াও
-অর্থ: ঘুমানো
-Sentence: 我晚上睡觉。
-(আমি রাতে ঘুমাই।)
+# HSK 1 Level - Vocabulary (Daily Activities, Modal Verbs, Adjectives & Final 100)
 
-৭৭. 起床
-English Pronunciation: Qǐchuáng
-বাংলা উচ্চারণ: ছি ছুয়াং
-অর্থ: ঘুম থেকে ওঠা
-Sentence: 我六点起床。
-(আমি ছয়টায় ঘুম থেকে উঠি।)
-
-৭৮. 做
-English Pronunciation: Zuò
-বাংলা উচ্চারণ: জুয়া
-অর্থ: করা
-Sentence: 我做作业。
-(আমি হোমওয়ার্ক করি।)
-
-৭৯. 学习
-English Pronunciation: Xuéxí
-বাংলা উচ্চারণ: শুয়ে শি
-অর্থ: অধ্যয়ন করা
-Sentence: 我学习中文。
-(আমি চাইনিজ শিখি।)
-
-৮০. 会
-English Pronunciation: Huì
-বাংলা উচ্চারণ: হুয়েই
-অর্থ: পারা
-Sentence: 我会说英语。
-(আমি ইংরেজি বলতে পারি।)
-
+This document continues the HSK Level 1 vocabulary series, featuring daily activities, modal verbs, adjectives, and concludes the first 100 essential words. Each entry includes complete pinyin pronunciation for both individual words and example sentences, Bengali transliteration, English translation, and Bengali meanings.
 
 ---
 
-৮১. 能
-English Pronunciation: Néng
-বাংলা উচ্চারণ: নাং
-অর্থ: সক্ষম হওয়া
-Sentence: 我能帮助你。
-(আমি তোমাকে সাহায্য করতে পারি।)
+## Daily Activities & Study
 
-৮২. 想
-English Pronunciation: Xiǎng
-বাংলা উচ্চারণ: শিয়াং
-অর্থ: চাই / ভাবা
-Sentence: 我想去中国。
-(আমি চীনে যেতে চাই।)
+### 76. 睡觉 (Sleep)
+- **Pinyin:** Shuìjiào
+- **Bengali Pronunciation:** শুয়েই জিয়াও
+- **English Translation:** Sleep / Go to bed
+- **Example Sentence:** 我晚上睡觉。
+  - **Sentence Pinyin:** Wǒ wǎnshang shuìjiào.
+  - **Bengali Meaning:** আমি রাতে ঘুমাই।
 
-৮৩. 知道
-English Pronunciation: Zhīdào
-বাংলা উচ্চারণ: ঝি দাও
-অর্থ: জানা
-Sentence: 我知道他的名字。
-(আমি তার নাম জানি।)
+### 77. 起床 (Wake Up)
+- **Pinyin:** Qǐchuáng
+- **Bengali Pronunciation:** ছি ছুয়াং
+- **English Translation:** Wake up / Get out of bed
+- **Example Sentence:** 我六点起床。
+  - **Sentence Pinyin:** Wǒ liù diǎn qǐchuáng.
+  - **Bengali Meaning:** আমি ছয়টায় ঘুম থেকে উঠি।
 
-৮৪. 认识
-English Pronunciation: Rènshi
-বাংলা উচ্চারণ: রান শি
-অর্থ: পরিচিত হওয়া
-Sentence: 我认识他。
-(আমি তাকে চিনি।)
+### 78. 做 (Do / Make)
+- **Pinyin:** Zuò
+- **Bengali Pronunciation:** জুয়া
+- **English Translation:** Do / Make / Work
+- **Example Sentence:** 我做作业。
+  - **Sentence Pinyin:** Wǒ zuò zuòyè.
+  - **Bengali Meaning:** আমি হোমওয়ার্ক করি।
 
-৮৫. 有
-English Pronunciation: Yǒu
-বাংলা উচ্চারণ: ইয়োউ
-অর্থ: থাকা
-Sentence: 我有一本书。
-(আমার একটি বই আছে।)
+### 79. 学习 (Study / Learn)
+- **Pinyin:** Xuéxí
+- **Bengali Pronunciation:** শুয়ে শি
+- **English Translation:** Study / Learn
+- **Example Sentence:** 我学习中文。
+  - **Sentence Pinyin:** Wǒ xuéxí Zhōngwén.
+  - **Bengali Meaning:** আমি চাইনিজ শিখি।
 
-৮৬. 没有
-English Pronunciation: Méiyǒu
-বাংলা উচ্চারণ: মেই ইয়োউ
-অর্থ: নেই
-Sentence: 我没有钱。
-(আমার টাকা নেই।)
-
-৮৭. 在
-English Pronunciation: Zài
-বাংলা উচ্চারণ: জাই
-অর্থ: থাকা / অবস্থান করা
-Sentence: 我在家。
-(আমি বাসায় আছি।)
-
-৮৮. 住
-English Pronunciation: Zhù
-বাংলা উচ্চারণ: ঝু
-অর্থ: বসবাস করা
-Sentence: 我住在北京。
-(আমি বেইজিংয়ে থাকি।)
-
-৮৯. 打电话
-English Pronunciation: Dǎ diànhuà
-বাংলা উচ্চারণ: দা দিয়েন হুয়া
-অর্থ: ফোন করা
-Sentence: 我给妈妈打电话。
-(আমি মাকে ফোন করি।)
-
-৯০. 叫
-English Pronunciation: Jiào
-বাংলা উচ্চারণ: জিয়াও
-অর্থ: ডাকা / নাম হওয়া
-Sentence: 我叫Robin。
-(আমার নাম রবিন।)
-
+### 80. 会 (Can / Will)
+- **Pinyin:** Huì
+- **Bengali Pronunciation:** হুয়েই
+- **English Translation:** Can / Will / Be able to
+- **Example Sentence:** 我会说英语。
+  - **Sentence Pinyin:** Wǒ huì shuō Yīngyǔ.
+  - **Bengali Meaning:** আমি ইংরেজি বলতে পারি।
 
 ---
 
-৯১. 高兴
-English Pronunciation: Gāoxìng
-বাংলা উচ্চারণ: গাও শিং
-অর্থ: খুশি
-Sentence: 我今天很高兴。
-(আমি আজ খুব খুশি।)
+## Modal Verbs & Mental Actions
 
-৯২. 快乐
-English Pronunciation: Kuàilè
-বাংলা উচ্চারণ: খুয়াই লা
-অর্থ: আনন্দিত
-Sentence: 祝你生日快乐。
-(তোমাকে জন্মদিনের শুভেচ্ছা।)
+### 81. 能 (Can / Able)
+- **Pinyin:** Néng
+- **Bengali Pronunciation:** নাং
+- **English Translation:** Can / Able / Capable
+- **Example Sentence:** 我能帮助你。
+  - **Sentence Pinyin:** Wǒ néng bāngzhù nǐ.
+  - **Bengali Meaning:** আমি তোমাকে সাহায্য করতে পারি।
 
-৯৩. 大
-English Pronunciation: Dà
-বাংলা উচ্চারণ: দা
-অর্থ: বড়
-Sentence: 这个房子很大。
-(এই বাড়িটি অনেক বড়।)
+### 82. 想 (Want / Think)
+- **Pinyin:** Xiǎng
+- **Bengali Pronunciation:** শিয়াং
+- **English Translation:** Want / Think / Wish
+- **Example Sentence:** 我想去中国。
+  - **Sentence Pinyin:** Wǒ xiǎng qù Zhōngguó.
+  - **Bengali Meaning:** আমি চীনে যেতে চাই।
 
-৯৪. 小
-English Pronunciation: Xiǎo
-বাংলা উচ্চারণ: শিয়াও
-অর্থ: ছোট
-Sentence: 这只猫很小。
-(এই বিড়ালটি ছোট।)
+### 83. 知道 (Know)
+- **Pinyin:** Zhīdào
+- **Bengali Pronunciation:** ঝি দাও
+- **English Translation:** Know / Understand
+- **Example Sentence:** 我知道他的名字。
+  - **Sentence Pinyin:** Wǒ zhīdào tā de míngzi.
+  - **Bengali Meaning:** আমি তার নাম জানি।
 
-৯৫. 多
-English Pronunciation: Duō
-বাংলা উচ্চারণ: দুও
-অর্থ: বেশি
-Sentence: 这里人很多。
-(এখানে অনেক মানুষ।)
+### 84. 认识 (Recognize / Know)
+- **Pinyin:** Rènshi
+- **Bengali Pronunciation:** রান শি
+- **English Translation:** Recognize / Acquaint / Know
+- **Example Sentence:** 我认识他。
+  - **Sentence Pinyin:** Wǒ rènshi tā.
+  - **Bengali Meaning:** আমি তাকে চিনি।
 
-৯৬. 少
-English Pronunciation: Shǎo
-বাংলা উচ্চারণ: শাও
-অর্থ: কম
-Sentence: 我的钱很少。
-(আমার টাকা খুব কম।)
+### 85. 有 (Have / There is)
+- **Pinyin:** Yǒu
+- **Bengali Pronunciation:** ইয়োউ
+- **English Translation:** Have / Own / There is
+- **Example Sentence:** 我有一本书。
+  - **Sentence Pinyin:** Wǒ yǒu yī běn shū.
+  - **Bengali Meaning:** আমার একটি বই আছে।
 
-৯৭. 好
-English Pronunciation: Hǎo
-বাংলা উচ্চারণ: হাও
-অর্থ: ভালো
-Sentence: 今天很好。
-(আজ খুব ভালো।)
+### 86. 没有 (Not have / Without)
+- **Pinyin:** Méiyǒu
+- **Bengali Pronunciation:** মেই ইয়োউ
+- **English Translation:** Not have / Don't have / Without
+- **Example Sentence:** 我没有钱。
+  - **Sentence Pinyin:** Wǒ méiyǒu qián.
+  - **Bengali Meaning:** আমার টাকা নেই।
 
-৯৮. 不好
-English Pronunciation: Bù hǎo
-বাংলা উচ্চারণ: বু হাও
-অর্থ: খারাপ
-Sentence: 我的身体不好。
-(আমার শরীর ভালো না।)
+### 87. 在 (At / In / Location)
+- **Pinyin:** Zài
+- **Bengali Pronunciation:** জাই
+- **English Translation:** At / In / Located at
+- **Example Sentence:** 我在家。
+  - **Sentence Pinyin:** Wǒ zài jiā.
+  - **Bengali Meaning:** আমি বাসায় আছি।
 
-৯৯. 热
-English Pronunciation: Rè
-বাংলা উচ্চারণ: রা
-অর্থ: গরম
-Sentence: 今天很热。
-(আজ অনেক গরম।)
+### 88. 住 (Live / Dwell)
+- **Pinyin:** Zhù
+- **Bengali Pronunciation:** ঝু
+- **English Translation:** Live / Dwell / Reside
+- **Example Sentence:** 我住在北京。
+  - **Sentence Pinyin:** Wǒ zhù zài Běijīng.
+  - **Bengali Meaning:** আমি বেইজিংয়ে থাকি।
 
-১০০. 冷
-English Pronunciation: Lěng
-বাংলা উচ্চারণ: লাং
-অর্থ: ঠান্ডা
-Sentence: 今天很冷。
-(আজ অনেক ঠান্ডা।)
+### 89. 打电话 (Make a phone call)
+- **Pinyin:** Dǎ diànhuà
+- **Bengali Pronunciation:** দা দিয়েন হুয়া
+- **English Translation:** Make a phone call / Call
+- **Example Sentence:** 我给妈妈打电话。
+  - **Sentence Pinyin:** Wǒ gěi māma dǎ diànhuà.
+  - **Bengali Meaning:** আমি মাকে ফোন করি।
+
+### 90. 叫 (Call / Name)
+- **Pinyin:** Jiào
+- **Bengali Pronunciation:** জিয়াও
+- **English Translation:** Call / Name / Be called
+- **Example Sentence:** 我叫Robin。
+  - **Sentence Pinyin:** Wǒ jiào Robin.
+  - **Bengali Meaning:** আমার নাম রবিন।
+
+---
+
+## Emotions & Adjectives (Quality)
+
+### 91. 高兴 (Happy)
+- **Pinyin:** Gāoxìng
+- **Bengali Pronunciation:** গাও শিং
+- **English Translation:** Happy / Glad / Pleased
+- **Example Sentence:** 我今天很高兴。
+  - **Sentence Pinyin:** Wǒ jīntiān hěn gāoxìng.
+  - **Bengali Meaning:** আমি আজ খুব খুশি।
+
+### 92. 快乐 (Joyful)
+- **Pinyin:** Kuàilè
+- **Bengali Pronunciation:** খুয়াই লা
+- **English Translation:** Happy / Joyful / Merry
+- **Example Sentence:** 祝你生日快乐。
+  - **Sentence Pinyin:** Zhù nǐ shēngrì kuàilè.
+  - **Bengali Meaning:** তোমাকে জন্মদিনের শুভেচ্ছা।
+
+---
+
+## Adjectives (Size & Quantity)
+
+### 93. 大 (Big)
+- **Pinyin:** Dà
+- **Bengali Pronunciation:** দা
+- **English Translation:** Big / Large / Great
+- **Example Sentence:** 这个房子很大。
+  - **Sentence Pinyin:** Zhège fángzi hěn dà.
+  - **Bengali Meaning:** এই বাড়িটি অনেক বড়।
+
+### 94. 小 (Small)
+- **Pinyin:** Xiǎo
+- **Bengali Pronunciation:** শিয়াও
+- **English Translation:** Small / Little / Young
+- **Example Sentence:** 这只猫很小。
+  - **Sentence Pinyin:** Zhè zhī māo hěn xiǎo.
+  - **Bengali Meaning:** এই বিড়ালটি ছোট।
+
+### 95. 多 (Many / Much)
+- **Pinyin:** Duō
+- **Bengali Pronunciation:** দুও
+- **English Translation:** Many / Much / More
+- **Example Sentence:** 这里人很多。
+  - **Sentence Pinyin:** Zhèlǐ rén hěn duō.
+  - **Bengali Meaning:** এখানে অনেক মানুষ।
+
+### 96. 少 (Few / Little)
+- **Pinyin:** Shǎo
+- **Bengali Pronunciation:** শাও
+- **English Translation:** Few / Little / Not much
+- **Example Sentence:** 我的钱很少。
+  - **Sentence Pinyin:** Wǒ de qián hěn shǎo.
+  - **Bengali Meaning:** আমার টাকা খুব কম।
+
+### 97. 好 (Good)
+- **Pinyin:** Hǎo
+- **Bengali Pronunciation:** হাও
+- **English Translation:** Good / Fine / Well
+- **Example Sentence:** 今天很好。
+  - **Sentence Pinyin:** Jīntiān hěn hǎo.
+  - **Bengali Meaning:** আজ খুব ভালো।
+
+### 98. 不好 (Bad / Not good)
+- **Pinyin:** Bù hǎo
+- **Bengali Pronunciation:** বু হাও
+- **English Translation:** Bad / Not good / Poor
+- **Example Sentence:** 我的身体不好。
+  - **Sentence Pinyin:** Wǒ de shēntǐ bù hǎo.
+  - **Bengali Meaning:** আমার শরীর ভালো না।
+
+---
+
+## Adjectives (Temperature & Weather)
+
+### 99. 热 (Hot)
+- **Pinyin:** Rè
+- **Bengali Pronunciation:** রা
+- **English Translation:** Hot / Warm
+- **Example Sentence:** 今天很热。
+  - **Sentence Pinyin:** Jīntiān hěn rè.
+  - **Bengali Meaning:** আজ অনেক গরম।
+
+### 100. 冷 (Cold)
+- **Pinyin:** Lěng
+- **Bengali Pronunciation:** লাং
+- **English Translation:** Cold / Cool
+- **Example Sentence:** 今天很冷。
+  - **Sentence Pinyin:** Jīntiān hěn lěng.
+  - **Bengali Meaning:** আজ অনেক ঠান্ডা।
+
+---
+
+## Study Tips & Review
+
+- **Vocabulary Milestone:** You have now completed the first 100 essential HSK Level 1 vocabulary words!
+- **Vocabulary Categories:** This final section includes daily activities, modal verbs, mental actions, and common adjectives.
+- **Contextual Practice:** Use these adjectives and modal verbs to describe situations and express capabilities.
+- **Sentence Building:** Combine these words with earlier vocabulary to build complete, meaningful sentences.
+- **Pronunciation Mastery:** Continue practicing tone pronunciations, as correct tones are essential for being understood in Chinese.
+
+---
+
+## Next Steps
+
+- **Consolidation:** Review all 100 words regularly to ensure retention and fluency.
+- **Conversation Practice:** Use these words to form simple dialogues about daily life, preferences, and activities.
+- **Grammar Integration:** Begin learning basic Chinese grammar structures to combine these words into more complex sentences.
+- **Expansion:** Progress to HSK Level 2 vocabulary to continue your Chinese learning journey.
+
+---
+
+## Congratulations!
+
+You have successfully learned the first 100 most essential Chinese words for HSK Level 1. Use these building blocks to create meaningful conversations and continue your journey toward Chinese language fluency. Keep practicing regularly and immerse yourself in the language through conversation, listening, and reading exercises.
