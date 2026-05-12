@@ -1,180 +1,255 @@
-১২৬. 衣服
-English Pronunciation: Yīfu
-বাংলা উচ্চারণ: ই ফু
-অর্থ: কাপড় / পোশাক
-Sentence: 我买新衣服。
-(আমি নতুন কাপড় কিনি।)
+# HSK 1 Level - Comprehensive Vocabulary (Objects, Places, Languages & Transportation)
 
-১২৭. 书
-English Pronunciation: Shū
-বাংলা উচ্চারণ: শু
-অর্থ: বই
-Sentence: 这是我的书。
-(এটা আমার বই।)
-
-১২৮. 桌子
-English Pronunciation: Zhuōzi
-বাংলা উচ্চারণ: ঝুয়ো জা
-অর্থ: টেবিল
-Sentence: 桌子很大。
-(টেবিলটি বড়।)
-
-১২৯. 椅子
-English Pronunciation: Yǐzi
-বাংলা উচ্চারণ: ই জা
-অর্থ: চেয়ার
-Sentence: 请坐在椅子上。
-(চেয়ারে বসুন।)
-
-১৩০. 电脑
-English Pronunciation: Diànnǎo
-বাংলা উচ্চারণ: দিয়েন নাও
-অর্থ: কম্পিউটার
-Sentence: 我用电脑学习。
-(আমি কম্পিউটার দিয়ে পড়ি।)
-
+This document continues the HSK Level 1 vocabulary series with everyday objects, common places, languages, weather-related words, and transportation vocabulary. Each entry includes complete pinyin pronunciation for both individual words and example sentences, Bengali transliteration, English translation, and Bengali meanings.
 
 ---
 
-১৩১. 电视
-English Pronunciation: Diànshì
-বাংলা উচ্চারণ: দিয়েন শি
-অর্থ: টেলিভিশন
-Sentence: 我看电视。
-(আমি টিভি দেখি।)
+## Everyday Objects & Household Items
 
-১৩২. 电话
-English Pronunciation: Diànhuà
-বাংলা উচ্চারণ: দিয়েন হুয়া
-অর্থ: টেলিফোন
-Sentence: 我的电话响了。
-(আমার ফোন বেজেছে।)
+### 126. 衣服 (Clothes)
+- **Pinyin:** Yīfu
+- **Bengali Pronunciation:** ই ফু
+- **English Translation:** Clothes / Garment
+- **Example Sentence:** 我买新衣服。
+  - **Sentence Pinyin:** Wǒ mǎi xīn yīfu.
+  - **Bengali Meaning:** আমি নতুন কাপড় কিনি।
 
-১৩৩. 电影
-English Pronunciation: Diànyǐng
-বাংলা উচ্চারণ: দিয়েন ইং
-অর্থ: সিনেমা
-Sentence: 我喜欢中国电影。
-(আমি চাইনিজ সিনেমা পছন্দ করি।)
+### 127. 书 (Book)
+- **Pinyin:** Shū
+- **Bengali Pronunciation:** শু
+- **English Translation:** Book
+- **Example Sentence:** 这是我的书。
+  - **Sentence Pinyin:** Zhè shì wǒ de shū.
+  - **Bengali Meaning:** এটা আমার বই।
 
-১৩৪. 医院
-English Pronunciation: Yīyuàn
-বাংলা উচ্চারণ: ই ইউয়ান
-অর্থ: হাসপাতাল
-Sentence: 他在医院。
-(সে হাসপাতালে আছে।)
+### 128. 桌子 (Table)
+- **Pinyin:** Zhuōzi
+- **Bengali Pronunciation:** ঝুয়ো জা
+- **English Translation:** Table / Desk
+- **Example Sentence:** 桌子很大。
+  - **Sentence Pinyin:** Zhuōzi hěn dà.
+  - **Bengali Meaning:** টেবিলটি বড়।
 
-১৩৫. 商店
-English Pronunciation: Shāngdiàn
-বাংলা উচ্চারণ: শাং দিয়েন
-অর্থ: দোকান
-Sentence: 我去商店买东西。
-(আমি দোকানে জিনিস কিনতে যাই।)
+### 129. 椅子 (Chair)
+- **Pinyin:** Yǐzi
+- **Bengali Pronunciation:** ই জা
+- **English Translation:** Chair
+- **Example Sentence:** 请坐在椅子上。
+  - **Sentence Pinyin:** Qǐng zuò zài yǐzi shàng.
+  - **Bengali Meaning:** চেয়ারে বসুন।
 
-১৩৬. 饭店
-English Pronunciation: Fàndiàn
-বাংলা উচ্চারণ: ফান দিয়েন
-অর্থ: রেস্টুরেন্ট / হোটেল
-Sentence: 我们去饭店吃饭。
-(আমরা রেস্টুরেন্টে খেতে যাই।)
-
-১৩৭. 学习
-English Pronunciation: Xuéxí
-বাংলা উচ্চারণ: শুয়ে শি
-অর্থ: অধ্যয়ন করা
-Sentence: 我每天学习中文。
-(আমি প্রতিদিন চাইনিজ শিখি।)
-
-১৩৮. 汉语
-English Pronunciation: Hànyǔ
-বাংলা উচ্চারণ: হান ইউ
-অর্থ: চাইনিজ ভাষা
-Sentence: 汉语很有意思。
-(চাইনিজ ভাষা খুব মজার।)
-
-১৩৯. 英语
-English Pronunciation: Yīngyǔ
-বাংলা উচ্চারণ: ইং ইউ
-অর্থ: ইংরেজি ভাষা
-Sentence: 我会说英语。
-(আমি ইংরেজি বলতে পারি।)
-
-১৪০. 东西
-English Pronunciation: Dōngxi
-বাংলা উচ্চারণ: দং শি
-অর্থ: জিনিস
-Sentence: 这个东西很好。
-(এই জিনিসটি ভালো।)
-
+### 130. 电脑 (Computer)
+- **Pinyin:** Diànnǎo
+- **Bengali Pronunciation:** দিয়েন নাও
+- **English Translation:** Computer
+- **Example Sentence:** 我用电脑学习。
+  - **Sentence Pinyin:** Wǒ yòng diànnǎo xuéxí.
+  - **Bengali Meaning:** আমি কম্পিউটার দিয়ে পড়ি।
 
 ---
 
-১৪১. 天气
-English Pronunciation: Tiānqì
-বাংলা উচ্চারণ: থিয়ান ছি
-অর্থ: আবহাওয়া
-Sentence: 今天天气很好。
-(আজ আবহাওয়া খুব ভালো।)
+## Electronics & Media
 
-১৪২. 雨
-English Pronunciation: Yǔ
-বাংলা উচ্চারণ: ইউ
-অর্থ: বৃষ্টি
-Sentence: 今天有雨。
-(আজ বৃষ্টি হচ্ছে।)
+### 131. 电视 (Television)
+- **Pinyin:** Diànshì
+- **Bengali Pronunciation:** দিয়েন শি
+- **English Translation:** Television / TV
+- **Example Sentence:** 我看电视。
+  - **Sentence Pinyin:** Wǒ kàn diànshì.
+  - **Bengali Meaning:** আমি টিভি দেখি।
 
-১৪৩. 雪
-English Pronunciation: Xuě
-বাংলা উচ্চারণ: শুয়ে
-অর্থ: তুষার
-Sentence: 冬天有雪。
-(শীতে তুষার পড়ে।)
+### 132. 电话 (Telephone)
+- **Pinyin:** Diànhuà
+- **Bengali Pronunciation:** দিয়েন হুয়া
+- **English Translation:** Telephone / Phone
+- **Example Sentence:** 我的电话响了。
+  - **Sentence Pinyin:** Wǒ de diànhuà xiǎng le.
+  - **Bengali Meaning:** আমার ফোন বেজেছে।
 
-১৪৪. 车
-English Pronunciation: Chē
-বাংলা উচ্চারণ: ছে
-অর্থ: গাড়ি
-Sentence: 我有一辆车。
-(আমার একটি গাড়ি আছে।)
+### 133. 电影 (Movie)
+- **Pinyin:** Diànyǐng
+- **Bengali Pronunciation:** দিয়েন ইং
+- **English Translation:** Movie / Film
+- **Example Sentence:** 我喜欢中国电影。
+  - **Sentence Pinyin:** Wǒ xǐhuān Zhōngguó diànyǐng.
+  - **Bengali Meaning:** আমি চাইনিজ সিনেমা পছন্দ করি।
 
-১৪৫. 出租车
-English Pronunciation: Chūzūchē
-বাংলা উচ্চারণ: ছু জু ছে
-অর্থ: ট্যাক্সি
-Sentence: 我坐出租车去学校。
-(আমি ট্যাক্সিতে স্কুলে যাই।)
+---
 
-১৪৬. 飞机
-English Pronunciation: Fēijī
-বাংলা উচ্চারণ: ফেই জি
-অর্থ: বিমান
-Sentence: 飞机很快。
-(বিমান খুব দ্রুত।)
+## Common Places & Institutions
 
-১৪৭. 火车
-English Pronunciation: Huǒchē
-বাংলা উচ্চারণ: হুয়া ছে
-অর্থ: ট্রেন
-Sentence: 我坐火车去北京。
-(আমি ট্রেনে বেইজিং যাই।)
+### 134. 医院 (Hospital)
+- **Pinyin:** Yīyuàn
+- **Bengali Pronunciation:** ই ইউয়ান
+- **English Translation:** Hospital
+- **Example Sentence:** 他在医院。
+  - **Sentence Pinyin:** Tā zài yīyuàn.
+  - **Bengali Meaning:** সে হাসপাতালে আছে।
 
-১৪৮. 开水
-English Pronunciation: Kāishuǐ
-বাংলা উচ্চারণ: কাই শুই
-অর্থ: গরম পানি
-Sentence: 请喝开水。
-(গরম পানি পান করুন।)
+### 135. 商店 (Shop)
+- **Pinyin:** Shāngdiàn
+- **Bengali Pronunciation:** শাং দিয়েন
+- **English Translation:** Shop / Store
+- **Example Sentence:** 我去商店买东西。
+  - **Sentence Pinyin:** Wǒ qù shāngdiàn mǎi dōngxi.
+  - **Bengali Meaning:** আমি দোকানে জিনিস কিনতে যাই।
 
-১৪৯. 菜
-English Pronunciation: Cài
-বাংলা উচ্চারণ: ছাই
-অর্থ: তরকারি / খাবার
-Sentence: 中国菜很好吃。
-(চাইনিজ খাবার খুব সুস্বাদু।)
+### 136. 饭店 (Restaurant)
+- **Pinyin:** Fàndiàn
+- **Bengali Pronunciation:** ফান দিয়েন
+- **English Translation:** Restaurant / Hotel
+- **Example Sentence:** 我们去饭店吃饭。
+  - **Sentence Pinyin:** Wǒmen qù fàndiàn chīfàn.
+  - **Bengali Meaning:** আমরা রেস্টুরেন্টে খেতে যাই।
 
-১৫০. 水果
-English Pronunciation: Shuǐguǒ
-বাংলা উচ্চারণ: শুই গোয়া
-অর্থ: ফল
-Sentence: 我喜欢吃水果。
-(আমি ফল খেতে পছন্দ করি।)
+---
+
+## Languages & Studies
+
+### 137. 学习 (Study / Learn)
+- **Pinyin:** Xuéxí
+- **Bengali Pronunciation:** শুয়ে শি
+- **English Translation:** Study / Learn
+- **Example Sentence:** 我每天学习中文。
+  - **Sentence Pinyin:** Wǒ měi tiān xuéxí Zhōngwén.
+  - **Bengali Meaning:** আমি প্রতিদিন চাইনিজ শিখি।
+
+### 138. 汉语 (Chinese Language)
+- **Pinyin:** Hànyǔ
+- **Bengali Pronunciation:** হান ইউ
+- **English Translation:** Chinese language / Mandarin
+- **Example Sentence:** 汉语很有意思。
+  - **Sentence Pinyin:** Hànyǔ hěn yǒu yìsi.
+  - **Bengali Meaning:** চাইনিজ ভাষা খুব মজার।
+
+### 139. 英语 (English Language)
+- **Pinyin:** Yīngyǔ
+- **Bengali Pronunciation:** ইং ইউ
+- **English Translation:** English language
+- **Example Sentence:** 我会说英语。
+  - **Sentence Pinyin:** Wǒ huì shuō Yīngyǔ.
+  - **Bengali Meaning:** আমি ইংরেজি বলতে পারি।
+
+### 140. 东西 (Thing / Object)
+- **Pinyin:** Dōngxi
+- **Bengali Pronunciation:** দং শি
+- **English Translation:** Thing / Object / Stuff
+- **Example Sentence:** 这个东西很好。
+  - **Sentence Pinyin:** Zhège dōngxi hěn hǎo.
+  - **Bengali Meaning:** এই জিনিসটি ভালো।
+
+---
+
+## Weather-Related Vocabulary
+
+### 141. 天气 (Weather)
+- **Pinyin:** Tiānqì
+- **Bengali Pronunciation:** থিয়ান ছি
+- **English Translation:** Weather
+- **Example Sentence:** 今天天气很好。
+  - **Sentence Pinyin:** Jīntiān tiānqì hěn hǎo.
+  - **Bengali Meaning:** আজ আবহাওয়া খুব ভালো।
+
+### 142. 雨 (Rain)
+- **Pinyin:** Yǔ
+- **Bengali Pronunciation:** ইউ
+- **English Translation:** Rain
+- **Example Sentence:** 今天有雨。
+  - **Sentence Pinyin:** Jīntiān yǒu yǔ.
+  - **Bengali Meaning:** আজ বৃষ্টি হচ্ছে।
+
+### 143. 雪 (Snow)
+- **Pinyin:** Xuě
+- **Bengali Pronunciation:** শুয়ে
+- **English Translation:** Snow
+- **Example Sentence:** 冬天有雪。
+  - **Sentence Pinyin:** Dōngtiān yǒu xuě.
+  - **Bengali Meaning:** শীতে তুষার পড়ে।
+
+---
+
+## Transportation
+
+### 144. 车 (Car / Vehicle)
+- **Pinyin:** Chē
+- **Bengali Pronunciation:** ছে
+- **English Translation:** Car / Vehicle
+- **Example Sentence:** 我有一辆车。
+  - **Sentence Pinyin:** Wǒ yǒu yī liàng chē.
+  - **Bengali Meaning:** আমার একটি গাড়ি আছে।
+
+### 145. 出租车 (Taxi)
+- **Pinyin:** Chūzūchē
+- **Bengali Pronunciation:** ছু জু ছে
+- **English Translation:** Taxi / Cab
+- **Example Sentence:** 我坐出租车去学校。
+  - **Sentence Pinyin:** Wǒ zuò chūzūchē qù xuéxiào.
+  - **Bengali Meaning:** আমি ট্যাক্সিতে স্কুলে যাই।
+
+### 146. 飞机 (Airplane)
+- **Pinyin:** Fēijī
+- **Bengali Pronunciation:** ফেই জি
+- **English Translation:** Airplane / Aircraft
+- **Example Sentence:** 飞机很快。
+  - **Sentence Pinyin:** Fēijī hěn kuài.
+  - **Bengali Meaning:** বিমান খুব দ্রুত।
+
+### 147. 火车 (Train)
+- **Pinyin:** Huǒchē
+- **Bengali Pronunciation:** হুয়া ছে
+- **English Translation:** Train
+- **Example Sentence:** 我坐火车去北京。
+  - **Sentence Pinyin:** Wǒ zuò huǒchē qù Běijīng.
+  - **Bengali Meaning:** আমি ট্রেনে বেইজিং যাই।
+
+---
+
+## Food & Beverages
+
+### 148. 开水 (Hot Water)
+- **Pinyin:** Kāishuǐ
+- **Bengali Pronunciation:** কাই শুই
+- **English Translation:** Hot water / Boiled water
+- **Example Sentence:** 请喝开水。
+  - **Sentence Pinyin:** Qǐng hē kāishuǐ.
+  - **Bengali Meaning:** গরম পানি পান করুন।
+
+### 149. 菜 (Dish / Cuisine)
+- **Pinyin:** Cài
+- **Bengali Pronunciation:** ছাই
+- **English Translation:** Dish / Cuisine / Vegetable
+- **Example Sentence:** 中国菜很好吃。
+  - **Sentence Pinyin:** Zhōngguó cài hěn hǎochī.
+  - **Bengali Meaning:** চাইনিজ খাবার খুব সুস্বাদু।
+
+### 150. 水果 (Fruit)
+- **Pinyin:** Shuǐguǒ
+- **Bengali Pronunciation:** শুই গোয়া
+- **English Translation:** Fruit
+- **Example Sentence:** 我喜欢吃水果。
+  - **Sentence Pinyin:** Wǒ xǐhuān chī shuǐguǒ.
+  - **Bengali Meaning:** আমি ফল খেতে পছন্দ করি।
+
+---
+
+## Study Tips
+
+- **Object Vocabulary:** Master everyday objects by using them in sentence construction. Practice saying "这是..." (This is...) and "我有..." (I have...) with these items.
+- **Place Words:** Use location vocabulary to describe where you go and what you do. Practice combining place words with action verbs.
+- **Transportation:** Learn transportation vocabulary to talk about how you travel. Pay attention to the measure word for vehicles: 辆 (liàng).
+- **Food & Culture:** Explore Chinese culinary vocabulary to understand and discuss food preferences and dining culture.
+- **Weather Discussion:** Use weather words to initiate casual conversations in Chinese.
+
+---
+
+## Consolidation Note
+
+You have now completed HSK Level 1 with 150 essential vocabulary words across all major categories. This vocabulary foundation enables you to:
+- Discuss everyday objects and places
+- Talk about various modes of transportation
+- Understand and discuss weather
+- Describe food preferences
+- Use media and technology vocabulary
+- Communicate about studies and languages
+
+**Ready for HSK Level 2?** Continue building your vocabulary with more complex topics, advanced grammar structures, and sophisticated sentence patterns. You're on an excellent path to Chinese language proficiency!
