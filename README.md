@@ -197,3 +197,113 @@ Business professionals
 Practice everyday.
 Stay consistent.
 Enjoy the learning journey 🇨🇳✨
+
+
+China সম্পর্কে সংক্ষিপ্ত তথ্য
+
+সরকারি নাম: People's Republic of China (PRC)
+
+রাজধানী: Beijing
+
+সবচেয়ে বড় শহর: Shanghai
+
+জনসংখ্যা: প্রায় ১৪০ কোটির বেশি
+
+মুদ্রা: Chinese Yuan (RMB / CNY)
+
+সরকার ব্যবস্থা: Communist Party নেতৃত্বাধীন রাষ্ট্র
+
+আয়তন: বিশ্বের অন্যতম বড় দেশ
+
+
+প্রশাসনিক বিভাগ
+
+চীনে বাংলাদেশের মতো “থানা–জেলা” সিস্টেম পুরোপুরি একই না। সেখানে কয়েক ধাপে প্রশাসন ভাগ করা হয়।
+
+প্রধান বিভাগ
+
+চীনে মোট প্রায়:
+
+২৩টি Province (প্রদেশ)
+
+৫টি Autonomous Region
+
+৪টি Municipality
+
+২টি Special Administrative Region (Hong Kong, Macau)
+
+
+সব মিলিয়ে মোট ৩৪টি প্রাদেশিক স্তরের অঞ্চল।
+
+জেলা ও কাউন্টি
+
+County-level division (জেলার মতো): প্রায় ২,৮০০+
+
+Township / Town level (উপজেলা/থানার মতো): প্রায় ৪০,০০০+
+
+
+ভাষা
+
+সরকারি ভাষা
+
+Standard Mandarin (Putonghua)
+
+
+প্রধান উপভাষা / ভাষাগুলো
+
+চীনে শত শত dialect আছে। বড় কয়েকটিঃ
+
+Mandarin
+
+Cantonese
+
+Shanghainese
+
+Hokkien / Minnan
+
+Hakka
+
+Wu
+
+Xiang
+
+Gan
+
+
+অনেক ভাষা একে অপরের থেকে এতটাই আলাদা যে আলাদা ভাষার মতো শোনে।
+
+জাতিগোষ্ঠী / উপজাতি
+
+চীনে সরকারিভাবে ৫৬টি ethnic groups বা জাতিগোষ্ঠী স্বীকৃত।
+
+সবচেয়ে বড়
+
+Han Chinese — প্রায় ৯০% এর বেশি
+
+
+অন্যান্য পরিচিত ethnic groups
+
+Uyghur
+
+Tibetan
+
+Zhuang
+
+Hui
+
+Mongol
+
+Miao
+
+Korean Chinese
+
+
+মজার কিছু তথ্য
+
+Great Wall of China পৃথিবীর সবচেয়ে বিখ্যাত স্থাপনাগুলোর একটি।
+
+চীনে বিশ্বের সবচেয়ে বড় high-speed rail network আছে।
+
+Huawei, Xiaomi, Tencent এর মতো বড় বড় কোম্পানি চীনের।
+
+Chinese culture প্রায় ৫,০০০ বছরের পুরোনো।
