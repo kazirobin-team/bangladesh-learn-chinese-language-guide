@@ -1,729 +1,564 @@
-30 Days Chinese Learning Plan 🇨🇳
+# 🇨🇳 30 Days Chinese Learning Plan
+> A Complete Beginner-Friendly Roadmap for Learning Practical Chinese
 
-এই প্ল্যানটা এমনভাবে বানানো হয়েছে যাতে তুমি
-“একদম বেসিক থেকে দৈনন্দিন কথা বলতে পারা” পর্যন্ত যেতে পারো।
+This learning roadmap is designed for beginners who want to learn Chinese for:
 
-লক্ষ্য:
-
-Basic conversation
-
-Chinese শুনে কিছু বুঝা
-
-সাধারণ কথা বলা
-
-অফিস/গার্মেন্টস/বাসা/মার্কেট এ ব্যবহার করা
-
-
+- Daily conversation
+- Office communication
+- Garments & factory work
+- Travel & shopping
+- Real-life communication
+- Listening & speaking fluency
 
 ---
 
-Daily Study Routine (Recommended)
+# 🎯 Main Goals
 
-প্রতিদিন ১–২ ঘণ্টা দিলেই হবে।
+After completing this 30-day plan, you should be able to:
 
-Everyday Formula
-
-1. 20 মিনিট → Vocabulary
-
-
-2. 20 মিনিট → Sentence
-
-
-3. 20 মিনিট → Listening
-
-
-4. 20 মিনিট → Speaking Practice
-
-
-5. 10 মিনিট → Revision
-
-
-
+✅ Introduce yourself in Chinese  
+✅ Understand basic daily conversations  
+✅ Ask and answer common questions  
+✅ Use Chinese in markets, restaurants, offices, and workplaces  
+✅ Speak simple practical sentences confidently  
+✅ Build a strong foundation for HSK 1 level
 
 ---
 
-Week 1 — Survival Chinese Basics
+# 📅 Daily Study Routine (Recommended)
 
-Day 1 — Chinese Pronunciation & Pinyin
+⏰ Study Time: 1–2 Hours Daily
 
-Learn:
-
-Pinyin
-
-4 Tones
-
-Basic pronunciation
-
-
-Focus Words:
-
-nǐ hǎo (hello)
-
-xièxie (thank you)
-
-zàijiàn (bye)
-
-
-Practice:
-
-নিজের নাম বলা।
-
+| Activity | Time |
+|---|---|
+| Vocabulary Learning | 20 Minutes |
+| Sentence Practice | 20 Minutes |
+| Listening Practice | 20 Minutes |
+| Speaking Practice | 20 Minutes |
+| Revision | 10 Minutes |
 
 ---
 
-Day 2 — Greetings & Polite Words
+# 📚 Best Learning Method
 
-Learn:
+For every topic follow this structure:
 
-Hello
+## Step 1 — Learn Vocabulary
+Learn 10–20 new words.
 
-Thank you
+## Step 2 — Learn Sentences
+Create 10–20 simple sentences using those words.
 
-Sorry
+## Step 3 — Listening Practice
+Listen to native pronunciation repeatedly.
 
-Excuse me
+## Step 4 — Speaking Practice
+Repeat loudly and record your voice.
 
-Good morning
-
-
-Sentence:
-
-Hello, how are you?
-
-Thank you very much.
-
-
+## Step 5 — Real-Life Usage
+Try to use the sentences in daily life.
 
 ---
 
-Day 3 — Self Introduction
-
-Learn:
-
-Name
-
-Country
-
-Language
-
-Job
-
-
-Sentences:
-
-My name is Robin.
-
-I am from Bangladesh.
-
-I can speak English.
-
-
+# 🗓️ WEEK 1 — Survival Chinese Basics
 
 ---
 
-Day 4 — Numbers
+## 📌 Day 1 — Chinese Pronunciation & Pinyin
 
-Learn:
+### Learn
+- Pinyin system
+- 4 Chinese tones
+- Basic pronunciation rules
 
-1–100
+### Focus Words
+| Chinese | Pinyin | Meaning |
+|---|---|---|
+| 你好 | Nǐ hǎo | Hello |
+| 谢谢 | Xièxie | Thank you |
+| 再见 | Zàijiàn | Goodbye |
 
-Practice:
-
-Phone number
-
-Money
-
-Counting items
-
-
-
----
-
-Day 5 — Time & Date
-
-Learn:
-
-Today
-
-Tomorrow
-
-Morning
-
-Night
-
-Clock time
-
-
-Sentence:
-
-What time is it?
-
-I will come tomorrow.
-
-
+### Practice
+- Say your own name in Chinese style
+- Practice tones repeatedly
 
 ---
 
-Day 6 — Family Topic
+## 📌 Day 2 — Greetings & Polite Words
 
-Learn:
+### Learn
+- Hello
+- Thank you
+- Sorry
+- Excuse me
+- Good morning
 
-Father
+### Important Sentences
+- Hello, how are you?
+- Thank you very much.
+- Sorry.
+- Excuse me.
 
-Mother
-
-Brother
-
-Sister
-
-
-Speaking:
-
-নিজের পরিবার নিয়ে ৫টা sentence বলো।
-
-
----
-
-Day 7 — Revision Day
-
-Do:
-
-সব vocabulary revise
-
-2 minute self introduction
-
-Numbers practice
-
-Listening practice
-
-
+### Goal
+Learn 20–25 greeting sentences.
 
 ---
 
-Week 2 — Daily Life Communication
+## 📌 Day 3 — Self Introduction
 
-Day 8 — Home Vocabulary
+### Learn
+- Name
+- Country
+- Language
+- Profession
 
-Learn:
+### Sentences
+- My name is Robin.
+- I am from Bangladesh.
+- I can speak English.
 
-Room
-
-Door
-
-Bed
-
-Fan
-
-Light
-
-
-Sentence:
-
-Open the door.
-
-Turn on the light.
-
-
+### Practice
+Give a 1-minute self introduction.
 
 ---
 
-Day 9 — Kitchen & Cooking
+## 📌 Day 4 — Numbers
 
-Learn:
+### Learn
+- Numbers 1–100
+- Counting system
 
-Rice
+### Practice
+- Phone numbers
+- Money
+- Counting objects
 
-Water
-
-Spoon
-
-Cook
-
-Eat
-
-
-Practice:
-
-I am cooking rice.
-
-Give me water.
-
-
+### Important
+Chinese numbers are extremely important in daily communication.
 
 ---
 
-Day 10 — Food & Restaurant
+## 📌 Day 5 — Time & Date
 
-Learn:
+### Learn
+- Today
+- Tomorrow
+- Morning
+- Night
+- Clock time
 
-Menu
-
-Tea
-
-Coffee
-
-Chicken
-
-Beef
-
-
-Sentence:
-
-I want tea.
-
-How much is this?
-
-
+### Sentences
+- What time is it?
+- I will come tomorrow.
 
 ---
 
-Day 11 — Market & Shopping
+## 📌 Day 6 — Family Topic
 
-Learn:
+### Learn
+- Father
+- Mother
+- Brother
+- Sister
 
-Cheap
-
-Expensive
-
-Good quality
-
-Price
-
-
-Practice:
-
-দাম জিজ্ঞেস করা।
-
+### Practice
+Speak 5 sentences about your family.
 
 ---
 
-Day 12 — Transportation
+## 📌 Day 7 — Revision Day
 
-Learn:
-
-Bus
-
-Taxi
-
-Train
-
-Left
-
-Right
-
-
-Sentence:
-
-I want to go there.
-
-Turn left.
-
-
+### Do
+- Revise all vocabulary
+- Practice numbers
+- Listening practice
+- 2-minute self introduction
 
 ---
 
-Day 13 — Mobile & Technology
-
-Learn:
-
-Phone
-
-Charger
-
-Internet
-
-Message
-
-
-Sentence:
-
-My phone is dead.
-
-Please call me.
-
-
+# 🏠 WEEK 2 — Daily Life Communication
 
 ---
 
-Day 14 — Revision + Speaking Day
+## 📌 Day 8 — Home Vocabulary
 
-Practice:
+### Learn
+- Room
+- Door
+- Bed
+- Fan
+- Light
 
-Market conversation
-
-Food order
-
-Home conversation
-
-
-নিজের voice record করো।
-
-
----
-
-Week 3 — Workplace & Real Communication
-
-Day 15 — Workplace Vocabulary
-
-Learn:
-
-Work
-
-Finish
-
-Problem
-
-Help
-
-
-Sentence:
-
-I finished the work.
-
-Please help me.
-
-
+### Sentences
+- Open the door.
+- Turn on the light.
 
 ---
 
-Day 16 — Office Conversation
+## 📌 Day 9 — Kitchen & Cooking
 
-Learn:
+### Learn
+- Rice
+- Water
+- Spoon
+- Cook
+- Eat
 
-Meeting
-
-Report
-
-Boss
-
-Leave
-
-
-Practice:
-
-I need leave today.
-
-
+### Practice
+- I am cooking rice.
+- Give me water.
 
 ---
 
-Day 17 — Garments & Factory Chinese
+## 📌 Day 10 — Food & Restaurant
 
-Learn:
+### Learn
+- Menu
+- Tea
+- Coffee
+- Chicken
+- Beef
 
-Cloth
-
-Machine
-
-Production
-
-Quality
-
-
-Important:
-
-Bangladesh এর জন্য খুব useful।
-
+### Sentences
+- I want tea.
+- How much is this?
 
 ---
 
-Day 18 — Daily Action Verbs
+## 📌 Day 11 — Market & Shopping
 
-Learn:
+### Learn
+- Cheap
+- Expensive
+- Good quality
+- Price
 
-Go
-
-Come
-
-Eat
-
-Sleep
-
-Buy
-
-Sell
-
-
-Practice:
-
-Simple present tense.
-
+### Practice
+Practice asking prices and bargaining.
 
 ---
 
-Day 19 — Asking Questions
+## 📌 Day 12 — Transportation
 
-Learn:
+### Learn
+- Bus
+- Taxi
+- Train
+- Left
+- Right
 
-What
-
-Where
-
-Why
-
-When
-
-How much
-
-
-Practice:
-
-১০টা question বানাও।
-
+### Sentences
+- I want to go there.
+- Turn left.
 
 ---
 
-Day 20 — Common Daily Sentences
+## 📌 Day 13 — Mobile & Technology
 
-Learn:
+### Learn
+- Phone
+- Charger
+- Internet
+- Message
 
-I understand.
-
-I don’t understand.
-
-Wait a moment.
-
-No problem.
-
-
+### Sentences
+- My phone is dead.
+- Please call me.
 
 ---
 
-Day 21 — Revision Day
+## 📌 Day 14 — Revision + Speaking Day
 
-Practice:
+### Practice Topics
+- Home conversation
+- Market conversation
+- Restaurant conversation
 
-5 minute Chinese speaking challenge।
-
-
----
-
-Week 4 — Real-Life Fluency Building
-
-Day 22 — Hospital & Health
-
-Learn:
-
-Fever
-
-Pain
-
-Doctor
-
-Medicine
-
-
-Sentence:
-
-I have a fever.
-
-
+### Task
+Record your own voice.
 
 ---
 
-Day 23 — Emergency Situations
-
-Learn:
-
-Help
-
-Police
-
-Danger
-
-Lost
-
-
+# 🏢 WEEK 3 — Workplace & Real Communication
 
 ---
 
-Day 24 — Social Conversation
+## 📌 Day 15 — Workplace Vocabulary
 
-Learn:
+### Learn
+- Work
+- Finish
+- Problem
+- Help
 
-Friend
-
-Nice to meet you
-
-Long time no see
-
-
-Practice:
-
-বন্ধুর সাথে imaginary conversation।
-
+### Sentences
+- I finished the work.
+- Please help me.
 
 ---
 
-Day 25 — Listening Day
+## 📌 Day 16 — Office Conversation
 
-Do:
+### Learn
+- Meeting
+- Report
+- Boss
+- Leave
 
-Chinese short videos
-
-Kids Chinese content
-
-Slow Chinese listening
-
-
-Goal:
-
-শুধু শুনে keywords ধরার চেষ্টা।
-
+### Practice
+- I need leave today.
 
 ---
 
-Day 26 — Speaking Day
+## 📌 Day 17 — Garments & Factory Chinese
 
-Do:
+### Learn
+- Cloth
+- Machine
+- Production
+- Quality
 
-আয়নার সামনে কথা বলা
-
-Voice recording
-
-Self talking
-
-
-
----
-
-Day 27 — Sentence Building Day
-
-Practice:
-
-নিজে sentence তৈরি করা।
-
-Example:
-
-I go to office.
-
-I eat rice.
-
-He is my friend.
-
-
+### Important
+Very useful for Bangladesh factory communication.
 
 ---
 
-Day 28 — Real-Life Simulation
+## 📌 Day 18 — Daily Action Verbs
 
-Practice Topics:
+### Learn
+- Go
+- Come
+- Eat
+- Sleep
+- Buy
+- Sell
 
-Restaurant
-
-Office
-
-Market
-
-Factory
-
-
-
----
-
-Day 29 — Full Revision
-
-Revise:
-
-Top 500 words
-
-Important sentences
-
-Numbers
-
-Questions
-
-
+### Practice
+Create present tense sentences.
 
 ---
 
-Day 30 — Final Challenge Day 🎯
+## 📌 Day 19 — Asking Questions
 
-Task:
+### Learn
+- What
+- Where
+- Why
+- When
+- How much
 
-Chinese এ:
-
-নিজের পরিচয় দাও
-
-বাজার conversation করো
-
-অফিস conversation করো
-
-5 minute speaking practice
-
-
+### Practice
+Create 10 questions.
 
 ---
 
-Best Resources for Learning Chinese
+## 📌 Day 20 — Common Daily Sentences
 
-Apps
-
-Duolingo
-
-HelloChinese
-
-Pleco Dictionary
-
-Anki Flashcards
-
-
+### Learn
+- I understand.
+- I don't understand.
+- Wait a moment.
+- No problem.
 
 ---
 
-Best YouTube Search Keywords
+## 📌 Day 21 — Revision Day
 
-Search:
-
-“Chinese for beginners”
-
-“Daily Chinese conversation”
-
-“HSK1 speaking”
-
-“Chinese listening practice”
-
-
-On:
-
-YouTube
-
-
+### Challenge
+Speak Chinese for 5 minutes continuously.
 
 ---
 
-Important Advice
-
-Chinese শেখার জন্য সবচেয়ে important ৫টা জিনিস:
-
-1. Repeat
-
-
-2. Listening
-
-
-3. Speaking
-
-
-4. Daily practice
-
-
-5. Vocabulary
-
-
-
+# 🌏 WEEK 4 — Real-Life Fluency Building
 
 ---
 
-Golden Rule
+## 📌 Day 22 — Hospital & Health
 
-প্রতিদিন মাত্র:
+### Learn
+- Fever
+- Pain
+- Doctor
+- Medicine
 
-20 নতুন শব্দ
+### Sentences
+- I have a fever.
 
-10 sentence
+---
 
-10 মিনিট speaking
+## 📌 Day 23 — Emergency Situations
 
+### Learn
+- Help
+- Police
+- Danger
+- Lost
 
-৬ মাস করলে তুমি অনেক ভালো communicate করতে পারবা।
+---
+
+## 📌 Day 24 — Social Conversation
+
+### Learn
+- Friend
+- Nice to meet you
+- Long time no see
+
+### Practice
+Practice imaginary conversations.
+
+---
+
+## 📌 Day 25 — Listening Day
+
+### Do
+- Chinese short videos
+- Kids Chinese content
+- Slow Chinese listening practice
+
+### Goal
+Understand keywords from listening.
+
+---
+
+## 📌 Day 26 — Speaking Day
+
+### Do
+- Mirror speaking
+- Voice recording
+- Self-talking practice
+
+---
+
+## 📌 Day 27 — Sentence Building Day
+
+### Practice
+Create your own sentences.
+
+### Examples
+- I go to office.
+- I eat rice.
+- He is my friend.
+
+---
+
+## 📌 Day 28 — Real-Life Simulation
+
+### Practice Topics
+- Restaurant
+- Market
+- Office
+- Factory
+
+---
+
+## 📌 Day 29 — Full Revision
+
+### Revise
+- Top 500 vocabulary
+- Common sentences
+- Numbers
+- Questions
+
+---
+
+## 📌 Day 30 — Final Challenge Day 🎯
+
+### Tasks
+Speak in Chinese:
+
+✅ Self introduction  
+✅ Market conversation  
+✅ Office conversation  
+✅ 5-minute speaking practice
+
+---
+
+# 📖 Recommended Vocabulary Targets
+
+| Time | Vocabulary Goal |
+|---|---|
+| 1 Week | 100–150 Words |
+| 2 Weeks | 250–300 Words |
+| 1 Month | 500–800 Words |
+
+---
+
+# 🎧 Best Resources for Learning Chinese
+
+## 📱 Apps
+- HelloChinese
+- Pleco Dictionary
+- Duolingo
+- Anki Flashcards
+
+---
+
+# 📺 Best YouTube Search Keywords
+
+Search these on YouTube:
+
+- Chinese for beginners
+- Daily Chinese conversation
+- HSK1 speaking
+- Chinese listening practice
+- Chinese shadowing practice
+
+---
+
+# 🔥 Best Practice Tips
+
+## 1. Repeat Daily
+Repetition is the secret of language learning.
+
+## 2. Speak Loudly
+Never learn silently.
+
+## 3. Listen Every Day
+Even 10 minutes helps.
+
+## 4. Learn Sentences, Not Only Words
+Words alone are not enough.
+
+## 5. Record Your Voice
+It improves pronunciation fast.
+
+---
+
+# ❌ Common Beginner Mistakes
+
+- Learning grammar only
+- Memorizing random words
+- Not speaking
+- Fear of making mistakes
+- Inconsistent practice
+
+---
+
+# 🧠 Golden Rule
+
+Every day learn:
+
+✅ 20 new words  
+✅ 10 new sentences  
+✅ 10 minutes listening  
+✅ 10 minutes speaking  
+
+Do this consistently for 6 months and your Chinese communication skills will improve dramatically.
+
+---
+
+# 🚀 Final Advice
+
+Chinese is not difficult if you learn it step-by-step.
+
+Focus on:
+- Listening
+- Speaking
+- Repetition
+- Real-life practice
+
+Don't try to become perfect immediately.
+
+Just practice every day consistently.
+
+加油！(Jiāyóu!) — Keep going! 🇨🇳
