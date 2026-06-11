@@ -14,79 +14,73 @@
 10. **茶** – chá – চা (tea)
 
 ---
+**Here is the corrected and properly written version with Chinese characters, pinyin, and English meaning:**
 
-### এখন বাক্যগুলো:
+### Vocabulary & Sentences
 
-**১.**  
-চীনা: **我爱爸爸。**  
-পিনয়িন: Wǒ ài bàba.  
-বাংলা উচ্চারণ: **ওয়ো আই বাবা।**  
-বাংলা অর্থ: আমি বাবাকে ভালোবাসি।  
-ইংরেজি: I love father.
+1. **爱 (ài)** - love  
+   **Sentence:** 我爱爸爸。  
+   **Pinyin:** Wǒ ài bàba.  
+   **English:** I love my father.
 
-**২.**  
-চীনা: **我有八本书。**  
-পিনয়িন: Wǒ yǒu bā běn shū.  
-বাংলা উচ্চারণ: **ওয়ো ইয়ো বা বেন শু।**  
-বাংলা অর্থ: আমার আটটি বই আছে।  
-ইংরেজি: I have eight books.
+2. **八 (bā)** - eight  
+   **Sentence:** 我有八本书。  
+   **Pinyin:** Wǒ yǒu bā běn shū.  
+   **English:** I have eight books.
 
-**৩.**  
-চীনা: **爸爸喝茶।**  
-পিনয়িন: Bàba hē chá.  
-বাংলা উচ্চারণ: **বাবা হে চা।**  
-বাংলা অর্থ: বাবা চা পান করেন।  
-ইংরেজি: Father drinks tea.
+3. **爸爸 (bàba)** - father / dad  
+   **Sentence:** 爸爸喝茶。  
+   **Pinyin:** Bàba hē chá.  
+   **English:** Father drinks tea.
 
-**৪.**  
-চীনা: **杯子里有茶।**  
-পিনয়িন: Bēizi lǐ yǒu chá.  
-বাংলা উচ্চারণ: **বেইজি লি ইয়ো চা।**  
-বাংলা অর্থ: কাপের ভেতরে চা আছে।  
-ইংরেজি: There is tea in the cup.
+4. **杯子 (bēizi)** - cup / glass  
+   **Sentence:** 请给我一个杯子。  
+   **Pinyin:** Qǐng gěi wǒ yí gè bēizi.  
+   **English:** Please give me a cup.
 
-**৫.**  
-চীনা: **我去北京।**  
-পিনয়িন: Wǒ qù Běijīng.  
-বাংলা উচ্চারণ: **ওয়ো চ্যু বেইজিং।**  
-বাংলা অর্থ: আমি বেইজিং যাই।  
-ইংরেজি: I go to Beijing.
+5. **北京 (Běijīng)** - Beijing  
+   **Sentence:** 我去北京。  
+   **Pinyin:** Wǒ qù Běijīng.  
+   **English:** I go to Beijing.
 
-**৬.**  
-চীনা: **这个菜不辣।**  
-পিনয়িন: Zhège cài bú là.  
-বাংলা উচ্চারণ: **ঝেগে সাই বু লা।**  
-বাংলা অর্থ: এই পদটি মসলাদার নয়।  
-ইংরেজি: This dish is not spicy.
+6. **本 (běn)** - (measure word for books)  
+   **Sentence:** 这本书是在北京买的。  
+   **Pinyin:** Zhè běn shū shì zài Běijīng mǎi de.  
+   **English:** This book was bought in Beijing.
 
-**৭.**  
-চীনা: **不客气。**  
-পিনয়িন: Bú kèqi.  
-বাংলা উচ্চারণ: **বু খেচি।**  
-বাংলা অর্থ: ধন্যবাদের জন্য কিছু না / You're welcome.  
-ইংরেজি: You're welcome.
+7. **不 (bù)** - not / no  
+   **Sentence:** 妈妈不喝茶。  
+   **Pinyin:** Māma bù hē chá.  
+   **English:** Mother does not drink tea.
 
-**৮.**  
-চীনা: **妈妈不喝茶।**  
-পিনয়িন: Māma bù hē chá.  
-বাংলা উচ্চারণ: **মা মা বু হে চা।**  
-বাংলা অর্থ: মা চা পান করেন না।  
-ইংরেজি: Mother does not drink tea.
+8. **不客气 (bú kèqi)** - You're welcome  
+   **Sentence:** 不客气！  
+   **Pinyin:** Bú kèqi!  
+   **English:** You're welcome!
 
-**৯.**  
-চীনা: **请给我一个杯子。**  
-পিনয়িন: Qǐng gěi wǒ yí ge bēizi.  
-বাংলা উচ্চারণ: **চিং গেই ওয়ো ই গে বেইজি।**  
-বাংলা অর্থ: দয়া করে আমাকে একটি কাপ দাও।  
-ইংরেজি: Please give me a cup.
+9. **菜 (cài)** - dish / vegetable  
+   **Sentence:** 这个菜不辣。  
+   **Pinyin:** Zhège cài bù là.  
+   **English:** This dish is not spicy.
 
-**১০.**  
-চীনা: **这本书在北京买。**  
-পিনয়িন: Zhè běn shū zài Běijīng mǎi.  
-বাংলা উচ্চারণ: **ঝে বেন শু জাই বেইজিং মাই।**  
-বাংলা অর্থ: এই বইটি বেইজিংয়ে কেনা হয়েছে।  
-ইংরেজি: This book is bought in Beijing.
+10. **茶 (chá)** - tea  
+    **Sentence:** 我爱喝茶。  
+    **Pinyin:** Wǒ ài hē chá.  
+    **English:** I love to drink tea.
 
 ---
 
-চাইলে এখন এই ফরম্যাটে আরও নতুন বাক্য তৈরি করতে পারি বা অনুশীলন করতে পারি। কী করতে চাও?
+**Bonus corrected full sentences (natural Chinese):**
+
+- 我爱爸爸。  
+- 我有八本书。  
+- 爸爸喝茶。  
+- 请给我一个杯子。  
+- 我去北京。  
+- 这本书是在北京买的。  
+- 妈妈不喝茶。  
+- 不客气。  
+- 这个菜不辣。  
+- 我爱喝茶。
+
+Would you like me to make **flashcards**, **a full practice dialogue**, or **more example sentences** using these words?
