@@ -1,309 +1,124 @@
-# bangladesh-learn-chinese-language-guide
-🇨🇳 Learn Chinese (Mandarin) from Bangla – a beginner-friendly resource for Bangladeshi learners. Includes HSK vocabulary, daily sentences, grammar in simple Bangla, pronunciation guides, and structured lessons from beginner to advanced. Perfect for career, communication, and personal growth in Mandarin.
-🇨🇳 Learn Chinese Language (Mandarin) from Bangla
+# চীনা ভাষা শিক্ষা গাইড - হানজি রেডিকাল (部首)
 
-Welcome to the Chinese Language Learning Repository for Bangladeshi Learners 🎉
-এই রিপোজিটরিটি বাংলা ভাষাভাষীদের জন্য তৈরি করা হয়েছে যারা সহজভাবে Chinese (Mandarin) ভাষা শিখতে চান।
+## পরিচিতি
 
-এখানে Beginner থেকে Advanced level পর্যন্ত ধাপে ধাপে Chinese শেখার বিভিন্ন রিসোর্স দেওয়া হবে।
-
+চীনা ভাষায় **Radical (部首 bùshǔ)** হলো হানজির (汉字) মূল অংশ। এগুলো শিখলে নতুন শব্দের অর্থ বুঝতে এবং হানজি শিখতে অনেক সহজ হয়।
 
 ---
 
-🌏 কেন Chinese Language শিখবেন?
+## ৫০টি প্রধান রেডিকাল তালিকা
 
-বর্তমানে Chinese (Mandarin) পৃথিবীর সবচেয়ে বেশি ব্যবহৃত ভাষাগুলোর একটি।
-চীন বিশ্বের অন্যতম বড় অর্থনৈতিক শক্তি হওয়ায় Chinese ভাষার চাহিদা দিন দিন বাড়ছে।
-
-🚀 Chinese ভাষা শেখার কিছু সুবিধা
-
-🏭 Garments ও Import ব্যবসায় Chinese লোকদের সাথে যোগাযোগ
-
-💼 Interpreter / Translator হিসেবে চাকরির সুযোগ
-
-🎓 China Scholarship এর সুযোগ
-
-🌐 International business communication
-
-✈️ China ভ্রমণ ও পড়াশোনার সুবিধা
-
-📈 Career growth ও freelancing opportunities
-
-🤝 Chinese বন্ধু ও culture সম্পর্কে জানার সুযোগ
-
-
-
----
-
-🈶 Chinese Language কি কঠিন?
-
-অনেকেই মনে করে Chinese ভাষা খুব কঠিন।
-আসলে সঠিক গাইডলাইন ও নিয়মিত practice করলে Chinese শেখা অনেক সহজ হয়ে যায়।
-
-Chinese ভাষার কিছু interesting বিষয়ঃ
-
-Chinese alphabet নেই
-
-Character ভিত্তিক language
-
-একই শব্দ tone পরিবর্তনের কারণে ভিন্ন অর্থ প্রকাশ করতে পারে
-
-Grammar তুলনামূলক সহজ
-
-Verb tense খুব কম
-
-
-
----
-
-📚 HSK কি?
-
-HSK (Hanyu Shuiping Kaoshi) হলো Chinese proficiency test।
-এটি Chinese language skill পরিমাপের official পরীক্ষা।
-
-এই পরীক্ষার মাধ্যমে বোঝা যায় একজন ব্যক্তি কতটুকু Chinese ভাষা জানে।
-
-
----
-
-📖 HSK Level সমূহ
-
-Level	Vocabulary
-
-HSK 1	150 Words
-HSK 2	300 Words
-HSK 3	600 Words
-HSK 4	1200 Words
-HSK 5	2500 Words
-HSK 6	5000+ Words
-
-
+| নং | Radical | নাম (Pinyin) | অর্থ | উদাহরণ |
+|-----|---------|--------------|------|---------|
+| 1 | 人 / 亻 | rén | মানুষ | 你 nǐ, 他 tā |
+| 2 | 口 | kǒu | মুখ | 吃 chī, 喝 hē |
+| 3 | 女 | nǚ | নারী | 妈 mā, 姐 jiě |
+| 4 | 子 | zǐ | সন্তান | 字 zì, 孩 hái |
+| 5 | 宀 | mián | ঘর/ছাদ | 家 jiā, 安 ān |
+| 6 | 日 | rì | সূর্য/দিন | 明 míng, 时 shí |
+| 7 | 月 | yuè | চাঁদ/মাস | 朋 péng, 期 qī |
+| 8 | 木 | mù | গাছ/কাঠ | 林 lín, 校 xiào |
+| 9 | 水 / 氵 | shuǐ | পানি | 海 hǎi, 河 hé |
+| 10 | 火 / 灬 | huǒ | আগুন | 热 rè, 点 diǎn |
+| 11 | 土 | tǔ | মাটি | 地 dì, 坐 zuò |
+| 12 | 山 | shān | পাহাড় | 岛 dǎo |
+| 13 | 石 | shí | পাথর | 研 yán |
+| 14 | 田 | tián | ক্ষেত | 男 nán, 电 diàn |
+| 15 | 禾 | hé | শস্য | 秋 qiū |
+| 16 | 米 | mǐ | চাল | 粉 fěn |
+| 17 | 艹 | cǎo | ঘাস/উদ্ভিদ | 花 huā, 茶 chá |
+| 18 | 竹 / ⺮ | zhú | বাঁশ | 笔 bǐ |
+| 19 | 心 / 忄 | xīn | মন/হৃদয় | 想 xiǎng, 快 kuài |
+| 20 | 手 / 扌 | shǒu | হাত | 打 dǎ, 找 zhǎo |
+| 21 | 足 / ⻊ | zú | পা | 跑 pǎo |
+| 22 | 目 | mù | চোখ | 看 kàn |
+| 23 | 耳 | ěr | কান | 闻 wén |
+| 24 | 言 / 讠 | yán | কথা | 说 shuō, 语 yǔ |
+| 25 | 贝 | bèi | টাকা/সম্পদ | 买 mǎi |
+| 26 | 金 / 钅 | jīn | ধাতু/সোনা | 钱 qián |
+| 27 | 门 | mén | দরজা | 问 wèn |
+| 28 | 囗 | wéi | ঘেরা/দেশ | 国 guó |
+| 29 | 广 | guǎng | বাড়ি/ভবন | 店 diàn |
+| 30 | 宀 | mián | ছাদ | 室 shì |
+| 31 | 车 | chē | গাড়ি | 车 chē |
+| 32 | 马 | mǎ | ঘোড়া | 骂 mà |
+| 33 | 牛 / 牜 | niú | গরু | 物 wù |
+| 34 | 犭 | quǎn | প্রাণী | 狗 gǒu, 猫 māo |
+| 35 | 鸟 | niǎo | পাখি | 鸭 yā |
+| 36 | 虫 | chóng | পোকা | 蚂 mǎ |
+| 37 | 衣 / 衤 | yī | কাপড় | 裤 kù |
+| 38 | 食 / 饣 | shí | খাবার | 饭 fàn |
+| 39 | 示 / 礻 | shì | ধর্ম/দেখানো | 礼 lǐ |
+| 40 | 王 / 玉 | wáng/yù | রাজা/জেড | 珠 zhū |
+| 41 | 力 | lì | শক্তি | 办 bàn |
+| 42 | 刀 / 刂 | dāo | ছুরি | 别 bié |
+| 43 | 弓 | gōng | ধনুক | 张 zhāng |
+| 44 | 方 | fāng | দিক/স্থান | 放 fàng |
+| 45 | 大 | dà | বড় | 天 tiān |
+| 46 | 小 | xiǎo | ছোট | 少 shǎo |
+| 47 | 中 | zhōng | মাঝখান | 忠 zhōng |
+| 48 | 上 | shàng | উপরে | 让 ràng |
+| 49 | 下 | xià | নিচে | 夏 xià |
+| 50 | 生 | shēng | জন্ম/জীবন | 生活 shēnghuó |
 
 ---
 
-🟢 HSK 1 এ কী শেখানো হয়?
+## শেখার পদ্ধতি
 
-HSK 1 হলো সম্পূর্ণ beginner level।
+প্রতিদিন **৫টি Radical** শিখুন:
 
-এখানে সাধারণত শেখানো হয়ঃ
+### ধাপ ১: Radical-এর অর্থ বুঝুন
+প্রতিটি রেডিকালের মূল অর্থ শিখুন এবং মনে রাখুন।
 
-Greetings
+### ধাপ ২: ৫টি করে হানজি খুঁজুন
+প্রতিটি রেডিকালের সাথে সম্পর্কিত অন্তত ৫টি হানজি শিখুন।
 
-Numbers
+### ধাপ ৩: Stroke Order লিখুন
+প্রতিটি চিহ্ন সঠিক স্ট্রোক অর্ডারে লেখার অনুশীলন করুন।
 
-Daily activities
-
-Basic questions
-
-Family members
-
-Simple conversation
-
-Basic grammar
-
-Self introduction
-
-
+### ধাপ ৪: শব্দ বানান
+রেডিকাল ব্যবহার করে নতুন শব্দ বানান এবং বাক্য তৈরি করুন।
 
 ---
 
-✨ কিছু HSK 1 Vocabulary
+## উদাহরণ: 氵 (পানি)
 
-Chinese	Pronunciation	Meaning
-
-你好	Nǐ hǎo	হ্যালো
-谢谢	Xièxie	ধন্যবাদ
-学生	Xuéshēng	ছাত্র
-中国	Zhōngguó	চীন
-水	Shuǐ	পানি
-老师	Lǎoshī	শিক্ষক
-朋友	Péngyou	বন্ধু
-
-
+| হানজি | Pinyin | অর্থ |
+|-------|--------|------|
+| 河 | hé | নদী |
+| 海 | hǎi | সমুদ্র |
+| 洗 | xǐ | ধোয়া |
+| 酒 | jiǔ | মদ |
+| 洋 | yáng | মহাসাগর |
 
 ---
 
-🗣️ Chinese Tone সম্পর্কে
+## সুবিধা
 
-Chinese ভাষায় Tone খুব গুরুত্বপূর্ণ।
-
-একই শব্দ tone পরিবর্তনের কারণে অর্থ পরিবর্তন হয়।
-
-উদাহরণঃ
-
-mā = মা
-
-má = শণ
-
-mǎ = ঘোড়া
-
-mà = বকা দেওয়া
-
-
-তাই pronunciation practice খুব গুরুত্বপূর্ণ।
-
+এভাবে Radical শিখলে **১০০০+ হানজির অর্থ অনুমান করা** অনেক সহজ হয়ে যাবে।
 
 ---
 
-📅 এই Repository তে যা থাকছে
+## HSK 2 শিক্ষার্থীদের জন্য পরামর্শ
 
-✅ HSK Vocabulary
-✅ Daily Conversation
-✅ Grammar Notes
-✅ Chinese Sentence Practice
-✅ Bangla Explanation
-✅ Pronunciation Guide
-✅ Beginner Roadmap
-✅ Speaking Practice
-✅ Listening Resources
-✅ Writing Practice
-
+HSK 2 পরীক্ষার জন্য আমরা পরামর্শ দিই: এই ৫০টির মধ্যে **প্রথম ৩০টি** আগে ভালোভাবে আয়ত্ত করুন।
 
 ---
 
-🎯 কারা এই Repository ব্যবহার করতে পারবে?
+## শিক্ষা সূত্র
 
-Beginner learners
-
-Students
-
-Job seekers
-
-Chinese language enthusiasts
-
-Scholarship applicants
-
-Business professionals
-
-
+> **রেডিকাল = হানজির ভিত্তি**  
+> একটি রেডিকাল জানলে অনেক হানজি বুঝতে পারবেন!
 
 ---
 
-🚀 Learning Goal
+## দ্রুত শেখার টিপস
 
-এই repository এর মূল লক্ষ্য হলো বাংলা ভাষাভাষীদের জন্য Chinese শেখাকে সহজ ও organized করা।
-
-নিয়মিত practice করলে আপনিও ধীরে ধীরে Chinese বলতে, বুঝতে ও লিখতে পারবেন।
-
+✅ প্রতিদিন নিয়মিত অনুশীলন করুন  
+✅ ফ্ল্যাশকার্ড ব্যবহার করুন  
+✅ প্রতিটি রেডিকাল লিখে অনুশীলন করুন  
+✅ বাস্তব শব্দের সাথে সংযোগ স্থাপন করুন  
 
 ---
 
-❤️ Keep Learning
-
-> “Learning a new language opens a new world.”
-
-
-
-Practice everyday.
-Stay consistent.
-Enjoy the learning journey 🇨🇳✨
-
-
-China সম্পর্কে সংক্ষিপ্ত তথ্য
-
-সরকারি নাম: People's Republic of China (PRC)
-
-রাজধানী: Beijing
-
-সবচেয়ে বড় শহর: Shanghai
-
-জনসংখ্যা: প্রায় ১৪০ কোটির বেশি
-
-মুদ্রা: Chinese Yuan (RMB / CNY)
-
-সরকার ব্যবস্থা: Communist Party নেতৃত্বাধীন রাষ্ট্র
-
-আয়তন: বিশ্বের অন্যতম বড় দেশ
-
-
-প্রশাসনিক বিভাগ
-
-চীনে বাংলাদেশের মতো “থানা–জেলা” সিস্টেম পুরোপুরি একই না। সেখানে কয়েক ধাপে প্রশাসন ভাগ করা হয়।
-
-প্রধান বিভাগ
-
-চীনে মোট প্রায়:
-
-২৩টি Province (প্রদেশ)
-
-৫টি Autonomous Region
-
-৪টি Municipality
-
-২টি Special Administrative Region (Hong Kong, Macau)
-
-
-সব মিলিয়ে মোট ৩৪টি প্রাদেশিক স্তরের অঞ্চল।
-
-জেলা ও কাউন্টি
-
-County-level division (জেলার মতো): প্রায় ২,৮০০+
-
-Township / Town level (উপজেলা/থানার মতো): প্রায় ৪০,০০০+
-
-
-ভাষা
-
-সরকারি ভাষা
-
-Standard Mandarin (Putonghua)
-
-
-প্রধান উপভাষা / ভাষাগুলো
-
-চীনে শত শত dialect আছে। বড় কয়েকটিঃ
-
-Mandarin
-
-Cantonese
-
-Shanghainese
-
-Hokkien / Minnan
-
-Hakka
-
-Wu
-
-Xiang
-
-Gan
-
-
-অনেক ভাষা একে অপরের থেকে এতটাই আলাদা যে আলাদা ভাষার মতো শোনে।
-
-জাতিগোষ্ঠী / উপজাতি
-
-চীনে সরকারিভাবে ৫৬টি ethnic groups বা জাতিগোষ্ঠী স্বীকৃত।
-
-সবচেয়ে বড়
-
-Han Chinese — প্রায় ৯০% এর বেশি
-
-
-অন্যান্য পরিচিত ethnic groups
-
-Uyghur
-
-Tibetan
-
-Zhuang
-
-Hui
-
-Mongol
-
-Miao
-
-Korean Chinese
-
-
-মজার কিছু তথ্য
-
-Great Wall of China পৃথিবীর সবচেয়ে বিখ্যাত স্থাপনাগুলোর একটি।
-
-চীনে বিশ্বের সবচেয়ে বড় high-speed rail network আছে।
-
-Huawei, Xiaomi, Tencent এর মতো বড় বড় কোম্পানি চীনের।
-
-Chinese culture প্রায় ৫,০০০ বছরের পুরোনো।
+**Happy Learning! 加油！(Jiāyóu!)**
