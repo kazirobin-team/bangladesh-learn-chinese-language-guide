@@ -1,124 +1,16 @@
-# চীনা ভাষা শিক্ষা গাইড - হানজি রেডিকাল (部首)
+# React + Vite
 
-## পরিচিতি
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-চীনা ভাষায় **Radical (部首 bùshǔ)** হলো হানজির (汉字) মূল অংশ। এগুলো শিখলে নতুন শব্দের অর্থ বুঝতে এবং হানজি শিখতে অনেক সহজ হয়।
+Currently, two official plugins are available:
 
----
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## ৫০টি প্রধান রেডিকাল তালিকা
+## React Compiler
 
-| নং | Radical | নাম (Pinyin) | অর্থ | উদাহরণ |
-|-----|---------|--------------|------|---------|
-| 1 | 人 / 亻 | rén | মানুষ | 你 nǐ, 他 tā |
-| 2 | 口 | kǒu | মুখ | 吃 chī, 喝 hē |
-| 3 | 女 | nǚ | নারী | 妈 mā, 姐 jiě |
-| 4 | 子 | zǐ | সন্তান | 字 zì, 孩 hái |
-| 5 | 宀 | mián | ঘর/ছাদ | 家 jiā, 安 ān |
-| 6 | 日 | rì | সূর্য/দিন | 明 míng, 时 shí |
-| 7 | 月 | yuè | চাঁদ/মাস | 朋 péng, 期 qī |
-| 8 | 木 | mù | গাছ/কাঠ | 林 lín, 校 xiào |
-| 9 | 水 / 氵 | shuǐ | পানি | 海 hǎi, 河 hé |
-| 10 | 火 / 灬 | huǒ | আগুন | 热 rè, 点 diǎn |
-| 11 | 土 | tǔ | মাটি | 地 dì, 坐 zuò |
-| 12 | 山 | shān | পাহাড় | 岛 dǎo |
-| 13 | 石 | shí | পাথর | 研 yán |
-| 14 | 田 | tián | ক্ষেত | 男 nán, 电 diàn |
-| 15 | 禾 | hé | শস্য | 秋 qiū |
-| 16 | 米 | mǐ | চাল | 粉 fěn |
-| 17 | 艹 | cǎo | ঘাস/উদ্ভিদ | 花 huā, 茶 chá |
-| 18 | 竹 / ⺮ | zhú | বাঁশ | 笔 bǐ |
-| 19 | 心 / 忄 | xīn | মন/হৃদয় | 想 xiǎng, 快 kuài |
-| 20 | 手 / 扌 | shǒu | হাত | 打 dǎ, 找 zhǎo |
-| 21 | 足 / ⻊ | zú | পা | 跑 pǎo |
-| 22 | 目 | mù | চোখ | 看 kàn |
-| 23 | 耳 | ěr | কান | 闻 wén |
-| 24 | 言 / 讠 | yán | কথা | 说 shuō, 语 yǔ |
-| 25 | 贝 | bèi | টাকা/সম্পদ | 买 mǎi |
-| 26 | 金 / 钅 | jīn | ধাতু/সোনা | 钱 qián |
-| 27 | 门 | mén | দরজা | 问 wèn |
-| 28 | 囗 | wéi | ঘেরা/দেশ | 国 guó |
-| 29 | 广 | guǎng | বাড়ি/ভবন | 店 diàn |
-| 30 | 宀 | mián | ছাদ | 室 shì |
-| 31 | 车 | chē | গাড়ি | 车 chē |
-| 32 | 马 | mǎ | ঘোড়া | 骂 mà |
-| 33 | 牛 / 牜 | niú | গরু | 物 wù |
-| 34 | 犭 | quǎn | প্রাণী | 狗 gǒu, 猫 māo |
-| 35 | 鸟 | niǎo | পাখি | 鸭 yā |
-| 36 | 虫 | chóng | পোকা | 蚂 mǎ |
-| 37 | 衣 / 衤 | yī | কাপড় | 裤 kù |
-| 38 | 食 / 饣 | shí | খাবার | 饭 fàn |
-| 39 | 示 / 礻 | shì | ধর্ম/দেখানো | 礼 lǐ |
-| 40 | 王 / 玉 | wáng/yù | রাজা/জেড | 珠 zhū |
-| 41 | 力 | lì | শক্তি | 办 bàn |
-| 42 | 刀 / 刂 | dāo | ছুরি | 别 bié |
-| 43 | 弓 | gōng | ধনুক | 张 zhāng |
-| 44 | 方 | fāng | দিক/স্থান | 放 fàng |
-| 45 | 大 | dà | বড় | 天 tiān |
-| 46 | 小 | xiǎo | ছোট | 少 shǎo |
-| 47 | 中 | zhōng | মাঝখান | 忠 zhōng |
-| 48 | 上 | shàng | উপরে | 让 ràng |
-| 49 | 下 | xià | নিচে | 夏 xià |
-| 50 | 生 | shēng | জন্ম/জীবন | 生活 shēnghuó |
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
----
+## Expanding the ESLint configuration
 
-## শেখার পদ্ধতি
-
-প্রতিদিন **৫টি Radical** শিখুন:
-
-### ধাপ ১: Radical-এর অর্থ বুঝুন
-প্রতিটি রেডিকালের মূল অর্থ শিখুন এবং মনে রাখুন।
-
-### ধাপ ২: ৫টি করে হানজি খুঁজুন
-প্রতিটি রেডিকালের সাথে সম্পর্কিত অন্তত ৫টি হানজি শিখুন।
-
-### ধাপ ৩: Stroke Order লিখুন
-প্রতিটি চিহ্ন সঠিক স্ট্রোক অর্ডারে লেখার অনুশীলন করুন।
-
-### ধাপ ৪: শব্দ বানান
-রেডিকাল ব্যবহার করে নতুন শব্দ বানান এবং বাক্য তৈরি করুন।
-
----
-
-## উদাহরণ: 氵 (পানি)
-
-| হানজি | Pinyin | অর্থ |
-|-------|--------|------|
-| 河 | hé | নদী |
-| 海 | hǎi | সমুদ্র |
-| 洗 | xǐ | ধোয়া |
-| 酒 | jiǔ | মদ |
-| 洋 | yáng | মহাসাগর |
-
----
-
-## সুবিধা
-
-এভাবে Radical শিখলে **১০০০+ হানজির অর্থ অনুমান করা** অনেক সহজ হয়ে যাবে।
-
----
-
-## HSK 2 শিক্ষার্থীদের জন্য পরামর্শ
-
-HSK 2 পরীক্ষার জন্য আমরা পরামর্শ দিই: এই ৫০টির মধ্যে **প্রথম ৩০টি** আগে ভালোভাবে আয়ত্ত করুন।
-
----
-
-## শিক্ষা সূত্র
-
-> **রেডিকাল = হানজির ভিত্তি**  
-> একটি রেডিকাল জানলে অনেক হানজি বুঝতে পারবেন!
-
----
-
-## দ্রুত শেখার টিপস
-
-✅ প্রতিদিন নিয়মিত অনুশীলন করুন  
-✅ ফ্ল্যাশকার্ড ব্যবহার করুন  
-✅ প্রতিটি রেডিকাল লিখে অনুশীলন করুন  
-✅ বাস্তব শব্দের সাথে সংযোগ স্থাপন করুন  
-
----
-
-**Happy Learning! 加油！(Jiāyóu!)**
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
