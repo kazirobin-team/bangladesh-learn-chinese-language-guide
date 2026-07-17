@@ -1,16 +1,113 @@
-# React + Vite
+# Learn Chinese with Kazi Robin
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive learning platform built with Next.js App Router, React, Tailwind CSS and section-based JSON content.
 
-Currently, two official plugins are available:
+## Development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```bash
+npm install
+npm run dev
+```
 
-## React Compiler
+## Content editing
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Every page and section has its own JSON file under `app/data`. Keep existing keys unchanged, edit values or array records, then rebuild.
 
-## Expanding the ESLint configuration
+### Shared layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- `app/data/shared/navigation.json` - navbar links and visibility
+- `app/data/shared/footer.json` - footer columns, links, contact and visibility
+- `app/data/shared/footer-pages.json` - content for generated footer destination pages
+- `app/data/shared/cta.json` - CTA banner
+- `app/data/shared/modals.json` - popup content
+- `app/data/shared/seo.json` - metadata for every main route
+
+Navbar controls:
+
+- Set the top-level `visible` to hide the full navbar.
+- Set an item `visible` to show or hide one link.
+- Set `communityButtonVisible` to show or hide the WhatsApp button.
+
+Footer controls:
+
+- Set the top-level `visible` to hide the full footer.
+- Use `brandVisible`, `socialsVisible`, `contactVisible` and `bottomVisible` for major areas.
+- Every column and link also has its own `visible` value.
+
+### Home
+
+- `app/data/home/hero.json`
+- `app/data/home/stats.json`
+- `app/data/home/features.json`
+- `app/data/home/roadmap.json`
+- `app/data/home/courses.json`
+- `app/data/home/notices.json`
+- `app/data/home/videos.json`
+- `app/data/home/audio.json`
+- `app/data/home/why-robin.json`
+
+### Resources
+
+- `app/data/resources/page.json`
+- `app/data/resources/library.json`
+- `app/data/resources/notices.json`
+- `app/data/resources/students.json`
+- `app/data/resources/study.json`
+- `app/data/resources/audio.json`
+- `app/data/resources/pinyin.json`
+- `app/data/resources/hanzi.json`
+- `app/data/resources/exams.json`
+- `app/data/resources/gallery.json`
+
+### Full media and community pages
+
+- `app/data/videos/page.json`
+- `app/data/videos/library.json`
+- `app/data/audio/page.json`
+- `app/data/audio/library.json`
+- `app/data/community/page.json`
+- `app/data/community/benefits.json`
+- `app/data/community/groups.json`
+- `app/data/community/events.json`
+
+## Media sources
+
+Audio and video items support local public assets, direct external URLs and embeddable providers.
+
+```json
+{
+  "sourceType": "local",
+  "sourceUrl": "/assets/audio/lesson.mp3",
+  "downloadUrl": "/assets/audio/lesson.mp3",
+  "externalUrl": ""
+}
+```
+
+For a direct external file, put the complete URL in `sourceUrl`. For YouTube or Google Drive, omit `sourceUrl` and use an embeddable `embedUrl`.
+
+```json
+{
+  "sourceType": "embed",
+  "embedUrl": "https://drive.google.com/file/d/FILE_ID/preview",
+  "downloadUrl": "https://drive.google.com/uc?export=download&id=FILE_ID",
+  "externalUrl": "https://drive.google.com/file/d/FILE_ID/view"
+}
+```
+
+Images use `image`, `downloadUrl` and `externalUrl`. Clicking a gallery image opens the zoomable lightbox.
+
+## Downloadable assets
+
+Real public assets are stored in:
+
+- `public/assets/audio` - local Mandarin MP3 files
+- `public/assets/documents` - PDF e-books, assignments, DOCX notice templates and student-list CSV/DOCX
+- `public/assets` - downloadable images and brand assets
+
+## Validation
+
+```bash
+npm run lint
+npm test
+npm run build
+```

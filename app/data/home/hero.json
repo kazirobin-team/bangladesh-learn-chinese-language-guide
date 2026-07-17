@@ -1,0 +1,23 @@
+{
+  "kicker": "✦ Start Your Chinese Learning Journey Today!",
+  "headline": [
+    [{ "text": "Learn Chinese" }],
+    [{ "text": "From Beginner" }],
+    [{ "text": "to " }, { "text": "HSK 6", "accent": true }, { "text": " —" }],
+    [{ "text": "Completely " }, { "text": "Free", "accent": true }]
+  ],
+  "description": "Join our active WhatsApp learning community where students learn Chinese every day through live classes, weekly exams, structured study materials, and continuous teacher support.",
+  "secondaryAction": { "label": "Explore Resources", "href": "/resources" },
+  "socialProof": {
+    "avatars": ["KR", "李", "王", "陈"],
+    "title": "1,000+ Students",
+    "subtitle": "are learning with us",
+    "rating": 5
+  },
+  "benefits": [
+    { "icon": "CalendarCheck", "title": "Daily Classes", "text": "Every Day" },
+    { "icon": "ClipboardCheck", "title": "Weekly Exams", "text": "Every Week" },
+    { "icon": "NotebookTabs", "title": "HSK 1 – 6", "text": "Complete Guide" },
+    { "icon": "ShieldCheck", "title": "100% Free", "text": "For Everyone" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "icon": "Users", "value": "1000+", "label": "Students" },
+    { "icon": "GraduationCap", "value": "365+", "label": "Classes" },
+    { "icon": "BookOpenText", "value": "100+", "label": "Study Resources" },
+    { "icon": "ClipboardCheck", "value": "50+", "label": "Practice Exams" },
+    { "icon": "Award", "value": "100%", "label": "Free Learning" }
+  ]
+}

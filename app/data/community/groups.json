@@ -1,0 +1,9 @@
+{
+  "kicker": "STUDY GROUPS",
+  "title": "Find Your Learning Circle",
+  "items": [
+    { "level": "STARTER", "title": "Beginner Foundation", "description": "Pinyin, tones and first conversations.", "members": "420+ learners" },
+    { "level": "HSK 1–2", "title": "Elementary Learners", "description": "Vocabulary drills and weekly speaking practice.", "members": "310+ learners" },
+    { "level": "HSK 3–4", "title": "Intermediate Circle", "description": "Reading, listening and real-life discussion.", "members": "185+ learners" }
+  ]
+}

@@ -1,0 +1,92 @@
+.page-hero {
+  background:
+    linear-gradient(90deg, rgba(255,248,244,.95), rgba(255,248,244,.72)),
+    url("/assets/great-wall.png") center / cover;
+  min-height: 255px;
+  padding-block: 54px;
+  text-align: center;
+}
+.page-hero span { color: var(--red); font-size: 10px; font-weight: 800; letter-spacing: 1.8px; }
+.page-hero h1 { font-size: clamp(40px, 5vw, 60px); letter-spacing: -2.4px; margin: 8px 0; }
+.page-hero h1 em { color: var(--red); }
+.page-hero p { color: #555; font-size: 14px; margin: 0 auto; max-width: 650px; }
+.page-hero-blue { background-color: #eff6ff; }
+.page-hero-blue span, .page-hero-blue h1 em { color: #286ea7; }
+.page-hero-green { background-color: #eefaf2; }
+.page-hero-green span, .page-hero-green h1 em { color: #15944b; }
+
+.community-benefit-grid { display: grid; gap: 18px; grid-template-columns: repeat(4, 1fr); }
+.community-benefit-grid article { border: 1px solid var(--line); border-radius: 12px; min-height: 190px; padding: 24px; }
+.community-benefit-grid svg { color: #15944b; height: 30px; width: 30px; }
+.community-benefit-grid h3 { font-size: 15px; margin: 18px 0 7px; }
+.community-benefit-grid p { color: var(--muted); font-size: 11px; line-height: 1.6; margin: 0; }
+.community-groups { background: #f4fbf6; }
+.group-grid { display: grid; gap: 20px; grid-template-columns: repeat(3, 1fr); }
+.group-grid article { align-items: flex-start; background: #fff; border: 1px solid #dcebe1; border-radius: 12px; display: flex; gap: 16px; padding: 22px; }
+.group-grid svg { background: #eaf8ef; border-radius: 9px; color: #15944b; height: 44px; padding: 10px; width: 44px; }
+.group-grid span { color: #15944b; font-size: 9px; font-weight: 800; }
+.group-grid h3 { font-size: 16px; margin: 5px 0; }
+.group-grid p { color: #666; font-size: 10px; line-height: 1.5; }
+.group-grid small { font-size: 9px; font-weight: 700; }
+.event-grid { display: grid; gap: 15px; grid-template-columns: repeat(3, 1fr); }
+.event-grid article { align-items: center; border: 1px solid var(--line); border-radius: 10px; display: flex; gap: 14px; padding: 18px; }
+.event-grid svg { color: var(--red); }
+.event-grid b { color: var(--red); font-size: 9px; }
+.event-grid h3 { font-size: 14px; margin: 4px 0; }
+.event-grid p { color: #777; font-size: 10px; margin: 0; }
+.community-join { align-items: center; background: linear-gradient(120deg, #b90f17, #e12b31); border-radius: 14px; color: #fff; display: grid; gap: 18px; grid-template-columns: auto 1fr auto; margin-top: 30px; padding: 28px; }
+.community-join > svg { height: 45px; width: 45px; }
+.community-join h2 { font-size: 23px; margin: 0 0 5px; }
+.community-join p { font-size: 11px; margin: 0; opacity: .85; }
+
+.download-library, .pdf-section, .notice-templates, .student-template { border: 1px solid var(--line); border-radius: 13px; margin-bottom: 22px; padding: 28px; }
+.download-grid { display: grid; gap: 16px; grid-template-columns: repeat(3, 1fr); }
+.download-grid article { border: 1px solid var(--line); border-radius: 10px; display: flex; flex-direction: column; min-height: 220px; padding: 18px; }
+.download-icon { align-items: center; border-radius: 9px; display: flex; height: 42px; justify-content: center; width: 42px; }
+.download-icon svg { height: 21px; width: 21px; }
+.download-grid small { color: #888; display: block; font-size: 8px; font-weight: 800; margin-top: 13px; }
+.download-grid h3 { font-size: 14px; margin: 5px 0; }
+.download-grid p { color: #666; font-size: 10px; line-height: 1.5; }
+.download-links { display: flex; gap: 12px; margin-top: auto; }
+.download-links a { align-items: center; color: var(--red); display: flex; font-size: 9px; font-weight: 800; gap: 4px; }
+.download-links svg { height: 14px; width: 14px; }
+
+.pdf-section { align-items: center; background: #171717; color: #fff; display: grid; gap: 32px; grid-template-columns: .75fr 1.25fr; }
+.pdf-copy > span, .student-template-head span { color: #f44; font-size: 10px; font-weight: 800; letter-spacing: 1.4px; }
+.pdf-copy h2 { font-size: 30px; margin: 8px 0; }
+.pdf-copy p { color: #bbb; font-size: 12px; line-height: 1.6; }
+.pdf-section iframe { background: #fff; border: 0; border-radius: 8px; height: 480px; width: 100%; }
+.template-grid { display: grid; gap: 17px; grid-template-columns: repeat(3, 1fr); }
+.template-grid article { border: 1px solid var(--line); border-radius: 10px; padding: 19px; }
+.template-grid article > span { border-radius: 20px; color: #fff; display: inline-block; font-size: 8px; font-weight: 800; padding: 5px 9px; }
+.template-grid small { color: #888; display: block; font-size: 9px; margin-top: 12px; }
+.template-grid h3 { font-size: 15px; margin: 7px 0; }
+.template-grid p { color: #666; font-size: 10px; line-height: 1.5; }
+.template-grid a { align-items: center; color: var(--red); display: flex; font-size: 9px; font-weight: 800; gap: 5px; }
+.template-grid a svg { height: 14px; width: 14px; }
+
+.student-template-head { align-items: end; display: flex; justify-content: space-between; margin-bottom: 20px; }
+.student-template-head h2 { font-size: 29px; margin: 6px 0; }
+.student-template-head p { color: #666; font-size: 11px; margin: 0; }
+.student-table-wrap { overflow-x: auto; }
+.student-template table { border-collapse: collapse; min-width: 690px; width: 100%; }
+.student-template th { background: #fff1f1; color: #a51b20; font-size: 10px; padding: 12px; text-align: left; }
+.student-template td { border-bottom: 1px solid var(--line); font-size: 10px; padding: 13px 12px; }
+.student-template td span { background: #e8f8ee; border-radius: 20px; color: #158846; padding: 4px 8px; }
+.student-formats { align-items: center; color: #777; display: flex; font-size: 9px; gap: 6px; margin-top: 13px; }
+.student-formats svg { height: 16px; width: 16px; }
+
+@media (max-width: 900px) {
+  .community-benefit-grid, .download-grid { grid-template-columns: repeat(2, 1fr); }
+  .group-grid, .event-grid, .template-grid { grid-template-columns: 1fr; }
+  .pdf-section { grid-template-columns: 1fr; }
+}
+@media (max-width: 620px) {
+  .page-hero { min-height: 220px; padding-block: 42px; }
+  .community-benefit-grid, .download-grid { grid-template-columns: 1fr; }
+  .community-join { grid-template-columns: 1fr; text-align: center; }
+  .community-join > svg { margin: auto; }
+  .download-library, .pdf-section, .notice-templates, .student-template { padding: 18px; }
+  .student-template-head { align-items: flex-start; flex-direction: column; gap: 15px; }
+  .pdf-section iframe { height: 410px; }
+}

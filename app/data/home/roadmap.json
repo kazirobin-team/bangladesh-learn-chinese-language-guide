@@ -1,0 +1,14 @@
+{
+  "heading": { "eyebrow": "LEARNING ROADMAP", "title": "Your Path to", "accent": "Chinese Fluency" },
+  "items": [
+    { "short": "⚑", "title": "Start Here", "sub": "Begin Your Journey", "color": "#e62f31" },
+    { "short": "拼", "title": "Pinyin", "sub": "Pronunciation Foundation", "color": "#a13ac0" },
+    { "short": "漢", "title": "Hanzi", "sub": "Learn Chinese Characters", "color": "#585bc9" },
+    { "short": "初", "title": "HSK 1", "sub": "Beginner Level", "color": "#2782d2" },
+    { "short": "基", "title": "HSK 2", "sub": "Elementary Level", "color": "#0fb28e" },
+    { "short": "中", "title": "HSK 3", "sub": "Intermediate Level", "color": "#28a5b5" },
+    { "short": "高", "title": "HSK 4", "sub": "Upper Intermediate", "color": "#e1a800" },
+    { "short": "強", "title": "HSK 5", "sub": "Advanced Level", "color": "#ec7b19" },
+    { "short": "熟", "title": "HSK 6", "sub": "Mastery Level", "color": "#e9333d" }
+  ]
+}

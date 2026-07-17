@@ -1,0 +1,31 @@
+.why-robin { background: linear-gradient(180deg, #fff, #fff8f5); }
+.why-robin-grid { display: grid; gap: 15px; grid-template-columns: repeat(3, 1fr); }
+.why-robin-grid article { background: #fff; border: 1px solid var(--line); border-radius: 12px; min-height: 170px; padding: 22px; transition: transform .2s, box-shadow .2s; }
+.why-robin-grid article:hover { box-shadow: var(--shadow); transform: translateY(-3px); }
+.why-robin-grid svg { background: #fff0ef; border-radius: 10px; color: var(--red); height: 42px; padding: 10px; width: 42px; }
+.why-robin-grid h3 { font-size: 14px; margin: 14px 0 6px; }
+.why-robin-grid p { color: var(--muted); font-size: 10px; line-height: 1.6; margin: 0; }
+.why-robin-stats { background: #171717; border-radius: 12px; color: #fff; display: grid; grid-template-columns: repeat(4, 1fr); margin-top: 22px; padding: 24px; }
+.why-robin-stats div { align-items: center; border-right: 1px solid #353535; display: flex; flex-direction: column; }
+.why-robin-stats div:last-child { border-right: 0; }
+.why-robin-stats b { color: #ff3b42; font-size: 25px; }
+.why-robin-stats span { color: #bbb; font-size: 9px; margin-top: 4px; }
+.generic-page { background: #faf9f8; min-height: 420px; }
+.generic-grid { display: grid; gap: 18px; grid-template-columns: repeat(2, 1fr); }
+.generic-grid article { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 27px; }
+.generic-grid h2 { font-size: 22px; margin: 0 0 10px; }
+.generic-grid p, .generic-grid li { color: #666; font-size: 12px; line-height: 1.7; }
+.generic-grid ul { padding-left: 18px; }
+.generic-grid .media-actions { margin-top: 18px; }
+.footer-brand .socials a { display: flex; }
+.panel-title > a { align-items: center; display: flex; font-size: 10px; font-weight: 700; gap: 5px; }
+.video-thumb { border: 0; text-align: left; width: 100%; }
+.video-thumb i { align-items: center; background: rgba(255,255,255,.9); border-radius: 50%; color: var(--red); display: flex; height: 24px; justify-content: center; left: 50%; position: absolute; top: 50%; transform: translate(-50%, -50%); width: 24px; }
+.video-thumb i svg { height: 12px; width: 12px; }
+.lightbox-tools a { color: #fff; display: flex; padding: 5px; }
+.lightbox-tools a svg { height: 18px; width: 18px; }
+@media (max-width: 760px) {
+  .why-robin-grid, .generic-grid { grid-template-columns: 1fr; }
+  .why-robin-stats { grid-template-columns: repeat(2, 1fr); row-gap: 22px; }
+  .why-robin-stats div:nth-child(2) { border-right: 0; }
+}

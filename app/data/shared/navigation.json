@@ -1,0 +1,14 @@
+{
+  "brandAlt": "Learn Chinese with Kazi Robin",
+  "visible": true,
+  "items": [
+    { "label": "Home", "href": "/", "visible": true },
+    { "label": "Resources", "href": "/resources", "visible": true },
+    { "label": "Videos", "href": "/videos", "visible": true },
+    { "label": "Audio", "href": "/audio", "visible": true },
+    { "label": "Notice", "href": "/resources#notices", "visible": true },
+    { "label": "Community", "href": "/community", "visible": true }
+  ],
+  "communityLabel": "Join WhatsApp Community",
+  "communityButtonVisible": true
+}

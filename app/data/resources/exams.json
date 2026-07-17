@@ -1,0 +1,18 @@
+{
+  "section": {
+    "number": "5",
+    "title": "Weekly Exams",
+    "description": "Test your knowledge every week and improve your Chinese.",
+    "tone": "#8241b2",
+    "viewAllButton": "View All Exams"
+  },
+  "marksLabel": "10 Marks",
+  "primaryButton": "Go to Weekly Exams",
+  "items": [
+    { "icon": "BookMarked", "title": "Vocabulary Test", "text": "Words & meanings" },
+    { "icon": "Headphones", "title": "Listening Test", "text": "Listen & answer" },
+    { "icon": "ScrollText", "title": "Reading Test", "text": "Passages & questions" },
+    { "icon": "PencilLine", "title": "Writing Test", "text": "Sentence writing" },
+    { "icon": "Mic2", "title": "Speaking Test", "text": "Speak in Chinese" }
+  ]
+}

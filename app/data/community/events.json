@@ -1,0 +1,11 @@
+{
+  "kicker": "UPCOMING EVENTS",
+  "title": "Practice Together Every Week",
+  "joinTitle": "Ready to Learn with Us?",
+  "joinDescription": "Join the WhatsApp community for class links, materials and important updates.",
+  "items": [
+    { "date": "Every Tuesday", "title": "Beginner Speaking Room", "time": "8:00 PM · Online" },
+    { "date": "Every Thursday", "title": "Weekly HSK Exam", "time": "7:30 PM · Exam link shared in group" },
+    { "date": "Every Saturday", "title": "Live Q&A with Teacher", "time": "9:00 PM · WhatsApp Community" }
+  ]
+}

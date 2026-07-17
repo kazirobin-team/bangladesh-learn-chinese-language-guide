@@ -1,0 +1,15 @@
+{
+  "kicker": "STUDENT LIST TEMPLATE DESIGN",
+  "title": "Simple Class & Attendance Tracker",
+  "description": "A clean preview of the downloadable student list document.",
+  "downloadLabel": "Download Student List",
+  "downloadUrl": "/assets/documents/student-list-template.docx",
+  "formatsLabel": "Available formats",
+  "formats": ["DOCX", "CSV"],
+  "columns": ["ID", "Student Name", "Level", "Attendance", "Status"],
+  "rows": [
+    { "id": "ST-001", "name": "Ayesha Rahman", "level": "HSK 1", "attendance": "96%", "status": "Active" },
+    { "id": "ST-002", "name": "Sakib Hasan", "level": "HSK 2", "attendance": "88%", "status": "Active" },
+    { "id": "ST-003", "name": "Nusrat Jahan", "level": "Beginner", "attendance": "92%", "status": "Active" }
+  ]
+}

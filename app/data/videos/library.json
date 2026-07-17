@@ -1,0 +1,86 @@
+{
+  "kicker": "ALL VIDEO LESSONS",
+  "title": "Learn Visually, Practice Confidently",
+  "description": "Click any lesson to open the player. Each video can use a local file, direct URL, YouTube embed or Google Drive preview link.",
+  "filters": ["All", "Beginner", "Pinyin", "HSK 1", "Conversation"],
+  "items": [
+    {
+      "category": "Beginner",
+      "title": "Basic Greetings in Chinese",
+      "description": "Start with 你好, introductions and simple everyday greetings.",
+      "duration": "12:45",
+      "color": "#c93135",
+      "poster": "/assets/great-wall.png",
+      "sourceType": "external",
+      "sourceUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "downloadUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "externalUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "credit": "Demo player source: MDN CC0 video. Replace this URL in JSON with the final lesson."
+    },
+    {
+      "category": "Pinyin",
+      "title": "Pinyin Complete Guide",
+      "description": "Understand initials, finals and the four Mandarin tones.",
+      "duration": "10:30",
+      "color": "#2453a3",
+      "poster": "/assets/hero-student.png",
+      "sourceType": "external",
+      "sourceUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+      "downloadUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+      "externalUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+      "credit": "Demo direct-video source. JSON supports replacing it with a local lesson asset."
+    },
+    {
+      "category": "HSK 1",
+      "title": "HSK 1 Core Vocabulary",
+      "description": "Learn essential HSK 1 words with practical examples.",
+      "duration": "15:20",
+      "color": "#278247",
+      "poster": "/og.png",
+      "sourceType": "external",
+      "sourceUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "downloadUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "externalUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "credit": "Demo player source."
+    },
+    {
+      "category": "Conversation",
+      "title": "Ordering Food in Chinese",
+      "description": "Useful phrases for menus, prices and polite requests.",
+      "duration": "09:18",
+      "color": "#d78012",
+      "poster": "/assets/great-wall.png",
+      "sourceType": "external",
+      "sourceUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+      "downloadUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+      "externalUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+      "credit": "Demo player source."
+    },
+    {
+      "category": "HSK 1",
+      "title": "Numbers, Dates and Time",
+      "description": "Practice counting, dates, weekdays and telling the time.",
+      "duration": "11:05",
+      "color": "#7650a7",
+      "poster": "/assets/hero-student.png",
+      "sourceType": "external",
+      "sourceUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "downloadUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "externalUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "credit": "Demo player source."
+    },
+    {
+      "category": "Pinyin",
+      "title": "Four Tones Practice",
+      "description": "Hear and repeat tone pairs with guided examples.",
+      "duration": "08:40",
+      "color": "#14908a",
+      "poster": "/og.png",
+      "sourceType": "external",
+      "sourceUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+      "downloadUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+      "externalUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+      "credit": "Demo player source."
+    }
+  ]
+}

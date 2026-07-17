@@ -1,0 +1,23 @@
+{
+  "section": {
+    "number": "6",
+    "title": "Image Gallery",
+    "description": "Zoom, open and download useful charts, posters and study images.",
+    "tone": "#e22d65",
+    "viewAllButton": "View All Images"
+  },
+  "lightboxLabel": "Image preview",
+  "imageAlt": "Chinese learning gallery image",
+  "downloadLabel": "Download Image",
+  "openLabel": "Open Original",
+  "moreCount": "+15",
+  "moreLabel": "more",
+  "items": [
+    { "icon": "Languages", "title": "Great Wall Study Image", "className": "chart-pinyin", "content": "长城", "image": "/assets/great-wall.png", "downloadUrl": "/assets/great-wall.png", "externalUrl": "/assets/great-wall.png" },
+    { "icon": "Captions", "title": "Student Learning Poster", "className": "chart-tone", "content": "学习", "image": "/assets/hero-student.png", "downloadUrl": "/assets/hero-student.png", "externalUrl": "/assets/hero-student.png" },
+    { "icon": "PencilLine", "title": "Course Social Poster", "className": "chart-hanzi", "content": "中文", "image": "/og.png", "downloadUrl": "/og.png", "externalUrl": "/og.png" },
+    { "icon": "Shapes", "title": "Brand Logo", "className": "chart-radical", "content": "中", "image": "/assets/logo.png", "downloadUrl": "/assets/logo.png", "externalUrl": "/assets/logo.png" },
+    { "icon": "Images", "title": "Classroom Poster", "className": "chart-class", "content": "你好 · 谢谢" },
+    { "icon": "Images", "title": "Vocabulary Poster", "className": "chart-vocab", "content": "苹果 · 面条 · 茶" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "kicker": "ALL AUDIO LESSONS",
+  "title": "Listen, Repeat and Improve",
+  "description": "These real Mandarin recordings are stored locally. The same JSON fields also accept direct external audio or Drive embed links.",
+  "filters": ["All", "Greetings", "Tones", "Pinyin"],
+  "items": [
+    { "category": "Greetings", "title": "你 · Nǐ", "pinyin": "nǐ · you", "duration": "00:01", "sourceType": "local", "sourceUrl": "/assets/audio/cmn-ni3.mp3", "downloadUrl": "/assets/audio/cmn-ni3.mp3", "credit": "Voice: Chen Wang · CC BY-SA · audio-cmn" },
+    { "category": "Greetings", "title": "好 · Hǎo", "pinyin": "hǎo · good", "duration": "00:01", "sourceType": "local", "sourceUrl": "/assets/audio/cmn-hao3.mp3", "downloadUrl": "/assets/audio/cmn-hao3.mp3", "credit": "Voice: Chen Wang · CC BY-SA · audio-cmn" },
+    { "category": "Tones", "title": "妈 · Mā", "pinyin": "mā · first tone", "duration": "00:01", "sourceType": "local", "sourceUrl": "/assets/audio/cmn-ma1.mp3", "downloadUrl": "/assets/audio/cmn-ma1.mp3", "credit": "Voice: Chen Wang · CC BY-SA · audio-cmn" },
+    { "category": "Tones", "title": "麻 · Má", "pinyin": "má · second tone", "duration": "00:01", "sourceType": "local", "sourceUrl": "/assets/audio/cmn-ma2.mp3", "downloadUrl": "/assets/audio/cmn-ma2.mp3", "credit": "Voice: Chen Wang · CC BY-SA · audio-cmn" },
+    { "category": "Tones", "title": "马 · Mǎ", "pinyin": "mǎ · third tone", "duration": "00:01", "sourceType": "local", "sourceUrl": "/assets/audio/cmn-ma3.mp3", "downloadUrl": "/assets/audio/cmn-ma3.mp3", "credit": "Voice: Chen Wang · CC BY-SA · audio-cmn" },
+    { "category": "Pinyin", "title": "骂 · Mà", "pinyin": "mà · fourth tone", "duration": "00:01", "sourceType": "local", "sourceUrl": "/assets/audio/cmn-ma4.mp3", "downloadUrl": "/assets/audio/cmn-ma4.mp3", "credit": "Voice: Chen Wang · CC BY-SA · audio-cmn" }
+  ]
+}

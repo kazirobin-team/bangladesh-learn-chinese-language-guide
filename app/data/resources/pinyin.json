@@ -1,0 +1,17 @@
+{
+  "section": {
+    "number": "3",
+    "title": "Pinyin Learning",
+    "description": "Master Chinese pronunciation with Pinyin step by step.",
+    "tone": "#2476b9",
+    "viewAllButton": "View All Pinyin"
+  },
+  "items": [
+    { "icon": "Languages", "title": "Pinyin Chart", "text": "All initials & finals" },
+    { "icon": "Speech", "title": "Tone Practice", "text": "Master 4 tones" },
+    { "icon": "Mic2", "title": "Initials", "text": "21 initials" },
+    { "icon": "Volume2", "title": "Finals", "text": "37 finals" },
+    { "icon": "Headphones", "title": "Pinyin Audio", "text": "Audio practice" },
+    { "icon": "FileCheck2", "title": "Practice Sheet", "text": "Printable worksheets" }
+  ]
+}

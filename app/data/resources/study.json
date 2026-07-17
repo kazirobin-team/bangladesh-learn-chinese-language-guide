@@ -1,0 +1,16 @@
+{
+  "section": {
+    "number": "1",
+    "title": "Study Resources",
+    "description": "Download HSK books, vocabulary lists, grammar notes and practice sheets.",
+    "tone": "#d5272f",
+    "viewAllButton": "View All Resources"
+  },
+  "types": [
+    { "icon": "ListChecks", "title": "Vocabulary Lists" },
+    { "icon": "BookOpenText", "title": "Grammar Notes" },
+    { "icon": "FileText", "title": "Practice Sheets" },
+    { "icon": "Captions", "title": "Example Sentences" },
+    { "icon": "PencilLine", "title": "Writing Practice" }
+  ]
+}

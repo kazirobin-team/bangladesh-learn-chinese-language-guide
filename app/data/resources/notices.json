@@ -1,0 +1,11 @@
+{
+  "kicker": "ANNOUNCEMENTS & NOTICES",
+  "title": "Ready-to-Use Notice Templates",
+  "description": "Keep students informed with clean templates for announcements, events and urgent updates.",
+  "downloadLabel": "Download Template",
+  "items": [
+    { "badge": "ANNOUNCEMENT", "date": "General use", "title": "Class Announcement", "description": "New batch, schedule or classroom announcement template.", "downloadUrl": "/assets/documents/notice-template.docx", "tone": "#d92128" },
+    { "badge": "EVENT NOTICE", "date": "Workshops & exams", "title": "Event Notice", "description": "Date, time, venue, agenda and registration information.", "downloadUrl": "/assets/documents/event-notice-template.docx", "tone": "#d88a10" },
+    { "badge": "IMPORTANT UPDATE", "date": "Priority message", "title": "Important Update", "description": "Urgent changes, cancellations or action-required updates.", "downloadUrl": "/assets/documents/important-update-template.docx", "tone": "#2c75a7" }
+  ]
+}

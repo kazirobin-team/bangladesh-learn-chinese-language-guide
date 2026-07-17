@@ -1,0 +1,11 @@
+{
+  "kicker": "WHY JOIN US",
+  "title": "A Support System for Every Learner",
+  "description": "Get help between classes and keep your Chinese learning consistent.",
+  "items": [
+    { "title": "Daily Practice", "description": "Short vocabulary, pronunciation and sentence challenges." },
+    { "title": "Teacher Guidance", "description": "Ask questions and receive clear explanations." },
+    { "title": "Weekly Accountability", "description": "Exam reminders, progress check-ins and study goals." },
+    { "title": "Friendly Study Groups", "description": "Learn with students at a similar HSK level." }
+  ]
+}

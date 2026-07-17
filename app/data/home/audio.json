@@ -1,0 +1,11 @@
+{
+  "kicker": "QUICK LISTEN",
+  "title": "Practice Chinese Audio",
+  "description": "A few short pronunciation tracks are shown here. Open the audio library for every lesson.",
+  "viewAllButton": "View All Audio",
+  "items": [
+    { "title": "你好 · Nǐ hǎo", "pinyin": "Basic greeting pronunciation", "sourceUrl": "/assets/audio/cmn-ni3.mp3" },
+    { "title": "好 · Hǎo", "pinyin": "Third-tone practice", "sourceUrl": "/assets/audio/cmn-hao3.mp3" },
+    { "title": "妈 · Mā", "pinyin": "First-tone practice", "sourceUrl": "/assets/audio/cmn-ma1.mp3" }
+  ]
+}

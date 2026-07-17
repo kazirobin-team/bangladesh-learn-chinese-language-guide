@@ -1,0 +1,11 @@
+{
+  "title": "NOTICE BOARD",
+  "viewAllButton": "View All Notices",
+  "items": [
+    { "icon": "CalendarCheck", "title": "Daily Attendance is Mandatory", "text": "Students who remain inactive may be removed from the community.", "tag": "Submit Attendance", "tone": "red", "action": "success" },
+    { "icon": "ClipboardCheck", "title": "Weekly Exam Notice", "text": "Weekly exams are held every Thursday based on the week's lessons.", "tag": "Important", "tone": "amber", "action": "exam" },
+    { "icon": "Users", "title": "New Beginner Batch", "text": "A new beginner batch is starting soon. Stay connected for details.", "tag": "New", "tone": "green" },
+    { "icon": "Mic2", "title": "Upcoming Speaking Class", "text": "A special speaking practice class is coming this Friday.", "tag": "Update", "tone": "blue" },
+    { "icon": "MessageCircleMore", "title": "Community Rules", "text": "Please follow community rules and be respectful to everyone.", "tag": "Rules", "tone": "gray" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "heading": { "eyebrow": "WHY CHOOSE US", "title": "Why Learn", "accent": "Chinese With Kazi Robin?" },
+  "items": [
+    { "icon": "School", "title": "Daily Live Classes", "text": "Learn every day with structured lessons and clear explanations." },
+    { "icon": "CalendarCheck", "title": "Weekly Exams", "text": "Test your progress every week and improve step by step." },
+    { "icon": "CircleHelp", "title": "Beginner Support", "text": "Perfect for beginners with easy and friendly teaching." },
+    { "icon": "Users", "title": "Separate Groups", "text": "Small groups help every learner receive focused guidance." },
+    { "icon": "GraduationCap", "title": "Advanced Classes", "text": "Special sessions for intermediate and advanced learners." },
+    { "icon": "MessageCircleMore", "title": "Teacher Guidance", "text": "Get support from experienced teachers whenever needed." },
+    { "icon": "Sparkles", "title": "Free Learning", "text": "All classes and resources are completely free for everyone." },
+    { "icon": "Library", "title": "Study Materials", "text": "Books, audio, videos, images and useful practice sheets." },
+    { "icon": "PencilLine", "title": "Practice & Revision", "text": "Remember everything through regular guided practice." },
+    { "icon": "ChartNoAxesCombined", "title": "Progress Tracking", "text": "Track your attendance, exams and learning progress." },
+    { "icon": "Speech", "title": "Community Support", "text": "Learn with an active and friendly community of students." },
+    { "icon": "Medal", "title": "Certificates", "text": "Earn certificates for your achievements and progress." }
+  ]
+}

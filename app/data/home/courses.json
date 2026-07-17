@@ -1,0 +1,16 @@
+{
+  "heading": { "eyebrow": "STUDY RESOURCES", "title": "HSK Books 1 to 6 –", "accent": "PDF Download" },
+  "coverChinese": "标准教程",
+  "coverTitle": "STANDARD COURSE",
+  "previewButton": "Preview",
+  "downloadButton": "Download",
+  "viewAllButton": "View All Resources",
+  "items": [
+    { "level": 1, "subtitle": "Beginner Level", "color": "#d6232d" },
+    { "level": 2, "subtitle": "Elementary Level", "color": "#f28b0b" },
+    { "level": 3, "subtitle": "Intermediate Level", "color": "#129c9e" },
+    { "level": 4, "subtitle": "Upper Intermediate", "color": "#24a05b" },
+    { "level": 5, "subtitle": "Advanced Level", "color": "#3374b6" },
+    { "level": 6, "subtitle": "Mastery Level", "color": "#78427c" }
+  ]
+}

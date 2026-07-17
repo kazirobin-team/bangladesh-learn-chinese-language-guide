@@ -1,0 +1,33 @@
+{
+  "exam": {
+    "label": "Exam availability",
+    "title": "Exam is Not Available Now",
+    "schedulePrefix": "Our weekly exams are held only on",
+    "day": "Thursday",
+    "scheduleSuffix": "You can access the exam only on Thursday.",
+    "callout": "To give the exam, please click the button below on Thursday.",
+    "primaryButton": "Go to Exam Link",
+    "closeButton": "Close",
+    "note": "Stay active in our classes and prepare for the exam."
+  },
+  "community": {
+    "label": "Join WhatsApp community",
+    "title": "Join Our WhatsApp Community",
+    "description": "Get access to daily classes, study materials, weekly exams, updates and much more!",
+    "primaryButton": "Join WhatsApp Community",
+    "secondaryButton": "Maybe Later"
+  },
+  "confirm": {
+    "label": "Confirm action",
+    "title": "Are you sure?",
+    "description": "This action cannot be undone. Do you really want to continue?",
+    "cancelButton": "Cancel",
+    "confirmButton": "Yes, Continue"
+  },
+  "success": {
+    "label": "Success",
+    "title": "Great!",
+    "description": "You have successfully submitted your response.",
+    "button": "OK, Got It"
+  }
+}

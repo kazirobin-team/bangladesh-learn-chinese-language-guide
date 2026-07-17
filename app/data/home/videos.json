@@ -1,0 +1,11 @@
+{
+  "title": "LATEST VIDEO LESSONS",
+  "viewAllButton": "View All",
+  "description": "Learn with clear explanations and simple conversations.",
+  "downloadButton": "Download",
+  "items": [
+    { "hanzi": "你好", "pinyin": "Nǐ hǎo", "title": "Lesson 1: Basic Greetings in Chinese", "time": "12:45", "color": "#c93135", "poster": "/assets/great-wall.png", "sourceType": "external", "sourceUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4", "downloadUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4", "externalUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4", "credit": "Demo player source. Replace via app/data/home/videos.json." },
+    { "hanzi": "拼音", "pinyin": "Pīnyīn", "title": "Pinyin Complete Guide", "time": "10:30", "color": "#2453a3", "poster": "/assets/hero-student.png", "sourceType": "external", "sourceUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4", "downloadUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4", "externalUrl": "https://media.w3.org/2010/05/sintel/trailer.mp4", "credit": "Demo player source. Replace via JSON." },
+    { "hanzi": "HSK 1", "pinyin": "Lesson 3", "title": "HSK 1 Lesson 3 – Vocabulary", "time": "15:20", "color": "#278247", "poster": "/og.png", "sourceType": "external", "sourceUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4", "downloadUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4", "externalUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4", "credit": "Demo player source. Replace via JSON." }
+  ]
+}

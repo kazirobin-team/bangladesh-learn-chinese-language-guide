@@ -1,0 +1,24 @@
+{
+  "kicker": "DOWNLOADABLE ASSETS",
+  "title": "Resource Library",
+  "description": "Download documents, images, e-books, assignments and ready-to-edit templates.",
+  "downloadLabel": "Download",
+  "openLabel": "Open",
+  "items": [
+    { "icon": "BookOpenText", "type": "E-BOOK", "size": "PDF · 2 pages", "title": "HSK 1 Starter Guide", "description": "A compact first-week study guide with goals and vocabulary.", "downloadUrl": "/assets/documents/hsk1-starter-guide.pdf", "externalUrl": "/assets/documents/hsk1-starter-guide.pdf", "tone": "#d92128", "soft": "#fff0ef" },
+    { "icon": "ClipboardCheck", "type": "ASSIGNMENT", "size": "PDF · 2 pages", "title": "Weekly Assignment 01", "description": "Vocabulary, tones, handwriting and speaking tasks.", "downloadUrl": "/assets/documents/weekly-assignment-01.pdf", "externalUrl": "/assets/documents/weekly-assignment-01.pdf", "tone": "#7851a9", "soft": "#f4eefb" },
+    { "icon": "FileText", "type": "DOCUMENT", "size": "DOCX", "title": "Notice Template", "description": "Editable class notice with date, action and contact fields.", "downloadUrl": "/assets/documents/notice-template.docx", "tone": "#2474a6", "soft": "#eaf5fb" },
+    { "icon": "CalendarCheck", "type": "DOCUMENT", "size": "DOCX", "title": "Event Notice Template", "description": "Editable workshop and event announcement document.", "downloadUrl": "/assets/documents/event-notice-template.docx", "tone": "#d78610", "soft": "#fff7e7" },
+    { "icon": "Images", "type": "IMAGE", "size": "PNG", "title": "Great Wall Study Image", "description": "High-resolution visual asset for lessons and posters.", "downloadUrl": "/assets/great-wall.png", "externalUrl": "/assets/great-wall.png", "tone": "#168c58", "soft": "#eaf8f0" },
+    { "icon": "Users", "type": "TEMPLATE", "size": "DOCX + CSV", "title": "Student List Template", "description": "Editable attendance and student progress tracker.", "downloadUrl": "/assets/documents/student-list-template.docx", "tone": "#c43d63", "soft": "#fff0f5" }
+  ],
+  "pdfViewer": {
+    "kicker": "PDF VIEWER",
+    "title": "Read the HSK 1 Starter Guide Online",
+    "description": "Preview the e-book in the browser, open it in a new tab or download it.",
+    "fileUrl": "/assets/documents/hsk1-starter-guide.pdf",
+    "downloadUrl": "/assets/documents/hsk1-starter-guide.pdf",
+    "downloadLabel": "Download PDF",
+    "openLabel": "Open Fullscreen"
+  }
+}

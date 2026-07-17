@@ -1,0 +1,17 @@
+{
+  "section": {
+    "number": "4",
+    "title": "Hanzi Learning",
+    "description": "Learn Chinese characters, strokes, radicals and writing.",
+    "tone": "#dc8507",
+    "viewAllButton": "View All Hanzi"
+  },
+  "items": [
+    { "icon": "PencilLine", "title": "Basic Strokes", "visual": "一 丨 ノ ㇏", "text": "Learn all strokes" },
+    { "icon": "ScrollText", "title": "Stroke Order", "visual": "永", "text": "Step by step" },
+    { "icon": "Shapes", "title": "Common Radicals", "visual": "氵亻木口", "text": "214 radicals" },
+    { "icon": "Languages", "title": "Character List", "visual": "汉 语 学 习", "text": "Common characters" },
+    { "icon": "FileText", "title": "Writing Practice", "visual": "学", "text": "Practice sheets" },
+    { "icon": "CirclePlay", "title": "Hanzi Animation", "visual": "你", "text": "Watch & learn" }
+  ]
+}

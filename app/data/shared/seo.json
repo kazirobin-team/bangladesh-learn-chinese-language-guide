@@ -1,0 +1,17 @@
+{
+  "site": {
+    "baseUrl": "https://learnchinese.kazirobin.com",
+    "title": "Learn Chinese with Kazi Robin",
+    "titleTemplate": "%s | Kazi Robin",
+    "description": "Learn Chinese from beginner to HSK 6 with free classes, media, books, exams and community support.",
+    "socialDescription": "Free Classes • HSK 1–6 • Audio • Videos • Weekly Exams",
+    "ogImage": "/og.png",
+    "ogImageWidth": 1738,
+    "ogImageHeight": 907
+  },
+  "home": { "title": "Learn Chinese for Free", "description": "Free Chinese classes, HSK resources, audio, video and a supportive learner community." },
+  "resources": { "title": "Learning Resources", "description": "Downloadable documents, images, PDF e-books, assignments, templates, HSK books and study resources." },
+  "videos": { "title": "Chinese Video Lessons", "description": "Watch beginner, Pinyin, conversation and HSK Chinese video lessons." },
+  "audio": { "title": "Chinese Audio Library", "description": "Listen to and download real Mandarin pronunciation audio." },
+  "community": { "title": "Learning Community", "description": "Join Chinese study groups, live events and weekly practice with Kazi Robin." }
+}

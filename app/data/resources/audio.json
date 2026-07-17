@@ -1,0 +1,18 @@
+{
+  "section": {
+    "number": "2",
+    "title": "Audio Library",
+    "description": "Listen to native pronunciation, vocabulary and lesson audio.",
+    "tone": "#15944b",
+    "viewAllButton": "View All Audio"
+  },
+  "downloadLabel": "Download",
+  "downloadAllButton": "Full Audio Library",
+  "resetButton": "Reset",
+  "items": [
+    { "icon": "Headphones", "title": "你 · Nǐ", "count": "Greeting", "sourceType": "local", "sourceUrl": "/assets/audio/cmn-ni3.mp3", "downloadUrl": "/assets/audio/cmn-ni3.mp3", "credit": "Chen Wang · CC BY-SA" },
+    { "icon": "Speech", "title": "好 · Hǎo", "count": "Greeting", "sourceType": "local", "sourceUrl": "/assets/audio/cmn-hao3.mp3", "downloadUrl": "/assets/audio/cmn-hao3.mp3", "credit": "Chen Wang · CC BY-SA" },
+    { "icon": "Volume2", "title": "妈 · Mā", "count": "First tone", "sourceType": "local", "sourceUrl": "/assets/audio/cmn-ma1.mp3", "downloadUrl": "/assets/audio/cmn-ma1.mp3", "credit": "Chen Wang · CC BY-SA" },
+    { "icon": "Mic2", "title": "马 · Mǎ", "count": "Third tone", "sourceType": "local", "sourceUrl": "/assets/audio/cmn-ma3.mp3", "downloadUrl": "/assets/audio/cmn-ma3.mp3", "credit": "Chen Wang · CC BY-SA" }
+  ]
+}
