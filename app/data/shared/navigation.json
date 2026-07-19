@@ -10,5 +10,6 @@
     { "label": "Community", "href": "/community", "visible": true }
   ],
   "communityLabel": "Join WhatsApp Community",
+  "communityHref": "https://chat.whatsapp.com/DEiwsREV2oeCszL5gG44z0",
   "communityButtonVisible": true
 }

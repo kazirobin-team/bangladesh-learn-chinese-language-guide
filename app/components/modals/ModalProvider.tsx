@@ -76,7 +76,14 @@ export function ModalProvider({ children }: { children: ReactNode }) {
             <div className="modal-icon modal-icon-green"><MessageCircleMore /></div>
             <h3 className="text-green">{modals.community.title}</h3>
             <p>{modals.community.description}</p>
-            <Button variant="green"><MessageCircleMore size={18} />{modals.community.primaryButton}</Button>
+            <a
+              className="button button-green"
+              href={sharedData.navigation.communityHref}
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <MessageCircleMore size={18} />{modals.community.primaryButton}
+            </a>
             <Button variant="outline" onClick={close}>{modals.community.secondaryButton}</Button>
           </div>
         </ModalShell>

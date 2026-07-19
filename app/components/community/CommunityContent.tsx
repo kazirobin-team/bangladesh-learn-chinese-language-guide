@@ -4,7 +4,6 @@ import { communityPageData } from "../site-data";
 
 export function CommunityContent() {
   const { benefits, groups, events } = communityPageData;
-  const communityLink = "https://lcwkr.vercel.app/";
   return (
     <>
       <section className="community-benefits section site-container">
@@ -32,11 +31,7 @@ export function CommunityContent() {
             <article key={item.title}><CalendarDays /><div><b>{item.date}</b><h3>{item.title}</h3><p>{item.time}</p></div></article>
           ))}
         </div>
-        <div className="community-join"><MessageCircleMore /><div><h2>{events.joinTitle}</h2><p>{events.joinDescription}</p></div>
-
-        <Link href={communityLink} target="_blank" rel="noopener noreferrer"><Link/>
-        <CommunityButton />
-        </div>
+        <div className="community-join"><MessageCircleMore /><div><h2>{events.joinTitle}</h2><p>{events.joinDescription}</p></div><CommunityButton /></div>
       </section>
     </>
   );

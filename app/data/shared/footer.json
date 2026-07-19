@@ -7,7 +7,7 @@
     { "icon": "Facebook", "label": "Facebook", "href": "https://facebook.com", "visible": true },
     { "icon": "Instagram", "label": "Instagram", "href": "https://instagram.com", "visible": true },
     { "icon": "Youtube", "label": "YouTube", "href": "https://youtube.com", "visible": true },
-    { "icon": "MessageCircleMore", "label": "WhatsApp", "href": "/community", "visible": true }
+    { "icon": "MessageCircleMore", "label": "WhatsApp", "href": "https://chat.whatsapp.com/DEiwsREV2oeCszL5gG44z0", "visible": true }
   ],
   "columns": [
     {
@@ -25,7 +25,7 @@
       "title": "Community",
       "visible": true,
       "links": [
-        { "label": "WhatsApp Community", "href": "/community", "visible": true },
+        { "label": "WhatsApp Community", "href": "https://chat.whatsapp.com/DEiwsREV2oeCszL5gG44z0", "visible": true },
         { "label": "Beginner Group", "href": "/beginner-group", "visible": true },
         { "label": "Advanced Group", "href": "/advanced-group", "visible": true },
         { "label": "Notice Board", "href": "/resources#notices", "visible": true },
@@ -58,7 +58,7 @@
   "contactVisible": true,
   "contactTitle": "Contact",
   "contacts": [
-    { "icon": "MessageCircleMore", "text": "WhatsApp: Join Community", "href": "/community", "visible": true },
+    { "icon": "MessageCircleMore", "text": "WhatsApp: Join Community", "href": "https://chat.whatsapp.com/DEiwsREV2oeCszL5gG44z0", "visible": true },
     { "icon": "Mail", "text": "support@kazirobin.com", "href": "mailto:support@kazirobin.com", "visible": true },
     { "icon": "Youtube", "text": "Learn Chinese with Kazi Robin", "href": "https://youtube.com", "visible": true }
   ],

@@ -2,8 +2,12 @@
 
 import { MessageCircleMore } from "lucide-react";
 import { sharedData } from "./site-data";
-import { useSiteModal } from "./modals/ModalProvider";
-import { Button } from "./ui/Button";
+
+const variantClass = {
+  green: "button-green",
+  primary: "button-primary",
+  outline: "button-outline",
+};
 
 export function CommunityButton({
   variant = "green",
@@ -12,11 +16,15 @@ export function CommunityButton({
   variant?: "green" | "primary" | "outline";
   compact?: boolean;
 }) {
-  const { openCommunity } = useSiteModal();
   return (
-    <Button className={compact ? "button-compact" : ""} onClick={openCommunity} variant={variant}>
+    <a
+      className={`button ${variantClass[variant]} ${compact ? "button-compact" : ""}`}
+      href={sharedData.navigation.communityHref}
+      rel="noopener noreferrer"
+      target="_blank"
+    >
       <MessageCircleMore size={18} />
       {sharedData.navigation.communityLabel}
-    </Button>
+    </a>
   );
 }
