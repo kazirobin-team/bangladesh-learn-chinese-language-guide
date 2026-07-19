@@ -12,7 +12,7 @@ export function StatsFeatures() {
           </div>
         ))}
       </section>
-      <section className="section site-container mx-auto w-full max-w-[1260px] px-4 py-11 md:px-6 md:py-16">
+      <section className="section site-container mx-auto w-full max-w-[1260px] px-4 py-11 md:px-6 md:py-16 ">
         <SectionHeading eyebrow={features.heading.eyebrow} title={features.heading.title} redText={features.heading.accent} />
         <div className="feature-grid grid grid-cols-2 md:grid-cols-4 xl:grid-cols-6">
           {features.items.map(({ icon: Icon, title, text }) => (

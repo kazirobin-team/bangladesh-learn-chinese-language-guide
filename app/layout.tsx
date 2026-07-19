@@ -34,7 +34,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <ModalProvider>
           <Header />
           {children}
-          <Footer />
+          {/* <Footer /> */}
         </ModalProvider>
       </body>
     </html>

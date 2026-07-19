@@ -8,7 +8,7 @@ export function CommunityContent() {
     <>
       <section className="community-benefits section site-container">
         <div className="library-heading"><span>{benefits.kicker}</span><h2>{benefits.title}</h2><p>{benefits.description}</p></div>
-        <div className="community-benefit-grid">
+        <div className="community-benefit-grid ">
           {benefits.items.map((item) => (
             <article key={item.title}><CheckCircle2 /><h3>{item.title}</h3><p>{item.description}</p></article>
           ))}

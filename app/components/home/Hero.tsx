@@ -19,7 +19,7 @@ export function Hero() {
               </span>
             ))}
           </h1>
-          <p className="max-w-[530px] text-sm leading-7 text-stone-600">{hero.description}</p>
+          <p className="max-w-132.5 text-sm leading-7 text-stone-600">{hero.description}</p>
           <div className="hero-actions mt-6 flex flex-wrap gap-3">
             <CommunityButton variant="primary" />
             <Link className="button button-outline" href={hero.secondaryAction.href}>{hero.secondaryAction.label}<ArrowRight size={15} /></Link>
@@ -30,14 +30,14 @@ export function Hero() {
             <div className="rating ml-2 flex gap-0.5 text-amber-400">{Array.from({ length: hero.socialProof.rating }, (_, index) => <Star className="h-3 w-3" fill="currentColor" key={index} />)}</div>
           </div>
         </div>
-        <div className="benefit-stack absolute right-4 top-20 flex flex-col gap-3 max-lg:hidden">
+        {/* <div className="benefit-stack absolute right-4 top-20  flex-col gap-3 hidden">
           {hero.benefits.map(({ icon: Icon, title, text }) => (
-            <div className="benefit-card flex min-w-[180px] items-center gap-3 rounded-xl border border-white/90 bg-white/90 p-3 shadow-xl backdrop-blur-md" key={title}>
+            <div className="benefit-card flex min-w-45 items-center gap-3 rounded-xl border border-white/90 bg-white/90 p-3 shadow-xl backdrop-blur-md" key={title}>
               <Icon className="h-7 w-7 text-[#d92128]" />
               <div className="flex flex-col"><b className="text-[13px]">{title}</b><span className="mt-0.5 text-[10px] text-stone-500">{text}</span></div>
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
     </section>
   );

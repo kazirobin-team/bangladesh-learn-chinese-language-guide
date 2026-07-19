@@ -8,7 +8,7 @@ export function RoadmapBooks() {
   const { roadmap, courses } = homeData;
   return (
     <>
-      <section className="section site-container mx-auto w-full max-w-[1260px] px-4 py-11 md:px-6 md:py-16">
+      <section className="section site-container mx-auto w-full max-w-[1260px] px-4 py-11 md:px-6 md:py-16 ">
         <SectionHeading eyebrow={roadmap.heading.eyebrow} title={roadmap.heading.title} redText={roadmap.heading.accent} />
         <div className="roadmap mt-10 flex flex-wrap justify-between gap-y-8">
           {roadmap.items.map((step, index) => (
@@ -20,7 +20,7 @@ export function RoadmapBooks() {
           ))}
         </div>
       </section>
-      <section className="books-section section site-container mx-auto w-full max-w-[1260px] border border-stone-200 px-4 py-11 text-center md:px-6 md:py-16">
+      <section className="books-section section site-container mx-auto w-full max-w-[1260px] border border-stone-200 px-4 py-11 text-center md:px-6 md:py-16 hidden">
         <SectionHeading eyebrow={courses.heading.eyebrow} title={courses.heading.title} redText={courses.heading.accent} />
         <CourseBooks />
         <Link className="button button-outline view-all mt-6" href="/resources">{courses.viewAllButton}<ArrowRight size={15} /></Link>
