@@ -3,15 +3,17 @@
 import { createContext, ReactNode, useContext, useState } from "react";
 import { CalendarClock, CircleCheckBig, CircleHelp, ExternalLink, Link2, MessageCircleMore } from "lucide-react";
 import { sharedData } from "../site-data";
+import { PreviewResource, ResourcePreview } from "../resources/ResourcePreview";
 import { Button } from "../ui/Button";
 import { ModalShell } from "./ModalShell";
 
-type ModalName = "community" | "exam" | "confirm" | "success" | null;
+type ModalName = "community" | "exam" | "confirm" | "success" | "preview" | null;
 type ModalContextValue = {
   openCommunity: () => void;
   openExam: () => void;
   openConfirm: () => void;
   openSuccess: () => void;
+  openPreview: (resource: PreviewResource) => void;
 };
 
 const ModalContext = createContext<ModalContextValue | null>(null);
@@ -25,17 +27,30 @@ export function useSiteModal() {
 export function ModalProvider({ children }: { children: ReactNode }) {
   const { modals } = sharedData;
   const [modal, setModal] = useState<ModalName>(null);
-  const close = () => setModal(null);
+  const [preview, setPreview] = useState<PreviewResource | null>(null);
+  const close = () => {
+    setModal(null);
+    setPreview(null);
+  };
   const value = {
     openCommunity: () => setModal("community"),
     openExam: () => setModal("exam"),
     openConfirm: () => setModal("confirm"),
     openSuccess: () => setModal("success"),
+    openPreview: (resource: PreviewResource) => {
+      setPreview(resource);
+      setModal("preview");
+    },
   };
 
   return (
     <ModalContext.Provider value={value}>
       {children}
+      {modal === "preview" && preview ? (
+        <ModalShell dark label={`${preview.title} preview`} onClose={close} wide>
+          <ResourcePreview resource={preview} />
+        </ModalShell>
+      ) : null}
       {modal === "exam" ? (
         <ModalShell label={modals.exam.label} onClose={close}>
           <div className="modal-content">

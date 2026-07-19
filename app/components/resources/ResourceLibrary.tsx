@@ -1,9 +1,13 @@
+"use client";
+
 import { Download, ExternalLink, FileText, ImageDown } from "lucide-react";
 import { resourcesData } from "../site-data";
 import { iconMap, type IconName } from "../icon-map";
+import { useSiteModal } from "../modals/ModalProvider";
 
 export function DownloadLibrary() {
   const { library } = resourcesData;
+  const { openPreview } = useSiteModal();
   return (
     <section className="download-library resource-block">
       <div className="library-heading"><span>{library.kicker}</span><h2>{library.title}</h2><p>{library.description}</p></div>
@@ -16,24 +20,19 @@ export function DownloadLibrary() {
               <div><small>{item.type} · {item.size}</small><h3>{item.title}</h3><p>{item.description}</p></div>
               <div className="download-links">
                 <a download href={item.downloadUrl}><Download />{library.downloadLabel}</a>
-                {item.externalUrl ? <a href={item.externalUrl} rel="noreferrer" target="_blank"><ExternalLink />{library.openLabel}</a> : null}
+                {"externalUrl" in item && item.externalUrl ? (
+                  <button onClick={() => openPreview({
+                    title: item.title,
+                    kind: item.externalUrl.endsWith(".pdf") ? "pdf" : "image",
+                    url: item.externalUrl,
+                    downloadUrl: item.downloadUrl,
+                  })}><ExternalLink />{library.openLabel}</button>
+                ) : null}
               </div>
             </article>
           );
         })}
       </div>
-    </section>
-  );
-}
-
-export function PdfViewer() {
-  const { pdfViewer } = resourcesData.library;
-  return (
-    <section className="pdf-section resource-block">
-      <div className="pdf-copy"><span>{pdfViewer.kicker}</span><h2>{pdfViewer.title}</h2><p>{pdfViewer.description}</p>
-        <div className="media-actions"><a className="button button-primary" download href={pdfViewer.downloadUrl}><Download size={16} />{pdfViewer.downloadLabel}</a><a className="button button-outline" href={pdfViewer.fileUrl} target="_blank"><ExternalLink size={16} />{pdfViewer.openLabel}</a></div>
-      </div>
-      <iframe src={`${pdfViewer.fileUrl}#toolbar=1&navpanes=0`} title={pdfViewer.title} />
     </section>
   );
 }

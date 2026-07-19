@@ -11,14 +11,5 @@
     { "icon": "CalendarCheck", "type": "DOCUMENT", "size": "DOCX", "title": "Event Notice Template", "description": "Editable workshop and event announcement document.", "downloadUrl": "/assets/documents/event-notice-template.docx", "tone": "#d78610", "soft": "#fff7e7" },
     { "icon": "Images", "type": "IMAGE", "size": "PNG", "title": "Great Wall Study Image", "description": "High-resolution visual asset for lessons and posters.", "downloadUrl": "/assets/great-wall.png", "externalUrl": "/assets/great-wall.png", "tone": "#168c58", "soft": "#eaf8f0" },
     { "icon": "Users", "type": "TEMPLATE", "size": "DOCX + CSV", "title": "Student List Template", "description": "Editable attendance and student progress tracker.", "downloadUrl": "/assets/documents/student-list-template.docx", "tone": "#c43d63", "soft": "#fff0f5" }
-  ],
-  "pdfViewer": {
-    "kicker": "PDF VIEWER",
-    "title": "Read the HSK 1 Starter Guide Online",
-    "description": "Preview the e-book in the browser, open it in a new tab or download it.",
-    "fileUrl": "/assets/documents/hsk1-starter-guide.pdf",
-    "downloadUrl": "/assets/documents/hsk1-starter-guide.pdf",
-    "downloadLabel": "Download PDF",
-    "openLabel": "Open Fullscreen"
-  }
+  ]
 }

@@ -89,8 +89,8 @@
 .button-amber { background: #ffb10d; color: #fff; }
 
 .lightbox { width: 100%; }
-.lightbox-stage { height: 540px; overflow: hidden; position: relative; }
-.lightbox-stage > img { object-fit: cover; transition: transform .2s; }
+.lightbox-stage { background: #111; height: 540px; overflow: hidden; position: relative; }
+.lightbox-stage > img { object-fit: contain; transition: transform .2s; }
 .lightbox-prev, .lightbox-next {
   align-items: center;
   background: rgba(0,0,0,.65);
@@ -151,6 +151,46 @@
 }
 .lightbox-chart b { font-family: serif; font-size: clamp(42px, 9vw, 110px); }
 
+.resource-preview { background: #171717; width: 100%; }
+.resource-preview-bar {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  min-height: 76px;
+  padding: 14px 70px 14px 20px;
+  text-align: left;
+}
+.resource-preview-bar small { color: #ff676c; font-size: 9px; font-weight: 800; letter-spacing: 1.4px; }
+.resource-preview-bar h2 { color: #fff; font-size: 18px; margin: 4px 0 0; }
+.resource-preview-bar .button { flex: 0 0 auto; min-height: 38px; }
+.resource-preview-stage {
+  align-items: center;
+  background: #aaa;
+  display: flex;
+  height: min(74vh, 720px);
+  justify-content: center;
+  overflow: auto;
+  position: relative;
+}
+.resource-preview-stage iframe { background: #fff; border: 0; height: 100%; width: 100%; }
+.resource-preview-image { background: #111; overflow: hidden; }
+.resource-preview-image img { object-fit: contain; }
+.resource-preview-book { background: #111; }
+.resource-preview-book-card { color: #fff; padding: 28px; text-align: center; }
+.preview-book-cover {
+  display: flex;
+  flex-direction: column;
+  height: min(55vh, 520px);
+  justify-content: center;
+  margin: auto;
+  width: min(72vw, 360px);
+}
+.preview-book-cover small { font-family: serif; font-size: 18px; }
+.preview-book-cover span { font-size: 15px; font-weight: 800; margin-top: 6px; }
+.preview-book-cover strong { font-size: 110px; font-weight: 400; line-height: 1; margin-top: 24px; }
+.resource-preview-book-card h3 { font-size: 20px; margin: 18px 0 4px; }
+.resource-preview-book-card p { color: #bbb; font-size: 12px; margin: 0; }
 @keyframes fade-in { from { opacity: 0; } }
 @keyframes modal-in { from { opacity: 0; transform: translateY(12px) scale(.98); } }
 
@@ -162,4 +202,9 @@
   .lightbox-prev, .lightbox-next { height: 38px; width: 38px; }
   .lightbox-thumbs { gap: 6px; height: 77px; padding: 8px; }
   .lightbox-thumbs button:nth-child(n+5) { display: none; }
+  .resource-preview-bar { min-height: 66px; padding: 10px 54px 10px 14px; }
+  .resource-preview-bar h2 { font-size: 14px; }
+  .resource-preview-bar .button { font-size: 0; min-height: 36px; padding: 8px 10px; }
+  .resource-preview-bar .button svg { margin: 0; }
+  .resource-preview-stage { height: 76vh; }
 }

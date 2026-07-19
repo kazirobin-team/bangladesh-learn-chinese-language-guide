@@ -4,17 +4,35 @@
   "title": "A Clearer Way to Learn Chinese",
   "description": "Structured lessons, practical resources and consistent support from beginner to HSK 6.",
   "items": [
-    { "icon": "GraduationCap", "title": "Beginner-Friendly Teaching", "description": "Complex Chinese concepts are explained with simple, practical examples." },
-    { "icon": "ChartNoAxesCombined", "title": "Step-by-Step Roadmap", "description": "Follow a clear path through Pinyin, Hanzi and every HSK level." },
-    { "icon": "CirclePlay", "title": "Audio & Video Practice", "description": "Improve pronunciation and listening with playable media lessons." },
-    { "icon": "ClipboardCheck", "title": "Weekly Progress Checks", "description": "Assignments and exams make progress visible and consistent." },
-    { "icon": "Users", "title": "Supportive Community", "description": "Practice with learners, ask questions and stay accountable." },
-    { "icon": "Library", "title": "Reusable Resource Library", "description": "Download books, templates, images, documents and study assets." }
-  ],
-  "stats": [
-    { "value": "1000+", "label": "Students" },
-    { "value": "365+", "label": "Classes" },
-    { "value": "100+", "label": "Resources" },
-    { "value": "100%", "label": "Free Learning" }
+    {
+      "icon": "GraduationCap",
+      "title": "Beginner-Friendly Teaching",
+      "description": "Complex Chinese concepts are explained with simple, practical examples."
+    },
+    {
+      "icon": "ChartNoAxesCombined",
+      "title": "Step-by-Step Roadmap",
+      "description": "Follow a clear path through Pinyin, Hanzi and every HSK level."
+    },
+    {
+      "icon": "CirclePlay",
+      "title": "Audio & Video Practice",
+      "description": "Improve pronunciation and listening with playable media lessons."
+    },
+    {
+      "icon": "ClipboardCheck",
+      "title": "Weekly Progress Checks",
+      "description": "Assignments and exams make progress visible and consistent."
+    },
+    {
+      "icon": "Users",
+      "title": "Supportive Community",
+      "description": "Practice with learners, ask questions and stay accountable."
+    },
+    {
+      "icon": "Library",
+      "title": "Reusable Resource Library",
+      "description": "Download books, templates, images, documents and study assets."
+    }
   ]
 }
