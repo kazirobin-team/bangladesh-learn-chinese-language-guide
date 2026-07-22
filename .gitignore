@@ -23,3 +23,5 @@ pnpm-debug.log*
 
 # TypeScript
 next-env.d.ts
+
+/app/generated/prisma
