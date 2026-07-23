@@ -12,9 +12,46 @@ datasource db {
   provider = "postgresql"
 }
 
-// Demo Prisma schema for a simple User model
+enum Occupation {
+  Student
+  JobHolder
+  Business
+  Interpreter
+  Freelancer
+  Housewife
+  UnEmployed
+  Other
+}
+
+enum WhyLearn {
+  ForStudies
+  ForJob
+  ToGoToChina
+  ForChineseCulture
+  ForBusiness
+  AsAHobby
+  Other
+}
+
+enum LangLevel {
+  HskOne
+  HskTwo
+  HskThree
+  HskFour
+  HskFive
+  HskSix
+  Nothing
+}
+
 model User {
-  id    Int     @id @default(autoincrement())
-  email String  @unique
-  name  String?
+  id         String     @id @unique @default(uuid())
+  email      String     @unique
+  name       String     @db.VarChar(255)
+  wpNumber   String     @db.VarChar(255)
+  address    String     @db.VarChar(255)
+  occupation Occupation
+  whyLearn   WhyLearn
+  langLevel  LangLevel
+  createdAt  DateTime   @default(now())
+  updatedAt  DateTime   @updatedAt
 }
