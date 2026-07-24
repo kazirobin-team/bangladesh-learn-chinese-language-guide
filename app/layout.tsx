@@ -1,9 +1,9 @@
-import type { Metadata } from "next"
-import "./globals.css"
-import seo from "./data/shared/seo.json"
-import { Footer } from "./components/Footer"
-import { Header } from "./components/Header"
-import { ModalProvider } from "./components/modals/ModalProvider"
+import type { Metadata } from "next";
+import "./globals.css";
+import seo from "./data/shared/seo.json";
+import { Footer } from "./components/Footer";
+import { Header } from "./components/Header";
+import { ModalProvider } from "./components/modals/ModalProvider";
 
 export const metadata: Metadata = {
   metadataBase: new URL(seo.site.baseUrl),
@@ -16,14 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: seo.site.title,
     description: seo.site.socialDescription,
-    images: [
-      {
-        url: seo.site.ogImage,
-        width: seo.site.ogImageWidth,
-        height: seo.site.ogImageHeight,
-        alt: seo.site.title,
-      },
-    ],
+    images: [{ url: seo.site.ogImage, width: seo.site.ogImageWidth, height: seo.site.ogImageHeight, alt: seo.site.title }],
     type: "website",
   },
   twitter: {
@@ -32,11 +25,9 @@ export const metadata: Metadata = {
     description: seo.site.socialDescription,
     images: [seo.site.ogImage],
   },
-}
+};
 
-export default function RootLayout({
-  children,
-}: Readonly<{ children: React.ReactNode }>) {
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
       <body className="m-0 overflow-x-hidden bg-white font-sans text-stone-900 antialiased">
@@ -44,9 +35,8 @@ export default function RootLayout({
           <Header />
           {children}
           {/* <Footer /> */}
-          <Footer />
         </ModalProvider>
       </body>
     </html>
-  )
+  );
 }
