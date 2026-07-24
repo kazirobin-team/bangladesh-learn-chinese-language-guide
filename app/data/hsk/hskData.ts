@@ -163,7 +163,7 @@ export const hskLevels: HSKLevel[] = [
       mockTest: "https://drive.google.com/drive/folders/1hWlp_SAcMyNPr2zDT5KVbg9YFxay_fHE?usp=drive_link",
       vocabulary: "https://drive.google.com/file/d/1LziYNVQzFa7YQMUqEP_7-XW2j9gZ8HZl/view?usp=drive_link",
     },
-  },
+   }, 
 ];
 
 export const allResources: ResourceItem[] = [
@@ -201,5 +201,5 @@ export const allResources: ResourceItem[] = [
   //   description: "PDF & Guide",
   //   icon: "✏️",
   //   link: "https://drive.google.com/drive/folders/YOUR_GRAMMAR_LINK",
-  // },
+  // }
 ];
