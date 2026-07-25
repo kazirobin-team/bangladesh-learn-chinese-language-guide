@@ -101,31 +101,7 @@ export default function HSKMaterialsPage() {
         </div>
       </section>
 
-      {/* CTA Section */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16">
-        <div className="bg-gradient-to-r from-blue-600 to-indigo-700 rounded-2xl p-8 sm:p-12 text-center text-white">
-          <h2 className="text-2xl sm:text-3xl font-bold">
-            🌟 Learn Chinese with Kazi Robin
-          </h2>
-          <p className="mt-3 text-blue-100 max-w-2xl mx-auto">
-            Your One Stop Solution for HSK Books & Materials. Study, Practice & Succeed!
-          </p>
-          <div className="mt-6 flex flex-wrap justify-center gap-4">
-            <Link
-              href="/community"
-              className="bg-white text-blue-600 px-6 py-3 rounded-full font-semibold hover:bg-blue-50 transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-1"
-            >
-              Join Community
-            </Link>
-            <Link
-              href="/classes"
-              className="bg-transparent border-2 border-white text-white px-6 py-3 rounded-full font-semibold hover:bg-white/10 transition-all"
-            >
-              Browse Classes
-            </Link>
-          </div>
-        </div>
-      </section>
+     
 
       {/* Footer */}
       <footer className="bg-slate-900 text-white py-8 sm:py-10">

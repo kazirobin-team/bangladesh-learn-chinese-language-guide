@@ -3,10 +3,8 @@
   "visible": true,
   "items": [
     { "label": "Home", "href": "/", "visible": true },
-    { "label": "Resources", "href": "/resources", "visible": true },
     { "label": "PDF", "href": "/hsk-materials", "visible": true },
-    { "label": "Audio", "href": "/audio",  "visible": true },
-    { "label": "Notice", "href": "/resources#notices", "visible": true },
+    { "label": "Pinyin", "href": "/pinyin",  "visible": true },
     { "label": "Community", "href": "/community", "visible": true }
   ],
   "communityLabel": "Join WhatsApp Community",
