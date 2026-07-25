@@ -11,7 +11,6 @@
     { "icon": "Library", "title": "Study Materials", "text": "Books, audio, videos, images and useful practice sheets." },
     { "icon": "PencilLine", "title": "Practice & Revision", "text": "Remember everything through regular guided practice." },
     { "icon": "ChartNoAxesCombined", "title": "Progress Tracking", "text": "Track your attendance, exams and learning progress." },
-    { "icon": "Speech", "title": "Community Support", "text": "Learn with an active and friendly community of students." },
-    { "icon": "Medal", "title": "Certificates", "text": "Earn certificates for your achievements and progress." }
+    { "icon": "Speech", "title": "Community Support", "text": "Learn with an active and friendly community of students." }
   ]
 }
