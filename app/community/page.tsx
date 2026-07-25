@@ -8,5 +8,5 @@ import { communityPageData } from "../components/site-data";
 export const metadata: Metadata = { title: seo.community.title, description: seo.community.description };
 
 export default function CommunityPage() {
-  return <main><PageHero {...communityPageData.page.hero} tone="green" /><CommunityContent /><CtaBanner /></main>;
+  return <main><CommunityContent /><CtaBanner /></main>;
 }
