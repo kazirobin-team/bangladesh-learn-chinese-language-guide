@@ -48,14 +48,14 @@ const communityData = {
     { 
       name: "Tanvir Hasan", 
       role: "Co-Admin",
-      image: "/images/tanvir.jpg",
+      image: "/assets/community/jahid.pngtanvir.jpg",
       whatsapp: "8801234567891",
       manages: "Web Development & Programming Groups"
     },
     { 
       name: "Rakibul Islam", 
       role: "Co-Admin",
-      image: "/images/rakibul.jpg",
+      image: "/assets/community/jahid.pngrakibul.jpg",
       whatsapp: "8801234567892",
       manages: "Design & Marketing Groups"
     }
@@ -63,12 +63,12 @@ const communityData = {
 
   // Management Team
   managers: [
-    { name: "Atikur Rahman", image: "/images/atikur.jpg", manages: "General Support & Queries", whatsapp: "8801234567893" },
-    { name: "Farjana Akter", image: "/images/farjana.jpg", manages: "Event Management & Scheduling", whatsapp: "8801234567894" },
-    { name: "Mehedi Hasan", image: "/images/mehedi.jpg", manages: "Content Moderation & Quality", whatsapp: "8801234567895" },
-    { name: "Nusrat Jahan", image: "/images/nusrat.jpg", manages: "Member Engagement & Feedback", whatsapp: "8801234567896" },
-    { name: "Sabbir Ahmed", image: "/images/sabbir.jpg", manages: "Technical Support & Issues", whatsapp: "8801234567897" },
-    { name: "Jannatul Ferdous", image: "/images/jannatul.jpg", manages: "New Member Onboarding", whatsapp: "8801234567898" }
+    { name: "Jahid Hasan", image: "/assets/community/jahid.png", manages: "General Support & Queries", whatsapp: "8801234567893" },
+    { name: "Subrata Sarker", image: "/assets/community/ss.png", manages: "Event Management & Scheduling", whatsapp: "8801681879654" },
+    { name: "Mehedi Hasan", image: "/assets/community/jahid.pngmehedi.jpg", manages: "Content Moderation & Quality", whatsapp: "8801234567895" },
+    { name: "Nusrat Jahan", image: "/assets/community/jahid.pngnusrat.jpg", manages: "Member Engagement & Feedback", whatsapp: "8801234567896" },
+    { name: "Sabbir Ahmed", image: "/assets/community/jahid.pngsabbir.jpg", manages: "Technical Support & Issues", whatsapp: "8801234567897" },
+    { name: "Jannatul Ferdous", image: "/assets/community/jahid.pngjannatul.jpg", manages: "New Member Onboarding", whatsapp: "8801234567898" }
   ],
 
   // Teachers
@@ -78,7 +78,7 @@ const communityData = {
       subject: "Web Development", 
       icon: Monitor, 
       color: "blue",
-      image: "/images/arafat.jpg",
+      image: "/assets/community/jahid.pngarafat.jpg",
       whatsapp: "8801234567899",
       group: "Web Dev Mastery Group",
       schedule: "Mon, Wed, Fri • 8:00 PM"
@@ -88,7 +88,7 @@ const communityData = {
       subject: "Graphic Design", 
       icon: Palette, 
       color: "pink",
-      image: "/images/sadia.jpg",
+      image: "/assets/community/jahid.pngsadia.jpg",
       whatsapp: "8801234567900",
       group: "Design Creators Hub",
       schedule: "Tue, Thu • 7:00 PM"
@@ -98,7 +98,7 @@ const communityData = {
       subject: "Programming", 
       icon: Code, 
       color: "purple",
-      image: "/images/mahmudul.jpg",
+      image: "/assets/community/jahid.pngmahmudul.jpg",
       whatsapp: "8801234567901",
       group: "Code Masters Community",
       schedule: "Mon, Wed • 9:00 PM"
@@ -108,7 +108,7 @@ const communityData = {
       subject: "Digital Marketing", 
       icon: Megaphone, 
       color: "orange",
-      image: "/images/sumaiya.jpg",
+      image: "/assets/community/jahid.pngsumaiya.jpg",
       whatsapp: "8801234567902",
       group: "Digital Growth Network",
       schedule: "Tue, Thu, Sat • 6:00 PM"
@@ -118,7 +118,7 @@ const communityData = {
       subject: "Content Writing", 
       icon: PenTool, 
       color: "green",
-      image: "/images/hasibul.jpg",
+      image: "/assets/community/jahid.pnghasibul.jpg",
       whatsapp: "8801234567903",
       group: "Content Writers Guild",
       schedule: "Fri, Sat • 8:00 PM"

@@ -12,7 +12,7 @@ export function Hero() {
         className="absolute inset-0 hidden xl:block bg-cover bg-center bg-no-repeat"
         style={{
           backgroundImage: `
-            linear-gradient(
+            linear-linear(
               105deg,
               rgba(255,255,255,0.97) 0%,
               rgba(255,255,255,0.93) 38%,
@@ -29,7 +29,7 @@ export function Hero() {
         className="absolute inset-0 hidden md:block xl:hidden bg-cover bg-right bg-no-repeat"
         style={{
           backgroundImage: `
-            linear-gradient(
+            linear-linear(
               100deg,
               rgba(255,255,255,0.96) 0%,
               rgba(255,255,255,0.88) 45%,
@@ -43,7 +43,7 @@ export function Hero() {
 
       {/* ========== MOBILE BACKGROUND (≤767px) ========== */}
       <div
-        className="absolute inset-0 block md:hidden bg-cover bg-[center_top] bg-no-repeat"
+        className="absolute inset-0 block md:hidden bg-cover bg-position-[center_top] bg-no-repeat"
         style={{
           backgroundImage: `
             url('/assets/hero3.png')
@@ -52,7 +52,7 @@ export function Hero() {
       />
 
       {/* Soft blue overlay for consistency */}
-      <div className="absolute inset-0 bg-gradient-to-br from-sky-50/40 via-transparent to-blue-50/30 pointer-events-none" />
+      <div className="absolute inset-0 bg-linear-to-br from-sky-50/40 via-transparent to-blue-50/30 pointer-events-none" />
 
       {/* Content */}
       <div className="relative z-10 mx-auto max-w-7xl px-5 sm:px-8 lg:px-12">
@@ -111,7 +111,7 @@ export function Hero() {
           </div>
 
           {/* Right – Person Image */}
-          <div className="relative w-full max-w-[340px] sm:max-w-[380px] md:max-w-[360px] lg:max-w-[420px]">
+          <div className="relative w-full max-w-85 sm:max-w-85 md:max-w-90 lg:max-w-105">
             {/* Soft glow circle */}
             <div className="absolute -inset-4 rounded-full bg-sky-200/50 blur-2xl" />
             
