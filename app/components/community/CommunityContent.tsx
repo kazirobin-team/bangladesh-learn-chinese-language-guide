@@ -63,7 +63,7 @@ const communityData = {
 
   // Management Team
   managers: [
-    { name: "Jahid Hasan", image: "/assets/community/jahid.png", manages: "General Support & Queries", whatsapp: "8801234567893" },
+    { name: "Jahid Hasan", image: "/assets/community/jahid.png", manages: "General Support & Queries", whatsapp: "8801521751608" },
     { name: "Subrata Sarker", image: "/assets/community/ss.png", manages: "Event Management & Scheduling", whatsapp: "8801681879654" },
     { name: "Mehedi Hasan", image: "/assets/community/jahid.pngmehedi.jpg", manages: "Content Moderation & Quality", whatsapp: "8801234567895" },
     { name: "Nusrat Jahan", image: "/assets/community/jahid.pngnusrat.jpg", manages: "Member Engagement & Feedback", whatsapp: "8801234567896" },
